@@ -9,5 +9,4 @@
 * [Analyze](analyze.md)
 * [Act & Loup Back](act-and-loup-back.md)
 * [Learning](learning.md)
-* Use Cases
 
