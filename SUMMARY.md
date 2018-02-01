@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Setup Guide](chapter1.md)
 * Use Cases
-* Design
+* [Design](design.md)
 * Listen
 * Process Narratives
 * Analyze
