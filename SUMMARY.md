@@ -6,7 +6,7 @@
 * [Design](design.md)
 * [Listen](listen.md)
 * [Process Narratives](process-narratives.md)
-* Analyze
+* [Analyze](analyze.md)
 * Act & Loup Back
 * Learning
 * Use Cases
