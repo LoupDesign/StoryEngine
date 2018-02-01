@@ -4,7 +4,7 @@
 * [Setup Guide](chapter1.md)
 * [Use Cases](use-cases.md)
 * [Design](design.md)
-* Listen
+* [Listen](listen.md)
 * Process Narratives
 * Analyze
 * Act & Loup Back
