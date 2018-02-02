@@ -9,4 +9,5 @@
 * [Act & Loup Back](act-and-loup-back.md)
 * [Learning](learning.md)
 * [History](history.md)
+* [Setup Guide](setup-guide.md)
 
