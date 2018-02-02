@@ -8,6 +8,6 @@
 * [Process Narratives](process-narratives.md)
 * [Analyze](analyze.md)
 * [Act & Loup Back](act-and-loup-back.md)
-* [Learning](learning.md)
-* Setup Checklist
+* [Setup Checklist](setup-checklist.md)
+* History
 
