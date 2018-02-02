@@ -9,5 +9,6 @@
 * [Analyze](analyze.md)
 * [Act & Loup Back](act-and-loup-back.md)
 * [Setup Checklist](setup-checklist.md)
-* History
+* [History](history.md)
+* [Learning](learning.md)
 
