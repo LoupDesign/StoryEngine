@@ -4,7 +4,7 @@ The objective of this phase is to establish your StoryEngine users and purposes,
 
 ## 1. Clarify objectives, users, and purposes
 
-This will likely be a series of workshops, initially with the core team and then expanding to include other stakeholders as you identify and engage them. The idea is to co-create with the people who use the assets and the insights that will be generated — and ensure that they meet their needs. At the end of this step, you'll want to be clear about...
+Set up a series of design workshops, initially with the core team and then expanding to include other stakeholders as you identify and engage them. The idea is to co-create with the people who use the assets and the insights that will be generated — and ensure that they meet their needs. At the end of this step, you'll want to be clear about...
 
 \_\_ **Your StoryEngine purpose\(s\) and learning objectives** — Why are you investing in StoryEngine? What do you want to learn or create? Define what will be generated and what will be different. It may be helpful to review the users in the[ Introduction](/README.md), as well as the examples in the [Use Cases](/use-cases.md).
 
@@ -14,32 +14,19 @@ This will likely be a series of workshops, initially with the core team and then
 
 \_\_ **Team roles and responsibilities **— In short, make sure everyone's on the same page with who is doing what. It can be helpful to create a basic spreadsheet with names, roles, and contact information. And we love using Trello to keep track of who's doing what.
 
-## 2. D**evelop your question set**
+## 2. Draft **your question set**
 
-You’re not going to find the perfect question set right away, but this methodology allows you to update your question set as needed.
+Don't overthink your initial question set. Use the outcomes of your design workshops to come up with something good enough, test it on each other \(or with friends and family\), refine, and then test with two or three participants, and check those results with some of your key stakeholders. Are you getting the information you need? If not, re-write and test again. An iterative process is best. 
 
-Use the information gathered from your Problem Definition Workshop\(s\) and the information below to guide the development of your questions. You’re not going to find the perfect question set right away, but the StoryEngine methodology allows you to update your question set as needed.
+You may have heard people say, "Well, that's anecdotal evidence." But what we are looking for is exactly that. Anecdotes. Specific and detailed examples drawn from experience. So ensure that your questions should be open-ended and that they elicit concrete responses. A formulation we like to use is _**"Tell me about a time when..."**_
 
-* Keep in mind your participants and audience
+Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success." 
 
-* Develop questions that will surface concrete and specific examples of their experiences— add prompts within questions to help people open up \(Example: for Mozilla, we came up with[11 questions](https://storyengine.io/questions/)— including questions that surfaced challenge and success stories, as well as pathways into Mozilla\).
+You can include probes or prompts for follow-up questions. rather than "What are some to elicit concrete and specific examples drawn from experiences— add prompts within questions to help people open up \(Example: for Mozilla, we came up with[11 questions](https://storyengine.io/questions/)— including questions that surfaced challenge and success stories, as well as pathways into Mozilla\).
 
-* Determine the purpose
-
-* * What you would like to know?
-
-  * Why is this important to know?
-* Decide if you are looking to discover or uncover any of the following:
-
-* * Attitude
-
-  * Knowledge
-
-  * Perceptions of knowledge, skills, or behavior
 * Use plain language, free of jargon or acronyms
 
-* Ask non-leading questions— questions that leave the respondent in a position to answer openly and honestly about how they feel \(leading questions are questions that prompt the respondent to answer in a specific way — usually in a way that lines up with your way of thinking\).
-
+* 
 * Ask open-ended questions— prompting the respondent to answer with detail. Specifically, you are looking to ask open-ended questions that lead people to answer with an anecdote. A good way to prompt a person to tell you about a specific time or story is to use the language, “Tell me about a time when…”
 
 * Add probing questions— questions in addition to your primary questions that help the interviewee to answer your question.
@@ -55,6 +42,10 @@ Use the information gathered from your Problem Definition Workshop\(s\) and the 
 Ask family, friends, or colleagues to help you test your question set \(refer to the [Guide to Develop Question Set](https://docs.google.com/document/d/1ZxwAwloIrCGI9nruF8r7k5PQ10gcOXvY9rpD1nsYVTM/edit?usp=sharing) for more info on question testing\).
 
 ## 4. Finalize your i**nterview guide**
+
+It's okay to update your questions as you  go. This will present some challenges in the analysis phase — but it's possible to work through those. Serving your stakeholders by producing usable assets and insights is the priority \(not being rigid and ensuring that the analysis is as easy as possible\). 
+
+
 
 Add your question set to the document and make any other necessary updates and edits to the document that reflect your specific project needs.
 
