@@ -1,6 +1,6 @@
 # Share
 
-Posting the participant's story online is one of the ways StoryEngine give's back to the participant — it's a platform for them to share their story with the world and to connect with other like-minded people in the process. 
+The objective of this phase is to post the participant's story online. Sharing is one of the ways StoryEngine give's back to the participant — it's a platform for them to share their story with the world and to connect with other like-minded people in the process.
 
 ## Sharing tools + services
 
