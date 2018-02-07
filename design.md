@@ -22,15 +22,16 @@ You may have heard people say, "Well, that's anecdotal evidence." But what we ar
 
 | EXAMPLE: "Humans of the Internet" question set |
 | :--- |
-| INTRODUCE yourself to  |
-| **Can you tell me a bit about your work? Perhaps starting with a broad overview, then highlighting what you’re working on now?** _Adjust for students and others, for example you may ask about what "they do" versus work. _ |
-| **Thinking about your work, tell me about a time when you felt a sense of success. **_EXAMPLES: breakthrough, insight, interaction, approach — sense of accomplishment or pride. PROBE for a specific example/anecdote if response is too broad: That’s a great example of a type of success — Can you give me a specific anecdote or example related to that?_ |
-| **How about an example of a challenge? **_EXAMPLES: Persistent or recurring challenge, current issue with work. PROBE for how they’ve approached addressing this challenge. _ |
-| **This space is called “Humans of the Internet”… What — for you — is a “healthy internet”? **_NOTE: Some people find it difficult to answer such a broad question. Emphasize you’re not looking for a “right” answer but their own words. You may need to allow for some silence._ |
-| Can you point to something that makes you feel optimistic for the future of the internet? |
-| How about something that worries you about the internet? |
-| What led you to be here at MozFest today? PROBE for pathways, what is valued, highlights so far |
-| Anything more you want to tell me? Anything you want to ask? |
+| **INTRODUCE YOURSELF** and give a general overview of the purpose of the interview and how long it will take + BUILD RAPPORT by asking about something personal not related to your research \(friends, family, food, an interest\) |
+| 01. **Can you tell me a bit about your work? Perhaps starting with a broad overview, then highlighting what you’re working on now?** _Adjust for students and others, for example you may ask about what "they do" versus work. _ |
+| 02. **Thinking about your work, tell me about a time when you felt a sense of success. **_EXAMPLES: breakthrough, insight, interaction, approach — sense of accomplishment or pride. PROBE for a specific example/anecdote if response is too broad: That’s a great example of a type of success — Can you give me a specific anecdote or example related to that?_ |
+| 03. **How about an example of a challenge? **_EXAMPLES: Persistent or recurring challenge, current issue with work. PROBE for how they’ve approached addressing this challenge. _ |
+| 04. **This space is called “Humans of the Internet”… What — for you — is a “healthy internet”? **_NOTE: Some people find it difficult to answer such a broad question. Emphasize you’re not looking for a “right” answer but their own words. You may need to allow for some silence._ |
+| 05.** Can you point to something that makes you feel optimistic for the future of the internet?** |
+| 06. **How about something that worries you about the internet?** |
+| 07. **What led you to be here at MozFest today?** _PROBE for pathways, what is valued, highlights so far._ |
+| 08. **Anything more you want to tell me? Anything you want to ask?**_ \(Give folks a chance to tell you about something they want to talk about or ask you some questions.\) _ |
+| **CLOSE** the interview by thanking the participant for their time and explaining next steps.  |
 
 Of course, you may also want to include questions that surface knowledge, attitudes, and perceptions. An example of this is "What, for you, is a healthy internet?"
 
