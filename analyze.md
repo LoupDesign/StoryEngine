@@ -1,6 +1,6 @@
 # Analyze
 
-StoryEngine uses Qualitative Data Analysis \(QDA\) to organize and interpret the information in the interviews as to offer insights and understanding on topics of interest. It can provide explanations, interpretation of phenomena, and uncover trends in thought and opinions.
+The objective of this phase is to organize and interpret the information in the interviews and to offer insights and understanding on topics of interest. It can provide explanations, interpretation of phenomena, and uncover trends in thought and opinions.
 
 It’s going to feel messy, and that’s because it is. You’re looking for commonalities, differences, themes, and outliers — what matters to people? Why does it matter? How do people talk about, characterize, understand what’s going on? What surprised you?
 
@@ -33,7 +33,7 @@ Based on notes and coding, synthesize what’s happening in your data. Using you
 
 We recommend formatting your findings based on user needs — what are they trying to accomplish? The Mozilla initial [test report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) was framed based on their “5 Objectives and Key Results.”
 
-**      
+**        
 **
 
 Once you format your findings, you are ready to loop back
