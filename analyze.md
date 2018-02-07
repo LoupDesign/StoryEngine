@@ -1,6 +1,43 @@
 # Analyze
 
-Content coming soon. 
+StoryEngine uses Qualitative Data Analysis \(QDA\) to organize and interpret the information in the interviews as to offer insights and understanding on topics of interest. It can provide explanations, interpretation of phenomena, and uncover trends in thought and opinions.
 
+It’s going to feel messy, and that’s because it is. You’re looking for commonalities, differences, themes, and outliers — what matters to people? Why does it matter? How do people talk about, characterize, understand what’s going on? What surprised you?
+
+Insights from your analysis should be summarized and released periodically.
+
+## **Analytic tools + services**
+
+* Qualitative data analysis tool
+* [Guide to Coding StoryEngine Stories](https://docs.google.com/document/d/1mEQG7CUKEbP09EuCfKagTXZu9csWoOjRarRCDusEwnA/edit?usp=sharing)
+
+## Steps + tasks in the analyze phase
+
+### 1. Choose your qualitative data analysis tool
+
+Find a qualitative coding tool that works for you. We’re currently hacking and testing Hypothes.is, to do our qualitative data analysis. \(Refer to StoryEngine History and Learning for more information on using Hypothes.is\)
+
+### 2. Get to know the stories
+
+Familiarize yourself with the corpus of published stories — skim through, take notes, and then read through the set of stories. Note-taking is especially helpful in determining your coding structure — what ideas, concepts, themes are you seeing?
+
+Code published stories
+
+Use the [Guide to Coding Data](https://docs.google.com/document/d/1mEQG7CUKEbP09EuCfKagTXZu9csWoOjRarRCDusEwnA/edit?usp=sharing) to code published stories.
+
+Analyze and synthesize findings
+
+Based on notes and coding, synthesize what’s happening in your data. Using your preset codes, purposefully look for answers to the questions you documented during the design phase. Then use emergent codes to organize emerging patterns and themes — what surprised you? What did you find that you weren’t looking for?
+
+Format your findings
+
+We recommend formatting your findings based on user needs — what are they trying to accomplish? The Mozilla initial [test report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) was framed based on their “5 Objectives and Key Results.”
+
+**  
+**
+
+**Once you format your findings, you are ready to loop back**
+
+  
 
 
