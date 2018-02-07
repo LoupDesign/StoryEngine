@@ -16,7 +16,7 @@ This will likely be a series of workshops, initially with the core team and then
 
 ## 2. D**evelop your question set**
 
-Use the [Guide to Develop Question Set](https://docs.google.com/document/d/1ZxwAwloIrCGI9nruF8r7k5PQ10gcOXvY9rpD1nsYVTM/edit?usp=sharing) to develop your question set. You’re not going to find the perfect question set right away, but this methodology allows you to update your question set as needed.
+You’re not going to find the perfect question set right away, but this methodology allows you to update your question set as needed.
 
 Use the information gathered from your Problem Definition Workshop\(s\) and the information below to guide the development of your questions. You’re not going to find the perfect question set right away, but the StoryEngine methodology allows you to update your question set as needed.
 
