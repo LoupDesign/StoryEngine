@@ -1,6 +1,6 @@
 # Process Narratives
 
-Processing the audio file is an important part of sharing the participant’s story. The StoryEngine methodology is built to give the participant time to reflect and edit their interview transcript. We find that some people are not as well spoken as others, and others have a hard time sitting down to write out their stories. This process gives participants the opportunity to speak freely in an interview, have the help of an editor to clean up and highlight areas of concern, and reflect and edit their own story before publishing — we want participants to be happy with their stories.**          
+Processing the audio file is an important part of sharing the participant’s story. The StoryEngine methodology is built to give the participant time to reflect and edit their interview transcript. We find that some people are not as well spoken as others, and others have a hard time sitting down to write out their stories. This process gives participants the opportunity to speak freely in an interview, have the help of an editor to clean up and highlight areas of concern, and reflect and edit their own story before publishing — we want participants to be happy with their stories.**              
 **
 
 **IMPORTANT: Any information gathered during this stage should remain confidential, and not shared with anyone else **— not even with others at the organization. Permissions should be kept tight, and the number of people with access should remain minimal — only key personnel, specified at the beginning of the project, should have access.
@@ -9,13 +9,13 @@ Processing the audio file is an important part of sharing the participant’s st
 
 The following is a list of suggested tools, services, hardware, and software — these can be tailored to your organization and used accordingly.
 
-Transcriptions services  
-[StoryEngine tracker — master tracker sheet](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=0&range=E:E)  
-[StoryEngine tracker — transcriptionist tracker sheet](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=1212148835&range=A:A)  
-Google docs  
-[Editing guide](https://docs.google.com/document/d/1U5qTrHLxjW_5B39nCKpxmiFIe6zFkE0LmFydPWoAxXA/edit?usp=sharing)— This tool is especially helpful if you have multiple people editing interviews.  
-[Boilerplate email templates](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing)  
-HelloSign \(or other esignature app\)
+* Transcriptions services
+* [StoryEngine tracker — master tracker sheet](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=0&range=E:E)
+* [StoryEngine tracker — transcriptionist tracker sheet](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=1212148835&range=A:A)
+* Google docs
+* [Editing guide](https://docs.google.com/document/d/1U5qTrHLxjW_5B39nCKpxmiFIe6zFkE0LmFydPWoAxXA/edit?usp=sharing)— This tool is especially helpful if you have multiple people editing interviews.
+* [Boilerplate email templates](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing)
+* HelloSign \(or other esignature app\)
 
 ## **Steps + tasks in the processing phase**
 
@@ -38,6 +38,8 @@ Decide and use appropriate service for transcription of audio files. Use natural
 Once you have the raw transcript saved under the raw transcripts folder, either open that file as a google doc \(should automatically open as a copy\) OR make a copy of the original.
 
 **IMPORTANT: Due to potentially sensitive information, make sure to keep the permissions tight on all google docs associated with this project** —** **“Link Sharing: Off — specific people,” \(Click on Share &gt; Advanced: make sure the following is selected: link sharing off, prevent other editors from changing access and adding new people, disable options to download, print, and copy for commenters and viewers\)
+
+![](https://lh4.googleusercontent.com/cwwlHYtT9_WjDxeEgXfrDRkXGvalxFNvQVK7hRLrwegmzzYIyrBhB2-s1WUGSAwF-vpo-1ui46sdzXtr7z0rxZwgs3qBz8bqFN8DUX0eEU7z-gzwofI4gMI80q0CsCmJPP5oKaap)![](https://lh6.googleusercontent.com/ytCd-RPEHpWuTyGbAQhFZj9MDr0EU5EPMLNa7nCbjcqMrw_kUSazNHyHn9neazR4qPZBRQ3ursO0LYgY1ErtoAShvBaCkUQo9HQmfwutgOFZnIdYMrjOfz_mCiKUA0QeR3iBMTld)
 
 ### 4. **Communicate with participant**
 
@@ -72,8 +74,6 @@ lastname\_firstname\_APPOVED.txt
 1\_Raw\_Transcripts\_NO\_SHARING  
 2\_Processing\_Transcripts\_SHARED\_ONLY\_WITH\_PARTICIPANTS  
 3\_Approved\_Transcripts
-
-
 
 Once you have consent to publish, you are ready to share their story!
 

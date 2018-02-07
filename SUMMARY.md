@@ -7,8 +7,9 @@
 * [Design](design.md)
 * [Listen](listen.md)
 * [Process Narratives](process-narratives.md)
+* [Share](share.md)
 * [Analyze](analyze.md)
 * [Act & Loup Back](act-and-loup-back.md)
 * [Learning](learning.md)
-* Toolkit
+* Share
 

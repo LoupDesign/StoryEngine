@@ -4,7 +4,7 @@ The objective of this phase is to clarify the purpose of your investigation, to 
 
 ## **Design tools + services**
 
-[Guide to develop question set](https://docs.google.com/document/d/1ZxwAwloIrCGI9nruF8r7k5PQ10gcOXvY9rpD1nsYVTM/edit?usp=sharing)
+* [Guide to develop question set](https://docs.google.com/document/d/1ZxwAwloIrCGI9nruF8r7k5PQ10gcOXvY9rpD1nsYVTM/edit?usp=sharing)
 
 ## **Steps + tasks in the design phase **
 
