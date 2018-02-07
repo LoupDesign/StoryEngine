@@ -14,13 +14,23 @@ Set up a series of design workshops, initially with the core team and then expan
 
 \_\_ **Team roles and responsibilities **— In short, make sure everyone's on the same page with who is doing what. It can be helpful to create a basic spreadsheet with names, roles, and contact information. And we love using Trello to keep track of who's doing what.
 
-## 2. Draft  **your question set**
+## 2. Draft and test **your question set**
 
 Don't overthink your initial question set. Use the outcomes of your design workshops to come up with something good enough, test it on each other \(or with friends and family\), refine, and then test with two or three participants, and check those results with some of your key stakeholders. Are you getting the information you need? If not, re-write and test again. An iterative process is best.
 
-You may have heard people say, "Well, that's anecdotal evidence." But what we are looking for is exactly that. Anecdotes. Specific and detailed examples drawn from experience. So ensure that your questions should be open-ended and that they elicit concrete responses. A formulation we like to use is _**"Tell me about a time when..."**_
+You may have heard people say, "Well, that's anecdotal evidence." But what we are looking for is exactly that: anecdotes. _**Specific and detailed examples drawn from experience.**_ So ensure that your questions should be open-ended and that they elicit concrete responses. A formulation we like to use is _**"Tell me about a time when..." **_Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success."
 
-Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success."
+| EXAMPLE: "Humans of the Internet" question set |
+| :--- |
+| Can you tell me a bit about your work? Perhaps starting with a broad overview, then highlighting what you’re working on now?_ADJUST FOR STUDENTS._ |
+| Thinking about your work, tell me about a time when you felt a sense of success. _EXAMPLES: breakthrough, insight, interaction, approach — sense of accomplishment or pride. PROBE for a specific example/anecdote if response is too broad: That’s a great example of a type of success — Can you give me a specific anecdote or example related to that?_ |
+| How about an example of a challenge? _EXAMPLES: Persistent or recurring challenge, current issue with work. PROBE for how they’ve approached addressing this challenge. _ |
+|  |
+|  |
+|  |
+|  |
+
+Of course, you may also want to include questions that surface knowledge, attitudes, and perceptions. An example of this is "What, for you, is a healthy internet?" 
 
 You can include probes or prompts for follow-up questions. rather than "What are some to elicit concrete and specific examples drawn from experiences— add prompts within questions to help people open up \(Example: for Mozilla, we came up with[11 questions](https://storyengine.io/questions/)— including questions that surfaced challenge and success stories, as well as pathways into Mozilla\).
 
