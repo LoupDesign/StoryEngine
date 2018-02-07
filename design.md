@@ -20,7 +20,9 @@ Don't overthink your initial question set. Use the outcomes of your design works
 
 You may have heard people say, "Well, that's anecdotal evidence." But what we are looking for is exactly that: anecdotes. _**Specific and detailed examples drawn from experience.**_ So ensure that your questions should be open-ended and that they elicit concrete responses. A formulation we like to use is \_**"Tell me about a time when..." **\_Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success."
 
-| EXAMPLE: "Humans of the Internet" question set |
+
+
+| EXAMPLE: "[Humans of the Internet](https://storyengine.io/humans/)" question set |
 | :--- |
 | **INTRODUCE YOURSELF** and give a general overview of the purpose of the interview and how long it will take + BUILD RAPPORT by asking about something personal not related to your research \(friends, family, food, an interest\) |
 | 01. **Can you tell me a bit about your work? Perhaps starting with a broad overview, then highlighting what you’re working on now?** _Adjust for students and others, for example you may ask about what "they do" versus work. _ |
@@ -31,7 +33,9 @@ You may have heard people say, "Well, that's anecdotal evidence." But what we ar
 | 06. **How about something that worries you about the internet?** |
 | 07. **What led you to be here at MozFest today?** _PROBE for pathways, what is valued, highlights so far._ |
 | 08. **Anything more you want to tell me? Anything you want to ask?**_ \(Give folks a chance to tell you about something they want to talk about or ask you some questions.\) _ |
-| **CLOSE** the interview by thanking the participant for their time and explaining next steps.  |
+| **CLOSE** the interview by thanking the participant for their time and explaining next steps. |
+
+
 
 Of course, you may also want to include questions that surface knowledge, attitudes, and perceptions. An example of this is "What, for you, is a healthy internet?"
 
