@@ -21,23 +21,20 @@ Find a qualitative coding tool that works for you. We’re currently hacking and
 
 Familiarize yourself with the corpus of published stories — skim through, take notes, and then read through the set of stories. Note-taking is especially helpful in determining your coding structure — what ideas, concepts, themes are you seeing?
 
-Code published stories
+### 3. Code published stories
 
 Use the [Guide to Coding Data](https://docs.google.com/document/d/1mEQG7CUKEbP09EuCfKagTXZu9csWoOjRarRCDusEwnA/edit?usp=sharing) to code published stories.
 
-Analyze and synthesize findings
+### 4. Analyze and synthesize findings
 
 Based on notes and coding, synthesize what’s happening in your data. Using your preset codes, purposefully look for answers to the questions you documented during the design phase. Then use emergent codes to organize emerging patterns and themes — what surprised you? What did you find that you weren’t looking for?
 
-Format your findings
+### 5. Format your findings
 
 We recommend formatting your findings based on user needs — what are they trying to accomplish? The Mozilla initial [test report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) was framed based on their “5 Objectives and Key Results.”
 
-**  
+**    
 **
 
-**Once you format your findings, you are ready to loop back**
-
-  
-
+Once you format your findings, you are ready to loop back
 
