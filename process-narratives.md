@@ -1,6 +1,6 @@
 # Process Narratives
 
-Processing the audio file is an important part of sharing the participant’s story. The StoryEngine methodology is built to give the participant time to reflect and edit their interview transcript. We find that some people are not as well spoken as others, and others have a hard time sitting down to write out their stories. This process gives participants the opportunity to speak freely in an interview, have the help of an editor to clean up and highlight areas of concern, and reflect and edit their own story before publishing — we want participants to be happy with their stories.**                
+Processing the audio file is an important part of sharing the participant’s story. The StoryEngine methodology is built to give the participant time to reflect and edit their interview transcript. We find that some people are not as well spoken as others, and others have a hard time sitting down to write out their stories. This process gives participants the opportunity to speak freely in an interview, have the help of an editor to clean up and highlight areas of concern, and reflect and edit their own story before publishing — we want participants to be happy with their stories.**                  
 **
 
 **IMPORTANT: Any information gathered during this stage should remain confidential, and not shared with anyone else **— not even with others at the organization. Permissions should be kept tight, and the number of people with access should remain minimal — only key personnel, specified at the beginning of the project, should have access.
@@ -59,7 +59,7 @@ Use the [boilerplate email template \(Request for Review\)](https://docs.google.
 
 ### 8. **Request consent to publish**
 
-Once you have heard back from the participant that they have made all the necessary changes and are ready to sign the consent form — use the language from the [boilerplate email template \(Consent to Publish\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing), [Consent to Publish](https://docs.google.com/document/d/1YTlwbnCD3rVbRC689fUl_zWMv4X_8lyzEQZV5S8PvEE/edit?usp=sharing) document, and [HelloSign](https://www.hellosign.com/) \(or other esignature service\), to request consent to publish their story.
+Once you have heard back from the participant that they have made all the necessary changes and are ready to sign the consent form — use the language from the [boilerplate email template \(Consent to Publish\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing), [Consent to Publish template](https://drive.google.com/open?id=1YTlwbnCD3rVbRC689fUl_zWMv4X_8lyzEQZV5S8PvEE), and [HelloSign](https://www.hellosign.com/) \(or other esignature service\), to request consent to publish their story.
 
 ## **Tips for handling transcription files**
 
