@@ -16,14 +16,17 @@ Set up a series of design workshops, initially with the core team and then expan
 
 ## 2. Draft and test **your question set**
 
+### Create, test, repeat
+
 Don't overthink your initial question set. Use the outcomes of your design workshops to come up with something good enough, test it on each other \(or with friends and family\), refine, and then test with two or three participants, and check those results with some of your key stakeholders. Are you getting the information you need? If not, re-write and test again. An iterative process is best.
 
-You may have heard people say, "Well, that's anecdotal evidence." But what we are looking for is exactly that: anecdotes. _**Specific and detailed examples drawn from experience.**_ So ensure that your questions should be open-ended and that they elicit concrete responses. A formulation we like to use is \_**"Tell me about a time when..." **\_Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success."
+You may have heard people say, "Well, that's anecdotal evidence." But what we are looking for is exactly that: anecdotes. _**Specific and detailed examples drawn from experience.**_ So ensure that your questions should be open-ended and that they elicit concrete responses. A formulation we like to use is \_**"Tell me about a time when..." **\_Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success." Of course, you may also want to include questions that surface knowledge, attitudes, and perceptions. An example of this is "What, for you, is a healthy internet?"
 
-#### EXAMPLE: [Humans of the Internet](https://storyengine.io/humans/) question set
+#### EXAMPLE: Humans of the Internet / MozFest 2017
 
-| **INTRODUCE YOURSELF** and give a general overview of the purpose of the interview and how long it will take + BUILD RAPPORT by asking about something personal not related to your research \(friends, family, food, an interest\) |
+| [HUMANS OF THE INTERNET QUESTION SET](https://storyengine.io/humans/) |
 | :--- |
+| INTRODUCE yourself and give a general overview of the purpose of the interview and how long it will take + BUILD RAPPORT by asking about something personal not related to your research \(friends, family, food, an interest\) |
 | 01. **Can you tell me a bit about your work? Perhaps starting with a broad overview, then highlighting what you’re working on now?** _Adjust for students and others, for example you may ask about what "they do" versus work. _ |
 | 02. **Thinking about your work, tell me about a time when you felt a sense of success. **_EXAMPLES: breakthrough, insight, interaction, approach — sense of accomplishment or pride. PROBE for a specific example/anecdote if response is too broad: That’s a great example of a type of success — Can you give me a specific anecdote or example related to that?_ |
 | 03. **How about an example of a challenge? **_EXAMPLES: Persistent or recurring challenge, current issue with work. PROBE for how they’ve approached addressing this challenge. _ |
@@ -34,9 +37,9 @@ You may have heard people say, "Well, that's anecdotal evidence." But what we ar
 | 08. **Anything more you want to tell me? Anything you want to ask?**_ \(Give folks a chance to tell you about something they want to talk about or ask you some questions.\) _ |
 | **CLOSE** the interview by thanking the participant for their time and explaining next steps. |
 
-Of course, you may also want to include questions that surface knowledge, attitudes, and perceptions. An example of this is "What, for you, is a healthy internet?"
 
-You can include probes or prompts for follow-up questions. rather than "What are some to elicit concrete and specific examples drawn from experiences— add prompts within questions to help people open up \(Example: for Mozilla, we came up with[11 questions](https://storyengine.io/questions/)— including questions that surfaced challenge and success stories, as well as pathways into Mozilla\).
+
+Pay attention You can include probes or prompts for follow-up questions. rather than "What are some to elicit concrete and specific examples drawn from experiences— add prompts within questions to help people open up \(Example: for Mozilla, we came up with[11 questions](https://storyengine.io/questions/)— including questions that surfaced challenge and success stories, as well as pathways into Mozilla\).
 
 * Use plain language, free of jargon or acronyms
 
@@ -51,11 +54,9 @@ You can include probes or prompts for follow-up questions. rather than "What are
 
   * After you test the questions with them, ask them how they felt about the interview, whether or not they felt open and willing to talk, and if they have any suggestions to improve the question set.
 
-## 3. **Test your questions**
+## 
 
-Ask family, friends, or colleagues to help you test your question set \(refer to the [Guide to Develop Question Set](https://docs.google.com/document/d/1ZxwAwloIrCGI9nruF8r7k5PQ10gcOXvY9rpD1nsYVTM/edit?usp=sharing) for more info on question testing\).
-
-## 4. Finalize your i**nterview guide**
+## 3. Finalize your i**nterview guide**
 
 It's okay to update your questions as you  go. This will present some challenges in the analysis phase — but it's possible to work through those. Serving your stakeholders by producing usable assets and insights is the priority \(not being rigid and ensuring that the analysis is as easy as possible\).
 
