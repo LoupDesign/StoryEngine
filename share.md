@@ -1,5 +1,7 @@
 # Share
 
+Posting the participant's story online is one of the ways StoryEngine give's back to the participant — it's a platform for them to share their story with the world and to connect with other like-minded people in the process. 
+
 ## Sharing tools + services
 
 The following is a list of suggested tools, services, hardware, and software — these can be tailored to your organization and used accordingly.
@@ -28,9 +30,6 @@ Use [boilerplate email template \(Published Story\)](https://docs.google.com/doc
 ### 4. Update StoryEngine tracker
 
 Keep [master tracker](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=0&range=E:E) sheet up-to-date with the latest information, including a link to the participant’s story.
-
-      
-
 
 After you have published several stories, you are ready to start analysis!
 

@@ -10,21 +10,21 @@ This is the part we most care about, and we’re still figuring out how this wor
 * Workshops
 * Boilerplate email template
 
-## **Steps + tasks in the act + loop back phase**
+## Steps + tasks in the act + loop back phase
 
-Share findings and learning
+#### Share findings and learning
 
 Once you have formatted your findings, you are ready to share them with your audience. Content can be shared in person at board meetings, or distributed through social media, infoletter, email.
 
-Report back to participants
+### Report back to participants
 
 Let the participants know your findings to date.
 
-Use content as a tool
+### Use content as a tool
 
 Use as design thinking tools \(like personas and journey maps\), as research prompts in workshop settings. This content can also be used for infoletters, communications teams,
 
-Inform strategy, practice and innovation
+### Inform strategy, practice and innovation
 
-**—**
+
 

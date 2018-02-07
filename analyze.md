@@ -9,7 +9,7 @@ Insights from your analysis should be summarized and released periodically.
 ## **Analytic tools + services**
 
 * Qualitative data analysis tool
-* [Guide to Coding StoryEngine Stories](https://docs.google.com/document/d/1mEQG7CUKEbP09EuCfKagTXZu9csWoOjRarRCDusEwnA/edit?usp=sharing)
+* [Guide to Coding Stories](https://drive.google.com/open?id=1mEQG7CUKEbP09EuCfKagTXZu9csWoOjRarRCDusEwnA)
 
 ## Steps + tasks in the analyze phase
 
@@ -23,7 +23,7 @@ Familiarize yourself with the corpus of published stories — skim through, take
 
 ### 3. Code published stories
 
-Use the [Guide to Coding Data](https://docs.google.com/document/d/1mEQG7CUKEbP09EuCfKagTXZu9csWoOjRarRCDusEwnA/edit?usp=sharing) to code published stories.
+Use the [Guide to Coding Stories](https://drive.google.com/open?id=1mEQG7CUKEbP09EuCfKagTXZu9csWoOjRarRCDusEwnA) to code published stories.
 
 ### 4. Analyze and synthesize findings
 
@@ -33,7 +33,7 @@ Based on notes and coding, synthesize what’s happening in your data. Using you
 
 We recommend formatting your findings based on user needs — what are they trying to accomplish? The Mozilla initial [test report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) was framed based on their “5 Objectives and Key Results.”
 
-**    
+**      
 **
 
 Once you format your findings, you are ready to loop back
