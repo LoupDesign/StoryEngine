@@ -14,13 +14,13 @@ Set up a series of design workshops, initially with the core team and then expan
 
 \_\_ **Team roles and responsibilities **— In short, make sure everyone's on the same page with who is doing what. It can be helpful to create a basic spreadsheet with names, roles, and contact information. And we love using Trello to keep track of who's doing what.
 
-## 2. Draft **your question set**
+## 2. Draft  **your question set**
 
-Don't overthink your initial question set. Use the outcomes of your design workshops to come up with something good enough, test it on each other \(or with friends and family\), refine, and then test with two or three participants, and check those results with some of your key stakeholders. Are you getting the information you need? If not, re-write and test again. An iterative process is best. 
+Don't overthink your initial question set. Use the outcomes of your design workshops to come up with something good enough, test it on each other \(or with friends and family\), refine, and then test with two or three participants, and check those results with some of your key stakeholders. Are you getting the information you need? If not, re-write and test again. An iterative process is best.
 
 You may have heard people say, "Well, that's anecdotal evidence." But what we are looking for is exactly that. Anecdotes. Specific and detailed examples drawn from experience. So ensure that your questions should be open-ended and that they elicit concrete responses. A formulation we like to use is _**"Tell me about a time when..."**_
 
-Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success." 
+Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success."
 
 You can include probes or prompts for follow-up questions. rather than "What are some to elicit concrete and specific examples drawn from experiences— add prompts within questions to help people open up \(Example: for Mozilla, we came up with[11 questions](https://storyengine.io/questions/)— including questions that surfaced challenge and success stories, as well as pathways into Mozilla\).
 
@@ -43,9 +43,7 @@ Ask family, friends, or colleagues to help you test your question set \(refer to
 
 ## 4. Finalize your i**nterview guide**
 
-It's okay to update your questions as you  go. This will present some challenges in the analysis phase — but it's possible to work through those. Serving your stakeholders by producing usable assets and insights is the priority \(not being rigid and ensuring that the analysis is as easy as possible\). 
-
-
+It's okay to update your questions as you  go. This will present some challenges in the analysis phase — but it's possible to work through those. Serving your stakeholders by producing usable assets and insights is the priority \(not being rigid and ensuring that the analysis is as easy as possible\).
 
 Add your question set to the document and make any other necessary updates and edits to the document that reflect your specific project needs.
 
