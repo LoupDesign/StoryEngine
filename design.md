@@ -47,11 +47,9 @@ Then, check the results / responses from the initial tests with your key stakeho
 
 ## 3. Finalize your i**nterview guide**
 
-Based on all of this feedback it's time to finalize you question guide. For the StoryEngine pilot, we posted the questions online, using the project website. We were able to point participants to the question set when they felt nervous about the interview. The idea is not to surprise interviewees ­— but rather to create space for reflection. 
+Based on all of this feedback it's time to finalize you question guide. For the StoryEngine pilot, we posted the questions online, on the project website. This way, we were able to point participants to the question set when they felt nervous about the interview. The idea is not to surprise interviewees ­— but rather to _**create space for reflection**_.
 
-It's okay to update your questions as you go. This will present some challenges in the analysis phase — but it's possible to work through those. Serving your stakeholders by producing usable assets and insights is the priority \(not being rigid and ensuring that the analysis is as easy as possible\).
-
-Add your question set to the document and make any other necessary updates and edits to the document that reflect your specific project needs.
+Finally, it's okay to update your questions as you go. This will present some challenges in the analysis phase; it's possible to work through them. Serving your stakeholders by producing usable assets and insights is the priority — _not_ being rigid and ensuring that the analysis is as easy as possible.
 
 Once you have your set of questions and your interview guide, you’re ready to listen!
 
