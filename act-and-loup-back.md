@@ -1,6 +1,6 @@
 # Act & Loop Back
 
-Use content to inform strategy, practice, & innovation — how might you adapt strategies and practices? There are so many ways we see this content being used to inform and actualize change!
+The objective of this phase is to use the insights gained from the analysis phase to inform strategy, practice, & innovation.
 
 This is the part we most care about, and we’re still figuring out how this works! We welcome your ideas and suggestions — reach out to us at StoryEngine@loup.design with your suggestions.
 
