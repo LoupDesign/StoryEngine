@@ -9,7 +9,6 @@
 * [5. Analyze](analyze.md)
 * [6. Act & Loup Back](act-and-loup-back.md)
 * [Learning](learning.md)
-* Share
+* [Share](share.md)
 * [Use Cases](use-cases.md)
-* [Setup Checklist](setup-checklist.md)
 
