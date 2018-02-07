@@ -18,19 +18,21 @@ Set up a series of design workshops, initially with the core team and then expan
 
 Don't overthink your initial question set. Use the outcomes of your design workshops to come up with something good enough, test it on each other \(or with friends and family\), refine, and then test with two or three participants, and check those results with some of your key stakeholders. Are you getting the information you need? If not, re-write and test again. An iterative process is best.
 
-You may have heard people say, "Well, that's anecdotal evidence." But what we are looking for is exactly that: anecdotes. _**Specific and detailed examples drawn from experience.**_ So ensure that your questions should be open-ended and that they elicit concrete responses. A formulation we like to use is _**"Tell me about a time when..." **_Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success."
+You may have heard people say, "Well, that's anecdotal evidence." But what we are looking for is exactly that: anecdotes. _**Specific and detailed examples drawn from experience.**_ So ensure that your questions should be open-ended and that they elicit concrete responses. A formulation we like to use is \_**"Tell me about a time when..." **\_Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success."
 
 | EXAMPLE: "Humans of the Internet" question set |
 | :--- |
-| Can you tell me a bit about your work? Perhaps starting with a broad overview, then highlighting what you’re working on now?_ADJUST FOR STUDENTS._ |
-| Thinking about your work, tell me about a time when you felt a sense of success. _EXAMPLES: breakthrough, insight, interaction, approach — sense of accomplishment or pride. PROBE for a specific example/anecdote if response is too broad: That’s a great example of a type of success — Can you give me a specific anecdote or example related to that?_ |
-| How about an example of a challenge? _EXAMPLES: Persistent or recurring challenge, current issue with work. PROBE for how they’ve approached addressing this challenge. _ |
-|  |
-|  |
-|  |
-|  |
+| INTRODUCE yourself to  |
+| **Can you tell me a bit about your work? Perhaps starting with a broad overview, then highlighting what you’re working on now?** _Adjust for students and others, for example you may ask about what "they do" versus work. _ |
+| **Thinking about your work, tell me about a time when you felt a sense of success. **_EXAMPLES: breakthrough, insight, interaction, approach — sense of accomplishment or pride. PROBE for a specific example/anecdote if response is too broad: That’s a great example of a type of success — Can you give me a specific anecdote or example related to that?_ |
+| **How about an example of a challenge? **_EXAMPLES: Persistent or recurring challenge, current issue with work. PROBE for how they’ve approached addressing this challenge. _ |
+| **This space is called “Humans of the Internet”… What — for you — is a “healthy internet”? **_NOTE: Some people find it difficult to answer such a broad question. Emphasize you’re not looking for a “right” answer but their own words. You may need to allow for some silence._ |
+| Can you point to something that makes you feel optimistic for the future of the internet? |
+| How about something that worries you about the internet? |
+| What led you to be here at MozFest today? PROBE for pathways, what is valued, highlights so far |
+| Anything more you want to tell me? Anything you want to ask? |
 
-Of course, you may also want to include questions that surface knowledge, attitudes, and perceptions. An example of this is "What, for you, is a healthy internet?" 
+Of course, you may also want to include questions that surface knowledge, attitudes, and perceptions. An example of this is "What, for you, is a healthy internet?"
 
 You can include probes or prompts for follow-up questions. rather than "What are some to elicit concrete and specific examples drawn from experiences— add prompts within questions to help people open up \(Example: for Mozilla, we came up with[11 questions](https://storyengine.io/questions/)— including questions that surfaced challenge and success stories, as well as pathways into Mozilla\).
 
