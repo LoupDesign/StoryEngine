@@ -37,15 +37,19 @@ You may have heard people say, "Well, that's anecdotal evidence." But what we ar
 | 08. **Anything more you want to tell me? Anything you want to ask?**_ \(Give folks a chance to tell you about something they want to talk about or ask you some questions.\) _ |
 | _**CLOSE** the interview by thanking the participant for their time and explaining next steps._ |
 
-### Ask test participants about their experience & check responses with users
+_**NOTE **that with a typical question set we let participants know up front that we will use the notes/transcript to create a story that they can then change any way they want. This is a key element of the StoryEngine methodology — giving people time to reflect and ensure that their story reflects what they want to say. This also helps folks who are more introverted or who find it challenging to articulate their thoughts and experiences. This is not present in the Humans of the Internet question set because it was set up as a podcast lounge at at event — all participants were briefed that their interview would be published immediately during the event. _
+
+### Ask participants about their experience & check responses with users
 
 After you test the questions with participants, ask them how they felt about the interview, whether or not they felt open and willing to talk, and if they have any suggestions to improve the question set.
 
-Then, check the results / responses from the initial tests with your key stakeholders and ask for feedback. Ask specifically whether or not the questions are surfacing the types of information they're looking for, as well as providing the right level of detail. \(Be careful — this is not about the substance of the response; focus on the general type of content.\) 
+Then, check the results / responses from the initial tests with your key stakeholders and ask for feedback. Ask specifically whether or not the questions are surfacing the types of information they're looking for, as well as providing the right level of detail. \(Be careful — this is not about the substance of the response; focus on the general type of content.\)
 
 ## 3. Finalize your i**nterview guide**
 
-It's okay to update your questions as you  go. This will present some challenges in the analysis phase — but it's possible to work through those. Serving your stakeholders by producing usable assets and insights is the priority \(not being rigid and ensuring that the analysis is as easy as possible\).
+Based on all of this feedback it's time to finalize you question guide. For the StoryEngine pilot, we posted the questions online, using the project website. We were able to point participants to the question set when they felt nervous about the interview. The idea is not to surprise interviewees ­— but rather to create space for reflection. 
+
+It's okay to update your questions as you go. This will present some challenges in the analysis phase — but it's possible to work through those. Serving your stakeholders by producing usable assets and insights is the priority \(not being rigid and ensuring that the analysis is as easy as possible\).
 
 Add your question set to the document and make any other necessary updates and edits to the document that reflect your specific project needs.
 
