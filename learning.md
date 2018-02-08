@@ -2,15 +2,15 @@
 
 ## **Why did we develop StoryEngine?**
 
-Because we saw an opportunity to scratch a particular itch.We wanted something that would allow us to achieve three distinct goals through a single tool and process.
+**Because we saw an opportunity to scratch a particular itch.** We wanted something that would allow us to achieve three distinct goals through a single tool and process.
 
-### **Contemporary organizations need to do three things well:**
+Contemporary organizations need to do three things well:
 
 1. **Listen to the people they serve.** Instead of making guesses or relying on faulty assumptions, organizations need systematic ways to actually listen to the people they are trying to help, on a regular and ongoing basis.\(Feeds into: learning, design thinking, becoming more “customer-centric, etc.\)
 
 2. **Tell a clear story about impact.** Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                              
+3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
