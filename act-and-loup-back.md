@@ -24,6 +24,8 @@ As noted above, the answer depends on your users and purposes. Action will likel
 
 # Action & Loop Back tools & templates
 
+[Read the StoryEngine Learning & History chapter](/learning.md) — there are important lessons there!
+
 Closing the loop
 
 * [The Fund for Shared Insight, Feedback Practice Knowledge](https://www.fundforsharedinsight.org/knowledge/?t=feedback-practice#knowledge-tabs|1)
