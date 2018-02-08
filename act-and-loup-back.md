@@ -24,6 +24,24 @@ Let the participants know your findings to date.
 
 Use as design thinking tools \(like personas and journey maps\), as research prompts in workshop settings. This content can also be used for infoletters, communications teams,
 
+https://toolkit.mozilla.org/
+
+http://diytoolkit.org/
+
+[https://dschool.stanford.edu/resources/](https://dschool.stanford.edu/resources/)
+
+http://www.designkit.org/
+
+http://www.servicedesigntools.org/
+
+https://strategyzer.com/
+
+http://www.thedesigngym.com/resources/
+
+https://methods.18f.gov/
+
+https://www.thisisservicedesigndoing.com/methods  http://thisisservicedesignthinking.com/
+
 ### Inform strategy, practice and innovation
 
 
