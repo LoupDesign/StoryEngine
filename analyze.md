@@ -1,20 +1,14 @@
 # Analyze
 
-The objective of the Analysis phase is to surface insights and learning that meet your user's needs in terms of both content and format, as established during the Design phase workshops. That said, we're always delighted when an analysis generates surprises — something we didn't consider or know previously. 
+The objective of the Analysis phase is to surface insights and learning that meet your user's needs in terms of both content and format, as established during the Design phase workshops. That said, we're always delighted when an analysis generates surprises — something we didn't consider or know previously.
 
-You can use any qualitative data analysis method or tools to analyze the corpus \(your set of stories\). Analysis is going to feel messy — that’s because it is. You’re looking for commonalities, differences, themes, and outliers — What matters to people? Why does it matter? How do people talk about, characterize, understand what’s going on? 
+You can use any qualitative data analysis method or tools to analyze the corpus \(your set of stories\). No matter what approach you use, analysis is going to feel messy. Because it is. There's a lot of information to sift through. You’re looking for commonalities, differences, themes, and outliers — What matters to people? Why does it matter? How do people talk about, characterize, understand what’s going on?
 
-What surprised you?
-
-
-
-
+During the pilot phase some Mozilla staff took the initiative to conduct their own analysis to inform their work. We heard that the analytic process was not smooth — but that it was super important, especially when done in collaboration with team members because then everyone had ownership over the findings.  
 
 We recommend using both preset and emergent codes — preset codes are codes assigned to ideas, concepts, or themes you expect to find during analysis, and emergent codes are codes assigned to ideas, concepts, and themes as they emerge in your analysis.
 
 .  in various ways, ranging from a high-level report to The objective of this phase is to organize and interpret the information in the interviews and to offer insights and understanding on topics of interest. It can provide explanations, interpretation of phenomena, and uncover trends in thought and opinions.
-
-
 
 Insights from your analysis should be summarized and released periodically.
 
@@ -41,8 +35,6 @@ This document serves to guide you through the coding of StoryEngine data. StoryE
 
 A code is a short word or phrase assigned to an idea, concept, or theme. Coding your data is an essential part of performing qualitative data analysis — it helps you organize, sort, and visualize your data. It is iterative and will change as your analysis and work progresses.
 
-
-
 ## Coding your data
 
 Assign identifier information to each interview— Decide what identifier information is important and assign identifier information accordingly. Examples of identifiers you might use: gender of participant, date of interview, age of participant, location of participant’s residence, and participant’s profession.
@@ -53,7 +45,7 @@ Use emergent codes to capture emerging ideas, concepts, and themes— As you mak
 
 Remember, coding is iterative and will change as your analysis and work progresses. This is especially true for emergent codes. You may find yourself combing back through interviews to make changes to your coding structure. For example, you may have coded passages of text in several interviews as “disagreement,” and in passages of text of other interviews as “dispute,” but later you realize that these two codes represent the same idea, so you synthesize your coding structure so that all “dispute” and “disagreement” codes are now “disagreement.”
 
-**      
+**        
 **
 
 ### 4. Analyze and synthesize findings
@@ -64,7 +56,7 @@ Based on notes and coding, synthesize what’s happening in your data. Using you
 
 We recommend formatting your findings based on user needs — what are they trying to accomplish? The Mozilla initial [test report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) was framed based on their “5 Objectives and Key Results.”
 
-**                
+**                  
 **
 
 Once you format your findings, you are ready to loop back
