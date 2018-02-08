@@ -41,17 +41,19 @@ _**NOTE **that with a typical question set we let participants know up front tha
 
 ### Ask participants about their experience & check responses with users
 
-After you test the questions with participants, ask them how they felt about the interview, whether or not they felt open and willing to talk, and if they have any suggestions to improve the question set.
+After you test the questions with participants, step back and ask them how they felt about the interview. Were they comfortable? Able to express themselves? Which points were challenging or frustrating? What did they like? See if they have any suggestions on how the question set might be improved.
 
-Then, check the results / responses from the initial tests with your key stakeholders and ask for feedback. Ask specifically whether or not the questions are surfacing the types of information they're looking for, as well as providing the right level of detail. \(Be careful — this is not about the substance of the response; focus on the general type of content.\)
+Then, check the results / responses from the initial tests with your key stakeholders and ask for feedback. Ask specifically whether or not the questions are surfacing the types of information they're looking for, and providing the right level of detail. \(Be careful — this is not about the substance of the response; focus on the general type of content.\)
 
 ## 3. Finalize your i**nterview guide**
 
-Based on all of this feedback it's time to finalize you question guide. For the StoryEngine pilot, we posted the questions online, on the project website. This way, we were able to point participants to the question set when they felt nervous about the interview. The idea is not to surprise interviewees ­— but rather to _**create space for reflection**_.
+Based on all of this feedback it's time to finalize your questions. For the StoryEngine pilot, we posted the questions on the project website. This way, we were able to point participants to the question set when they felt nervous or wondered how to prepare for their interview. We are okay with sharing questions in advance because our goal is to _**create space for reflection**_.
 
-Finally, it's okay to update your questions as you go. This will present some challenges in the analysis phase; it's possible to work through them. Serving your stakeholders by producing usable assets and insights is the priority — _not_ being rigid and ensuring that the analysis is as easy as possible.
+Create an interview guide. [This template](https://docs.google.com/document/d/1RsEg7EkmdZnHE3s8gQG5CuYKzRJmgOTSO87wK6XsRrM/edit?usp=sharing) also includes guidance for staff and others acting as interviewers..  
 
-Once you have your set of questions and your interview guide, you’re ready to listen!
+Finally... _**it's okay to update your questions as you learn**_. This will present some challenges in the analysis phase; it's possible to work through them. Serving your stakeholders by producing usable assets and insights is the priority — _not_ being rigid and ensuring that the analysis is as easy as possible.
+
+Now that you have your set of questions and your interview guide, you’re ready to do some deep listening!
 
 # Design tools & templates
 
