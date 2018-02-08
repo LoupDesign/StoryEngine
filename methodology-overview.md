@@ -4,7 +4,7 @@
 >   
 > _— Michael Quinn Patton, Kate McKegg, and Nan Wehipeihana \(editors\), Developmental Evaluation Exemplars: Principles in Practice, Guilford Publications, 2016, p.12._
 
-StoryEngine is influenced by narrative research methods \(Most Significant Change, [Global Giving’s Storytelling Project](https://www.globalgiving.org/story-tools/), [CognitiveEdge’s SenseMaker](http://cognitive-edge.com/sensemaker/), and [TASCHA’s evidence narratives](http://tascha.uw.edu/collections/evidence-narratives/)\) and participatory principles. It also draws on [grounded theory](http://betterevaluation.org/evaluation-options/thematiccoding), [developmental evaluation](http://betterevaluation.org/plan/approach/developmental_evaluation), and utilzation-focused evaluation. Our aim: to better understand what is different now \(impacts\), how change is happening, and how we might design or adapt our strategies and practices.
+StoryEngine is influenced by narrative research methods \([Most Significant Change](http://www.betterevaluation.org/en/plan/approach/most_significant_change), [Global Giving’s Storytelling Project](https://www.globalgiving.org/story-tools/), [CognitiveEdge’s SenseMaker](http://cognitive-edge.com/sensemaker/), and [TASCHA’s evidence narratives](http://tascha.uw.edu/collections/evidence-narratives/)\) and participatory principles. It also draws on [grounded theory](http://betterevaluation.org/evaluation-options/thematiccoding), [developmental evaluation](http://betterevaluation.org/plan/approach/developmental_evaluation), and [utilization-focused evaluation](http://www.betterevaluation.org/en/plan/approach/utilization_focused_evaluation). Our aim: to better understand what is different now \(impacts\), how change is happening, and how we might design or adapt our strategies and practices.
 
 ## Giving back
 
@@ -14,9 +14,9 @@ Unless otherwise noted, all stories are shared under a [Creative Commons Attribu
 
 ## Sampling
 
-For Mozilla, we used purposeful sampling, focusing on foundation partners, fellows, volunteers, and people and organizations in the broader Mozilla ecosystem. We actively sought out respondents from different programs, initiatives, demographic groups, and geographies. Our sampling evolved during the pilot, and included staff tip submissions, individuals submitting their own stories, and snowball sampling.
+For Mozilla, we used purposeful sampling, focusing on foundation partners, fellows, volunteers, and people and organizations in the broader Mozilla ecosystem. We actively sought out respondents from different programs, initiatives, demographic groups, and geographies. Our sampling evolved during the pilot, and included staff tip submissions, individuals submitting their own stories, and snowball sampling.
 
-StoryEngine was also designed to analyze stories drawn from content on the open web, such as community-generated blogs, podcasts, or videos. At this stage, however, we have only analyzed a corpus composed of participant interviews. 
+StoryEngine was also designed to analyze stories drawn from content on the open web, such as community-generated blogs, podcasts, or videos. At this stage, however, we have only analyzed a corpus composed of participant interviews.
 
 ## Six key steps
 
