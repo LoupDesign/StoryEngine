@@ -4,7 +4,7 @@ StoryEngine is a narrative-based methodology that can be used for research, eval
 
 StoryEngine was specifically designed to serve organizational learning and innovation, power feedback loops, and provide insights to guide strategy and design decisions. Most importantly, it recognizes that _**an interview is an experience **_— a touchpoint with an organization — and therefore an opportunity to build relationships, provide support, and make connections.
 
-StoryEngine begins uses in-depth interviews to draft impact narratives that are then co-edited in collaboration with each participant. These narratives can then be used to** generate assets** — for marketing and communications, advocacy, onboarding, and more — while together forming a dataset that can be analyzed to surface **insights and learning.**
+StoryEngine uses in-depth interviews to draft impact narratives that are then co-edited in collaboration with each participant. These narratives can then be used to** generate assets** — for marketing and communications, advocacy, onboarding, and more — while together forming a dataset that can be analyzed to surface **insights and learning.**
 
 ![](/assets/Interviews-Assets-Insights.png)
 
