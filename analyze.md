@@ -4,7 +4,9 @@ The objective of the Analysis phase is to surface insights and learning that mee
 
 You can use any qualitative data analysis method or tools to analyze the corpus \(your set of stories\). No matter what approach you use, analysis is going to feel messy. Because it is. There's a lot of information to sift through. You’re looking for commonalities, differences, themes, and outliers — What matters to people? Why does it matter? How do people talk about, characterize, understand what’s going on?
 
-During the pilot phase some Mozilla staff took the initiative to conduct their own analysis to inform their work. We heard that the analytic process was not smooth — but that it was super important, especially when done in collaboration with team members because then everyone had ownership over the findings.  
+Analysis can be outsourced, however there are benefits to doing it in-house. During the StoryEngine pilot some Mozilla staff took the initiative to conduct their own analysis to guide decisions they needed to make work. We heard that the analytic process was not smooth — but that it was super important to engage with the messiness and the volume of information, especially when done in collaboration with team members because then everyone had ownership over the findings and were highly motivated to use them.
+
+It's also possible to do mini-analyses of the stories that were published over the course of a month, a quarter, or after, say, every 10 stories. Likewise, you can do quick analyses on specific themes. During the pilot, we experimented with releasing 
 
 We recommend using both preset and emergent codes — preset codes are codes assigned to ideas, concepts, or themes you expect to find during analysis, and emergent codes are codes assigned to ideas, concepts, and themes as they emerge in your analysis.
 
@@ -45,7 +47,7 @@ Use emergent codes to capture emerging ideas, concepts, and themes— As you mak
 
 Remember, coding is iterative and will change as your analysis and work progresses. This is especially true for emergent codes. You may find yourself combing back through interviews to make changes to your coding structure. For example, you may have coded passages of text in several interviews as “disagreement,” and in passages of text of other interviews as “dispute,” but later you realize that these two codes represent the same idea, so you synthesize your coding structure so that all “dispute” and “disagreement” codes are now “disagreement.”
 
-**        
+**          
 **
 
 ### 4. Analyze and synthesize findings
@@ -56,7 +58,7 @@ Based on notes and coding, synthesize what’s happening in your data. Using you
 
 We recommend formatting your findings based on user needs — what are they trying to accomplish? The Mozilla initial [test report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) was framed based on their “5 Objectives and Key Results.”
 
-**                  
+**                    
 **
 
 Once you format your findings, you are ready to loop back
