@@ -20,11 +20,11 @@ Find a qualitative data analysis \(QDA\) tool that works for you. It can be as s
 
 _NOTE: Our goal is for respondents to be able see how their words were being interpreted, and provide them the opportunity to feedback or add additional thoughts. We also liked the idea of open-on-the-web QDA. While a spreadsheet can be shared and commented on, we also tested _[_Hypothes.is_](https://web.hypothes.is/)_, an open and free web annotation tool. Hypothes.is is currently installed on StoryEngine.io to enable this. We also spoke with Hypothes.is leadership to let them know what we wanted to to and ask about emerging features. At this point it's not robust enough to be used for rigorous data analysis, although it is possible to create a controlled set of tags and export annotations and tags into a spreadsheet so they can be manipulated. We also learned about the practice of _[_"Annotatathons" — view notes with examples _](https://docs.google.com/document/d/13gp-AZCUR3Kr-YQzFUtowfHlAiCYDRhnz6o_zhGW7Mg/edit?usp=sharing)_— a promising approach to engagement and collaborative sensemaking._
 
-We'd love to see some resources put towards advancing the features that would make Hypothes.is a viable open, QDA tool! 
+We'd love to see some resources put towards advancing the features that would make Hypothes.is a viable open, QDA tool!
 
 ## 2. Get to know the stories
 
-Familiarize yourself with the corpus of published stories — skim through, take notes, and then read through the set of stories. Note-taking is especially helpful in determining your coding structure — what ideas, concepts, themes are you seeing?
+Familiarize yourself with the corpus — skim through, take notes, and then read through the set of stories. Note-taking is especially helpful in determining your coding structure — what ideas, concepts, themes are you seeing?
 
 ## 3. Code published stories
 
