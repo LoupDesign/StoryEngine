@@ -4,7 +4,11 @@ The objective of the Analysis phase is to surface insights and learning that mee
 
 You can use any qualitative data analysis method or tools to analyze the corpus \(your set of stories\). No matter what approach you use, analysis is going to feel messy. Because it is. There's a lot of information to sift through. You’re looking for commonalities, differences, themes, and outliers — What matters to people? Why does it matter? How do people talk about, characterize, understand what’s going on?
 
-Analysis can be outsourced, however there are benefits to doing it in-house. During the StoryEngine pilot some Mozilla staff took the initiative to conduct their own analysis to guide decisions they needed to make work. We heard that the analytic process was not smooth — but that it was super important to engage with the messiness and the volume of information, especially when done in collaboration with team members because then everyone had ownership over the findings and were highly motivated to use them.
+Analysis can be outsourced, however there are benefits to doing it in-house. During the StoryEngine pilot, some Mozilla staff took the initiative to conduct their own analysis to guide decisions they needed to make work. We heard that although the analytic process was not smooth — it's hard work! — it was productive and important to engage with the messiness and the volume of information, especially when done in collaboration with team members because then everyone had ownership over the findings and were highly motivated to use them.
+
+#### Example: A Realtime Board screenshot based on an analysis of StoryEngine stories, part of the process of developing personas
+
+![](/assets/tais-realtime-board-excerpt.png)
 
 It's also possible to do mini-analyses of the stories that were published over the course of a month, a quarter, or after, say, every 10 stories. Likewise, you can do quick analyses on specific themes. For example, during the pilot we experimented with releasing a newsletter for Mozilla staff — “[**\#InternetHealth Heroes**](https://facilitatingchange.createsend.com/campaigns/reports/viewCampaign.aspx?d=r&c=3572FEA40F08679E&ID=04D544022AFF77A52540EF23F30FEDED&temp=False&tx=0)” — which was well received. Creating it also provided an opportunity to investigate all the places where StoryEngine content has been used and shared — my participants as well as others.
 
@@ -21,6 +25,8 @@ Familiarize yourself with the corpus of published stories — skim through, take
 ## 3. Code published stories
 
 We recommend using both preset and emergent codes — preset codes are codes assigned to ideas, concepts, or themes you expect to find during analysis, and emergent codes are codes assigned to ideas, concepts, and themes as they emerge in your analysis. This document serves to guide you through the coding of StoryEngine data. StoryEngine is an ongoing learning process designed to surface concrete and specific examples of people’s experiences that provide insights to the questions you developed. It should also surface things you weren’t expecting to find — these surprises are just as important.
+
+![](/assets/spreadsheet_analysis_example.png)
 
 ### What is a code?
 
@@ -48,7 +54,7 @@ Now that your learning and insights are in a usable format, you're ready to [Act
 
 # Analysis tools & templates
 
-[StoryEngine Data Structure & Analysis Test Results](https://docs.google.com/spreadsheets/d/1RK1Bp8d0WzovwMwmuGzINM2HN_7bQfaW8egcdjT-dUQ/edit?usp=sharing) — Spreadsheet with a proposed data structure for better online display and filtering of participant attributes, questions, topics, and tags.  
+[StoryEngine Data Structure & Analysis Test Results](https://docs.google.com/spreadsheets/d/1RK1Bp8d0WzovwMwmuGzINM2HN_7bQfaW8egcdjT-dUQ/edit?usp=sharing) — Spreadsheet with a proposed data structure for better online display and filtering of participant attributes, questions, topics, and tags.
 
-[Using Excel to Organize Qualitative Data for Analysis ](https://drive.google.com/file/d/1zDpZVfIGPe93Ni5y-aPF1q-F3tyzwl6l/view?usp=sharing)— Written by Susan Eliot \(now retired\). A simple yet effective way to use a spreadsheet to conduct analysis. We used Google Spreadsheets instead. 
+[Using Excel to Organize Qualitative Data for Analysis ](https://drive.google.com/file/d/1zDpZVfIGPe93Ni5y-aPF1q-F3tyzwl6l/view?usp=sharing)— Written by Susan Eliot \(now retired\). A simple yet effective way to use a spreadsheet to conduct analysis. We used Google Spreadsheets instead.
 
