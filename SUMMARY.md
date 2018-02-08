@@ -9,7 +9,6 @@
 * [5. Analyze](analyze.md)
 * [6. Act & Loup Back](act-and-loup-back.md)
 * [Learning](learning.md)
-  *[Why did we develop StoryEngine](Learning.md/why-did-we-develop-storyengine.md)
 * [Share](share.md)
 * [Use Cases](use-cases.md)
 
