@@ -8,7 +8,7 @@
 * [4. Share](share.md)
 * [5. Analyze](analyze.md)
 * [6. Act & Loup Back](act-and-loup-back.md)
-* [Learning](learning.md)
+* [Learning & History](learning.md)
 * [Share](share.md)
 * [Use Cases](use-cases.md)
 
