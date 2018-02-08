@@ -1,6 +1,6 @@
 # Design
 
-The objective of this phase is to establish your StoryEngine users and purposes, identify participants and other stakeholders, and finalize your question set. It assumes that you have already had a kickoff meeting to launch the project.
+The objective of the design phase is to establish your StoryEngine users and purposes, identify participants and other stakeholders, and finalize your question set. It assumes that you have already had a kickoff meeting to launch the project.
 
 ## 1. Clarify objectives, users, and purposes
 
