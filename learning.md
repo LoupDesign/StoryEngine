@@ -10,14 +10,14 @@ Contemporary organizations need to do three things well:
 
 2. **Tell a clear story about impact.** Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                  
+3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                      
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
 
 * **Communications **— inspiring stories from the field make for great communications assets. They can feed into blog posts, press releases, social media, etc, and add emotional punch to storytelling by putting a human face on complex issues and campaigns.
 
-* **Monitoring and evaluation **—qualitative stories and data can add richness and depth to quantitative metrics, telling a clearer story about the impact the organization is having in the world.
+* **Monitoring and evaluation **— qualitative stories and data can add richness and depth to quantitative metrics, telling a clearer story about the impact the organization is having in the world.
 
 * **Organizational learning** — once we collect enough stories, we can begin to identify patterns and insights in what we’re hearing. And then: make program improvements, refine the program’s value proposition, etc.
 
@@ -57,13 +57,13 @@ We found traditional methods for doing these things — like personal intuition 
 
 **Photos **— After speaking to legal, we realized participants may not have permission to use photos of themselves if they were taken by someone else, so we tightened up the photo release permissions within the consent to publish form, to ensure they have explicit permission to use the photos.
 
-**Google forms to HelloSign **—Because we deal with sensitive information, we decided to utilize a more secure way of sending, receiving, and online storing of consent forms. We researched affordable services and decided on HelloSign. We recognize other esignature services are available and already used by your organization. We recommend choosing your services with the following criteria in mind: privacy + security, storage capabilities, and pre-existing services.
+**Google forms to HelloSign **— Because we deal with sensitive information, we decided to utilize a more secure way of sending, receiving, and online storing of consent forms. We researched affordable services and decided on HelloSign. We recognize other esignature services are available and already used by your organization. We recommend choosing your services with the following criteria in mind: privacy + security, storage capabilities, and pre-existing services.
 
 **Google docs** — We find using Google drive, Google docs, and Google sheets extremely useful for the StoryEngine process. It allows for us to collaborate on different pieces of the project with specific people. However, we learned that link sharing was too easily turned on accidentally, and permissions were too easily changed by other editors. To prevent this from happening and to keep docs more secure, we suggest the following:
 
 All people with access to StoryEngine documents should enable two-factor authentication on the email accounts associated with the Google doc. This will help minimize unauthorized access to their account or the Google docs associated with their account.
 
-The owner of StoryEngine Google docs should adequately monitor permissions. At the creation of any new Google doc, be sure to keep link sharing off, prevent other editors from changing access and adding new people, and disable options to download, print, and copy for commenters and viewers. \(Detailed instructions can be found in the [StoryEngine Process](https://docs.google.com/document/d/1uN57dXWtCA3pC7BNRQxYrHPCb2YGG4QbOsgXsgC-WOY/edit?usp=sharing) document\).
+The owner of StoryEngine Google docs should adequately monitor permissions. At the creation of any new Google doc, be sure to keep link sharing off, prevent other editors from changing access and adding new people, and disable options to download, print, and copy for commenters and viewers. \(Detailed instructions can be found [here](/share.md)\)
 
 #### **Important things to remember**
 
