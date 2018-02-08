@@ -38,11 +38,11 @@ A code is a short word or phrase assigned to an idea, concept, or theme. Coding 
 
 ### Coding your data
 
-Assign identifier information to each interview— Decide what identifier information is important and assign identifier information accordingly. Examples of identifiers you might use: gender of participant, date of interview, age of participant, location of participant’s residence, and participant’s profession.
+Assign identifier information to each interview — Decide what identifier information is important and assign identifier information accordingly. Examples of identifiers you might use: gender of participant, date of interview, age of participant, location of participant’s residence, and participant’s profession.
 
-Determine preset codes and code your data set accordingly— Use your questions and notes to develop preset codes and initial coding structure — note that your coding structure will continue to develop over the coding process. Preset codes should cover ideas, concepts, and themes you expect to find based on the design of your questions — they will generally pop up in every interview, as the questions are specifically designed to uncover them. For example — we used the preset code, “success,” to identify passages of text in response to the question, “Tell me about a time you felt a sense of success.”
+Determine preset codes and code your data set accordingly — Use your questions and notes to develop preset codes and initial coding structure — note that your coding structure will continue to develop over the coding process. Preset codes should cover ideas, concepts, and themes you expect to find based on the design of your questions — they will generally pop up in every interview, as the questions are specifically designed to uncover them. For example — we used the preset code, “success,” to identify passages of text in response to the question, “Tell me about a time you felt a sense of success.”
 
-Use emergent codes to capture emerging ideas, concepts, and themes— As you make your way through the corpus, remember to utilize emergent codes to capture the things you didn’t expect to find.
+Use emergent codes to capture emerging ideas, concepts, and themes — As you make your way through the corpus, remember to utilize emergent codes to capture the things you didn’t expect to find.
 
 Remember, coding is iterative and will change as your analysis and work progresses. This is especially true for emergent codes. You may find yourself combing back through interviews to make changes to your coding structure. For example, you may have coded passages of text in several interviews as “disagreement,” and in passages of text of other interviews as “dispute,” but later you realize that these two codes represent the same idea, so you synthesize your coding structure so that all “dispute” and “disagreement” codes are now “disagreement.”
 
