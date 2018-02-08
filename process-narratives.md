@@ -1,6 +1,6 @@
 # Process Narratives
 
-The objective of the Processing phase is to generate a story that the participant is happy with and that can be shared, used to generate assets, and added to the corpus for analysis. The StoryEngine methodology is designed to create space for reflection.  Some people find it hard to articulate their thoughts or are less well-spoken, others need time to consider what they want to say,  and some folks are simply tired or not on their A-game during their interview. We want to give participants the opportunity to relax and speak freely in an interview, and subsequently get the help of someone who can edit their words for flow and clarity, highlight areas of concern, and work with them to ensure their story reflects what they want to say. **                                  
+The objective of the Processing phase is to generate a story that the participant is happy with and that can be shared, used to generate assets, and added to the corpus for analysis. The StoryEngine methodology is designed to create space for reflection.  Some people find it hard to articulate their thoughts or are less well-spoken, others need time to consider what they want to say,  and some folks are simply tired or not on their A-game during their interview. We want to give participants the opportunity to relax and speak freely in an interview, and subsequently get the help of someone who can edit their words for flow and clarity, highlight areas of concern, and work with them to ensure their story reflects what they want to say. **                                    
 **
 
 **IMPORTANT: Any information gathered during this stage should remain confidential, and not shared with anyone else **— not even with others at the organization. Permissions should be kept tight, and the number of people with access should remain minimal — only key personnel, specified at the beginning of the project, should have access.
@@ -59,7 +59,7 @@ Use the [boilerplate email template \(Request for Review\)](https://docs.google.
 
 ## 8. **Request consent to publish**
 
-Once you have heard back from the participant that they have made all the necessary changes and are ready to sign the consent form — use the language from the [boilerplate email template \(Consent to Publish\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing), [Consent to Publish template](https://drive.google.com/open?id=1YTlwbnCD3rVbRC689fUl_zWMv4X_8lyzEQZV5S8PvEE), and [HelloSign](https://www.hellosign.com/) \(or other e-signature service\), to request consent to publish their story.
+Once you have heard back from the participant that they have made all the necessary changes and are ready to sign the consent form — use the language from the [boilerplate email template \(Consent to Publish\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing) along with the [Consent to Publish template](https://drive.google.com/open?id=1YTlwbnCD3rVbRC689fUl_zWMv4X_8lyzEQZV5S8PvEE) and [HelloSign](https://www.hellosign.com/) \(or other e-signature service\) to request consent to publish their story.
 
 Once you have consent to publish, you are ready to share their story!
 
