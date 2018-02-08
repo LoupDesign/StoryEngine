@@ -8,7 +8,7 @@
 
 2. **Tell a clear story about impact.** Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                                  
+3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                                    
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
@@ -101,7 +101,7 @@ The current question set was designed to surface the following:
 
 ### From RQDA to Hypothes.is, and beyond
 
-**The first round of analysis was done using RQDA** — an open source qualitative data analysis program. While we appreciated the openness of RQDA, we found ourselves looking for tools that were easier to use for non-techies — and more collaborative. We developed the following criteria to assess tools: 
+**The first round of analysis was done using RQDA** — an open source qualitative data analysis program. While we appreciated the openness of RQDA, we found ourselves looking for tools that were easier to use for non-techies — and more collaborative. We developed the following criteria to assess tools:
 
 * **Ease of use **— The ability to use program without significant training.
 * **Affordability** — The ability for most organizations to afford the tool.
@@ -118,6 +118,8 @@ While we do not recommend Hypothes.is as a tool for complete packaged analysis, 
 * Add and filter by attributes \(metadata / "descriptors"\)
 * See all annotations on search page without clicking on each one to expand
 * The ability to sort information in a variety of ways
+
+We'd love to see some resources put towards advancing the features that would make Hypothes.is a viable open QDA tool!
 
 [See the Analyze chapter for more details and recommendations.](/analyze.md)
 
