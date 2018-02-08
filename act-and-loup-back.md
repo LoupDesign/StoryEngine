@@ -1,20 +1,20 @@
 # Act & Loop Back
 
-The Act & Loop is phase is focused on using and applying StoryEngine insights to strategy, practice, and design. \(It may be helpful at this point to review "[One process that delivers value to multiple stakeholders](/README.md)" in the Introduction.\) How insights are used depends on the objectives set up during the Design phase — although you can expect uses that you had not considered to emerge, especially if stories and the StoryEngine process have been well promoted.
+The Act & Loop is phase is focused on using and applying StoryEngine insights to strategy, practice, and design. \(It may be helpful at this point to review "[One process that delivers value to multiple stakeholders](/README.md)" in the Introduction.\) How insights are used depends on the objectives agreed on during the Design phase — although you can expect uses that you had not considered to emerge as well as requests for different uses, especially if stories and the StoryEngine process have been well promoted.
 
 ![](/assets/full_storyengine_process_BIG.png)
 
 ## Act: StoryEngine as design research
 
-StoryEngine emerged from participatory and human centered design \(HCD\) practices, and it is particularly well suited to deliver the insights required for the initial discovery / inspiration / empathize phase of an innovation or design thinking process. There are many well-documented HCD / design thinking guides \(we've listed a few at the bottom of this chapter\). Pick the one that works for your team  our intent is not to duplicate thoseIt is not our
+StoryEngine emerged from participatory and human centered design \(HCD\) practices, and it is particularly well suited to deliver the insights required for the initial discovery / inspiration / empathize phase. There are many well-documented HCD / design thinking guides and toolkits \(we've listed a few at the bottom of this chapter\). As suggested in the Design phase, if StoryEngine is part of a broader innovation or design thinking process, it is best to have discussed and selected that from the outset — and to have included and engaged key stakeholders in early on. 
 
 ##### Example: The phases of a design thinking process tailored to K-12 educators, from [_Design Thinking for Educators_](https://designthinkingforeducators.com/) — StoryEngine would serve the Discovery and Interpretation steps
 
 ![](/assets/Design-Thinking-for-Education_.png)
 
-## A platform for ongoing engagement and inquiry
+## Loop back: A platform for ongoing engagement and inquiry
 
-Unlike most design research methods \(and there are many\), StoryEngine is designed to be ongoing — to serve as a platform for inquiry, feedback, and deep listening and engagement with the people who matter most. Another difference is that we emphasize the importance of feedback as yet another way to deliver value to research participants, and to demonstrate that their voices and thoughts matter ­— and have impact. Acknowledging and elevating diverse voices is key to this work.
+Unlike most design research methods \(and there are many\), StoryEngine is designed to be ongoing — to serve as a platform for inquiry, feedback, and deep listening and engagement with the people who matter most. Another difference is that we emphasize the importance of looping back as yet another way to deliver value to research participants, and to demonstrate that their voices and thoughts matter ­— and have impact. Acknowledging and elevating diverse voices is key to this work. To dig into this a bit deeper, read [_**Building a Better Feedback Loop: How deep listening and storytelling help organizations thrive**_](https://medium.com/weseek/building-a-better-feedback-loop-764022914aa), which is all about the StoryEngine methodology and .
 
 #### The structure of this
 
