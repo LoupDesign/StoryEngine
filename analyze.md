@@ -52,13 +52,13 @@ Based on notes and coding, synthesize what you're learning. Using your preset co
 
 ## 5. Package your findings for use
 
-We recommend formatting your findings based on user needs — as established during the Design phase. For example, the initial StoryEngine [pilot report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) for the Mozilla Foundation was framed and organized around their already-established strategic objectives and key results. Findings can also be packaged as personas, journey maps, timelines, and more — it all depends on what works for your users. 
+We recommend formatting your findings based on user needs — as established during the Design phase. For example, the initial StoryEngine [pilot report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) for the Mozilla Foundation was framed and organized around their already-established strategic objectives and key results. Findings can also be packaged as personas, journey maps, timelines, and more — it all depends on what works for your users.
 
-#### Example: Front and back of a persona card developed my the Mozilla Foundation design team, based on their analysis of StoryEngine data and existing strategy documents![](/assets/persona-selby-front.png)
+#### Example: Front and back of a persona card developed my the Mozilla Foundation design team, based on their analysis of StoryEngine data and existing strategy documents
 
 #### ![](/assets/persona-selby-front.png)
 
-#### ![](/assets/persona-selby-front.png)![](/assets/persona-sebly-back.png)
+#### ![](/assets/persona-sebly-back.png)
 
 Now that your learning and insights are in a usable format, you're ready to [Act & Loup Back](/act-and-loup-back.md).
 
