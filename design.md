@@ -20,6 +20,8 @@ Set up a series of design workshops, initially with the core team and then expan
 
 Don't overthink your initial question set. Use the outcomes of your design workshops to come up with something good enough, test it on each other \(or with friends and family\), refine, and then test with two or three participants. Are you getting the information you need? If not, re-write and test again. An iterative process is best.
 
+NOTE: You'll also need to consider what kind of metadata or "descriptors" you'd like to collect for each participant and include a way to collect that, either through questions or email. A list of potential descriptors is on the [Data Structure / Descriptors tab](https://docs.google.com/spreadsheets/d/1RK1Bp8d0WzovwMwmuGzINM2HN_7bQfaW8egcdjT-dUQ/) of the StoryEngine Data Structure & Analysis Test Results spreadsheet. 
+
 You may have heard people say, "Well, that's anecdotal evidence." But what we are looking for is exactly that: anecdotes. _**Specific and detailed examples drawn from experience.**_ So ensure that your questions should be open-ended and that they elicit concrete responses. A formulation we like to use is \_**"Tell me about a time when..." **\_Some participants might find this difficult, and will respond a with high-level, general statement — rather than a particular moment in time. For example, in the Mozilla pilot, we asked "Tell me about a time when you felt a sense of success." Of course, you may also want to include questions that surface knowledge, attitudes, and perceptions. An example of this is "What, for you, is a healthy internet?"
 
 #### EXAMPLE: Humans of the Internet / MozFest 2017
@@ -58,4 +60,6 @@ Now that you have your set of questions and your interview guide, you’re ready
 # Design tools & templates
 
 [Interview Guide Template](https://docs.google.com/document/d/1RsEg7EkmdZnHE3s8gQG5CuYKzRJmgOTSO87wK6XsRrM/edit?usp=sharing)
+
+[Data Structure / Descriptors tab — StoryEngine Data Structure & Analysis Test Results ](https://www.gitbook.com/book/loup/storyengine/edit#)\(spreadsheet\)
 
