@@ -24,7 +24,7 @@ We'd love to see some resources put towards advancing the features that would ma
 
 ## 2. Get to know the stories
 
-Familiarize yourself with the corpus — skim through, take notes, and then read through the set of stories. Note-taking is especially helpful in determining your coding structure — what ideas, concepts, themes are you seeing?
+Familiarize yourself with the corpus \(the set of stories you'll be analyzing\) by first skimming through the whole thing. Then, read through more carefully. Taking notes at each pass is especially helpful to help refine your approach and coding structure. Ask: What ideas, concepts, themes are you seeing?
 
 ## 3. Code published stories
 
