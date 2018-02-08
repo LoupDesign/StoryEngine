@@ -8,7 +8,7 @@
 
 2. **Tell a clear story about impact.** Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                                
+3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                                  
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
@@ -101,35 +101,25 @@ The current question set was designed to surface the following:
 
 ### From RQDA to Hypothes.is, and beyond
 
-**The first round of analysis was done using RQDA** — an open source qualitative data analysis system. While we appreciated the openness of RQDA, we found ourselves looking for alternative analysis tools and ways of interpreting the qualitative data.
+**The first round of analysis was done using RQDA** — an open source qualitative data analysis program. While we appreciated the openness of RQDA, we found ourselves looking for tools that were easier to use for non-techies — and more collaborative. We developed the following criteria to assess tools: 
 
-In our research of tools to use, we thought about our needs and came up with the following:
+* **Ease of use **— The ability to use program without significant training.
+* **Affordability** — The ability for most organizations to afford the tool.
+* **Online collaboration** — The ability for teams to collaborate in real-time.
+* **Open-on-the-web QDA** — The ability for respondents to be able to see how their words are being interpreted, and provide the opportunity for feedback and additional thoughts.
+* **Sorting information** — The ability to organize information in a wide variety of ways to better understand the data.
 
-**Ease of use **— The ability to use program without significant training.
+**We tested **[**Hypothes.is**](/hypothes.is) — an open and free web annotation tool. While the tool is not designed for qualitative data analysis, we found liked the ability to highlight, tag, and discuss passages of text online. Hypothes.is is currently installed on StoryEngine.io to enable this. We also spoke with Hypothes.is leadership to let them know what we wanted to to and ask about emerging features. At this point it's not robust enough to be used for rigorous data analysis, although it is possible to create a controlled set of tags and export annotations and tags into a spreadsheet so they can be manipulated. We also learned about the practice of ["Annotatathons" — view notes with examples](https://www.gitbook.com/book/loup/storyengine/edit#) — a promising approach to engagement and collaborative sensemaking.
 
-**Affordability** — The ability for most organizations to afford the tool.
-
-**Online collaboration** — The ability for teams to collaborate in real-time
-
-**Open-on-the-web QDA** — The ability for respondents to be able to see how their words are being interpreted, and provide the opportunity for feedback and additional thoughts.
-
-**Sorting information** — The ability to organize information in a wide variety of ways to better understand the data.
-
-**We tested **[**Hypothes.is**](/hypothes.is) — an open and free web annotation tool. While the tool is not designed for analysis, we found usefulness in the ability to highlight and tag passages of text online. While a spreadsheet can be shared and commented on, we also tested[Hypothes.is](https://www.gitbook.com/book/loup/storyengine/edit#), an open and free web annotation tool. Hypothes.is is currently installed on StoryEngine.io to enable this.
-
-We also spoke with Hypothes.is leadership to let them know what we wanted to to and ask about emerging features. At this point it's not robust enough to be used for rigorous data analysis, although it is possible to create a controlled set of tags and export annotations and tags into a spreadsheet so they can be manipulated. We also learned about the practice of ["Annotatathons" — view notes with examples](https://www.gitbook.com/book/loup/storyengine/edit#) — a promising approach to engagement and collaborative sensemaking.
-
-While we do not recommend Hypothes.is as a tool for complete packaged analysis, we note its usefulness in using a top-down analysis approach, the ability to use a closed set of tags, and in creating a quote database.
+While we do not recommend Hypothes.is as a tool for complete packaged analysis, we note its usefulness in for a top-down tagging of text using a closed set of tags. This would be especially useful to create a quick-and-dirty quote database.
 
 **Hypothes.is challenges to date **— Here are the areas where we'd like to see more development happen.
 
-* The ability to filter by attributes
-* The ability to see all annotations on search page without clicking on each one to expand
+* Add and filter by attributes \(metadata / "descriptors"\)
+* See all annotations on search page without clicking on each one to expand
 * The ability to sort information in a variety of ways
 
-#### Recommendations for future analysis
-
-Think about your needs and find a qualitative data analysis \(QDA\) tool that works for you. It can be as simple as as spreadsheet \(see [Using Excel to Organize Qualitative Data for Analysis](https://www.gitbook.com/book/loup/storyengine/edit#)\) or something more complex like [RQDA](http://rqda.r-forge.r-project.org/) \(free and open source\) or [Dedoose](http://www.dedoose.com/) \(proprietary yet affordable; good collaboration features\).
+[See the Analyze chapter for more details and recommendations.](/analyze.md)
 
 # Where is StoryEngine now?
 
