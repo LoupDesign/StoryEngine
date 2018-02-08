@@ -20,17 +20,11 @@ Unlike most design research methods, StoryEngine is can be ongoing — to serve 
 
 ## How should we approach this phase?
 
-As noted above, the answer depends on your users and purposes. Action will likely be a series of design or strategy workshops where StoryEngine learning and insights are used and applied in practical ways. \[NOTE: As the methodology evolves we plan to share workshop templates to make this easy for you.\] Efforts to loop back mean communicating directly with participants, as well as creating opportunities for ongoing reflection and discussion. When you communicate about story edits in the [Process Narratives](/process-narratives.md) phase, you'll have plenty of opportunities to ask participants if they'd like to receive updates — and via what channels. For member- or network-driven organizations, updates can be integrated into existing channels, and events provide an excellent opportunity to share StoryEngine findings and facilitate discussion about possible actions and next steps.  
+As noted above, the answer depends on your users and purposes. Action will likely be a series of design or strategy workshops where StoryEngine learning and insights are used and applied in practical ways. \[NOTE: As the methodology evolves we plan to share workshop templates to make this easy for you.\] Efforts to loop back mean communicating directly with participants, as well as creating opportunities for ongoing reflection and discussion. When you communicate about story edits in the [Process Narratives](/process-narratives.md) phase, you'll have plenty of opportunities to ask participants if they'd like to receive updates — and via what channels. For member- or network-driven organizations, updates can be integrated into existing channels, and events provide an excellent opportunity to share StoryEngine findings and facilitate discussion about possible actions and next steps.
 
-#### The structure of this
+# Action & Loop Back tools & templates
 
-### Report back to participants
-
-Let the participants know your findings to date.
-
-### Use content as a tool
-
-Use as design thinking tools \(like personas and journey maps\), as research prompts in workshop settings. This content can also be used for infoletters, communications teams,
+https://www.fundforsharedinsight.org/knowledge/?t=feedback-practice\#knowledge-tabs\|1
 
 [https://toolkit.mozilla.org/](https://toolkit.mozilla.org/)
 
