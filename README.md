@@ -21,7 +21,7 @@ StoryEngine can generate value across an organization — as well as for researc
 * Conference organizers and attendees 
 * Recruiting and onboarding / human resources teams 
 
-For more detail on each of these use cases, read the Introduction to the StoryEngine Guide. 
+For more detail on each of these use cases, read the Introduction to the [StoryEngine Guide](https://loup.gitbooks.io/storyengine/content/). 
 
 # Resources required
 To use StoryEngine, you will need: 
@@ -80,7 +80,7 @@ If you’d like to contribute to advancing the StoryEngine methodology, please c
 * Users who want to test StoryEngine and share back learnings
 
 # I want to use StoryEngine!
-If you’ve made it this far in the ReadMe doc, you may want to try using StoryEngine. Next step: read the StoryEngine Guide. Please submit any questions via GitHub issues so they can be properly documented.
+If you’ve made it this far in the ReadMe doc, you may want to try using StoryEngine. Next step: read the [StoryEngine Guide](https://loup.gitbooks.io/storyengine/content/). Please submit any questions via GitHub issues so they can be properly documented.
 
 # The obligatory disclaimer...
 All information regarding StoryEngine is provided to the best of Loup’s knowledge and is believed to be accurate. Your use and application of the suggested methods and recommended products are beyond our control (duh!). There is no warranty regarding the accuracy of any given data or statements. Loup specifically disclaims any responsibility or liability relating to the use of any of the methods and products recommended and shall, under no circumstances whatsoever, be liable for any special, incidental, or consequential damages which may arise from such use.
