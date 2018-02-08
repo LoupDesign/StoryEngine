@@ -8,7 +8,7 @@
 
 2. **Tell a clear story about impact.** Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                              
+3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                                
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
@@ -91,12 +91,12 @@ The owner of StoryEngine Google docs should adequately monitor permissions. At t
 
 The StoryEngine dataset is limited by the questions set, choices made at the time of design, and direction around whom to interview. Analysis of the corpus \(set of interviews\) can only reflect information found based on the questions asked and people interviewed.
 
-The first round of interviews done for Mozilla aimed to surface general work, successes, challenges, Mozilla pathway/experience, perceptions around internet health and working open, and emerging needs. Interviewees represented a slice of the Mozilla universe, with a strong focus on the [Mozilla Network 50](https://foundation.mozilla.org/opportunity/network-50/) and fellowships \(Open Science, Open Web\). As Mozilla shifts their goals and needs, so should the questions asked and the people interviewed.
+The first round of interviews done for Mozilla aimed to surface general work, successes, challenges, Mozilla pathway/experience, perceptions around internet health and working open, and emerging needs. Interviewees represented a slice of the Mozilla universe, with a strong focus on the [Mozilla Network 50](https://foundation.mozilla.org/opportunity/network-50/) and fellowships \(Open Science, Open Web\). As an organization shifts their goals and needs, so should the questions asked and the people interviewed.
 
 The current question set was designed to surface the following:
 
 * [**Internet Health Issues**](https://www.mozilla.org/en-US/internet-health/) — In order to serve Mozilla staff quickly, we first review the texts for content that illuminates current internet health issues \(Decentralization, Digital Inclusion, Online Privacy & Security, Web Literacy\), with the aim of collecting examples and quotes. View Mozilla’s [Internet Health Report »](https://internethealthreport.org/)
-* **Impact** — We also look for reports of impact: What has changed for this person or their organization? How? This coding is iterative and will evolve as our work progresses.
+* **Impact** — We also look for reports of impact: What has changed for this person or their organization? How? This coding is iterative and will evolve as work progresses.
 * **Artifacts** — Tools, approaches, methods — generally “things” network leaders make or use are coded so that they can be flagged as potentially useful to others.
 
 ### From RQDA to Hypothes.is, and beyond
