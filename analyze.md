@@ -16,7 +16,13 @@ What follows is our approach to conducting analysis. It's a lightweight guide ba
 
 ## 1. Choose your qualitative data analysis tool
 
-Find a qualitative data analysis \(QDA\) tool that works for you. It can be as simple as as spreadsheet \(see [Using Excel to Organize Qualitative Data for Analysis](https://www.gitbook.com/book/loup/storyengine/edit#)\) or something more complex like [RQDA](http://rqda.r-forge.r-project.org/) \(free and open source\) or [Dedoose](http://www.dedoose.com/) \(proprietary yet affordable; good collaboration features\).  qualitative coding tool that works for you. We’re currently hacking and testing Hypothes.is, to do our qualitative data analysis. \(Refer to StoryEngine History and Learning for more information on using Hypothes.is\)
+Find a qualitative data analysis \(QDA\) tool that works for you. It can be as simple as as spreadsheet \(see [Using Excel to Organize Qualitative Data for Analysis](https://www.gitbook.com/book/loup/storyengine/edit#)\) or something more complex like [RQDA](http://rqda.r-forge.r-project.org/) \(free and open source\) or [Dedoose](http://www.dedoose.com/) \(proprietary yet affordable; good collaboration features\). 
+
+NOTE: We had the idea of wanting respondents to see how their words were being interpreted, and provide them the opportunity to feedback or add additional thoughts. We also liked the idea of open-on-the-web QDA. We tested Hypothes.is, an open and free web annotation service. Hypothes.is is currently installed on StoryEngine.io to enable this. We also spoke with Hypothes.is leadership to let them know what we wanted to to and ask about emerging features. While 
+
+
+
+ for this purpose qualitative coding tool that works for you. We’re currently hacking and testing Hypothes.is, to do our qualitative data analysis. \(Refer to StoryEngine History and Learning for more information on using Hypothes.is\)
 
 ## 2. Get to know the stories
 
