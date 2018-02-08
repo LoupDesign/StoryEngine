@@ -1,6 +1,6 @@
 # Share
 
-The objective of the sharing phase is to post the participant's story online, promote the hell out of it, and generally celebrate their generosity and awesomeness. Sharing is one of the key ways we give back to our participants. In the pilot, we created a simple WordPress site that we used as a central repository for all of the stories. Increasingly, participants used it to discover other participant's stories and find like-minded people.
+The objective of the Sharing phase is to post the participant's story online, promote the hell out of it, and generally celebrate their generosity and awesomeness. Sharing is one of the key ways we give back to our participants. In the pilot, we created a simple WordPress site that we used as a central repository for all of the stories. Increasingly, participants used it to discover other participant's stories and find like-minded people.
 
 ## 1. Publish the story online
 

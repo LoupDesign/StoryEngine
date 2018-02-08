@@ -1,8 +1,24 @@
 # Act & Loop Back
 
-The objective of this phase is to use the insights gained from the analysis phase to inform strategy, practice, & innovation.
+The Act & Loop is phase is focused on using and applying StoryEngine insights to strategy, practice, and design. \(It may be helpful at this point to review "[One process that delivers value to multiple stakeholders](/README.md)" in the Introduction.\) How insights are used depends on the objectives set up during the Design phase — although you can expect uses that you had not considered to emerge, especially if stories and the StoryEngine process have been well promoted .
 
-This is the part we most care about, and we’re still figuring out how this works! We welcome your ideas and suggestions — reach out to us at StoryEngine@loup.design with your suggestions.
+StoryEngine emerged from participatory and human centered design \(HCD\) practices, and it is particularly well suited to deliver the insights required for the initial discovery / inspiration / empathize phase — basically the first phase of a design thinking / HCD process. Unlike most design research methods, StoryEngine is designed to be ongoing — a platform for deep listening and engagement with the people who matter most, as well as as for inquiry and feedback throughout the design process. 
+
+
+
+ these are all called different . It is easy to surface robust customer profiles and journey maps from narratives. More importantly, StoryEngine is different from other methods in that it is non-extractive — it includes ways to generate value to participants — and can provide a platform for 
+
+
+
+StoryEngine is essentially a design research methodology  The best design research is not a one-off activity conducted at the beginning of a project. Rather, Loup sees research as an opportunity for deep listening and ongoing engagement — for developing long-term relationships. Because of this, Loup seeks to create meaningful, valuable, and delightful research experiences — 
+
+from the participants
+
+’
+
+ perspective
+
+. We have succeeded when participants use research outputs to meet their own needs and when feedback loops are adopted and integrated into organizational practices. 
 
 ![](/assets/full_storyengine_process_BIG.png)
 
