@@ -24,23 +24,23 @@ As noted above, the answer depends on your users and purposes. Action will likel
 
 # Action & Loop Back tools & templates
 
-https://www.fundforsharedinsight.org/knowledge/?t=feedback-practice\#knowledge-tabs\|1
+Closing the loop
 
-[https://toolkit.mozilla.org/](https://toolkit.mozilla.org/)
+* [The Fund for Shared Insight, Feedback Practice Knowledge](https://www.fundforsharedinsight.org/knowledge/?t=feedback-practice#knowledge-tabs|1)
+* [Building a Better Feedback Loop: How deep listening and storytelling help organizations thrive](https://www.gitbook.com/book/loup/storyengine/edit#)
+* [Keystone Accountability, Constituent Voice content](https://keystoneaccountability.org/tag/constituent-voice/)
 
-[http://diytoolkit.org/](http://diytoolkit.org/)
+HCD / design thinking \[these will be annotated\]
 
-[https://dschool.stanford.edu/resources/](https://dschool.stanford.edu/resources/)
+* [https://toolkit.mozilla.org/](https://toolkit.mozilla.org/)
+* [http://diytoolkit.org/](http://diytoolkit.org/)
+* [https://dschool.stanford.edu/resources/](https://dschool.stanford.edu/resources/)
+* [http://www.designkit.org/](http://www.designkit.org/)
+* [http://www.servicedesigntools.org/](http://www.servicedesigntools.org/)
+* [https://strategyzer.com/](https://strategyzer.com/)
+* [http://www.thedesigngym.com/resources/](http://www.thedesigngym.com/resources/)
+* [https://methods.18f.gov/](https://methods.18f.gov/)
+* [https://www.thisisservicedesigndoing.com/methods](https://www.thisisservicedesigndoing.com/methods) 
 
-[http://www.designkit.org/](http://www.designkit.org/)
 
-[http://www.servicedesigntools.org/](http://www.servicedesigntools.org/)
-
-[https://strategyzer.com/](https://strategyzer.com/)
-
-[http://www.thedesigngym.com/resources/](http://www.thedesigngym.com/resources/)
-
-[https://methods.18f.gov/](https://methods.18f.gov/)
-
-[https://www.thisisservicedesigndoing.com/methods](https://www.thisisservicedesigndoing.com/methods)  [http://thisisservicedesignthinking.com/](http://thisisservicedesignthinking.com/)
 
