@@ -48,5 +48,7 @@ Now that your learning and insights are in a usable format, you're ready to [Act
 
 # Analysis tools & templates
 
-[StoryEngine Data Structure & Analysis Test Results](https://docs.google.com/spreadsheets/d/1RK1Bp8d0WzovwMwmuGzINM2HN_7bQfaW8egcdjT-dUQ/edit?usp=sharing) — Spreadsheet with a proposed data structure for better online display and filtering of participant attributes, questions, topics, and tags.  website that could filter and s
+[StoryEngine Data Structure & Analysis Test Results](https://docs.google.com/spreadsheets/d/1RK1Bp8d0WzovwMwmuGzINM2HN_7bQfaW8egcdjT-dUQ/edit?usp=sharing) — Spreadsheet with a proposed data structure for better online display and filtering of participant attributes, questions, topics, and tags.  
+
+[Using Excel to Organize Qualitative Data for Analysis ](https://drive.google.com/file/d/1zDpZVfIGPe93Ni5y-aPF1q-F3tyzwl6l/view?usp=sharing)— Written by Susan Eliot \(now retired\). A simple yet effective way to use a spreadsheet to conduct analysis. We used Google Spreadsheets instead. 
 
