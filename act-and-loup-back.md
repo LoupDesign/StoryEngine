@@ -4,9 +4,11 @@ The Act & Loop is phase is focused on using and applying StoryEngine insights to
 
 ![](/assets/full_storyengine_process_BIG.png)
 
-## Act: StoryEngine as design research
+## 
 
-StoryEngine emerged from participatory and human centered design \(HCD\) practices, and it is particularly well suited to deliver the insights required for the initial discovery / inspiration / empathize phase. There are many well-documented HCD / design thinking guides and toolkits \(we've listed a few at the bottom of this chapter\). As suggested in the Design phase, if StoryEngine is part of a broader innovation or design thinking process, it is best to have discussed and selected that from the outset — and to have included and engaged key stakeholders in early on. 
+## Act: StoryEngine as part of a broader design process
+
+StoryEngine emerged from participatory and human centered design \(HCD\) practices. As a design research methodology, it is particularly well suited to deliver the insights required for the initial discovery / inspiration / empathize phase. There are many well-documented HCD / design thinking guides and toolkits \(we've listed a few at the bottom of this chapter\), and so we won't duplicate that work here. As suggested in the Design phase, if one of the purposes of establishing a StoryEngine is to guide a broader innovation or design thinking process, then it is best \(but not necessary\) to have discussed and selected that from the outset — and to have included and engaged key stakeholders in early on.
 
 ##### Example: The phases of a design thinking process tailored to K-12 educators, from [_Design Thinking for Educators_](https://designthinkingforeducators.com/) — StoryEngine would serve the Discovery and Interpretation steps
 
@@ -14,7 +16,11 @@ StoryEngine emerged from participatory and human centered design \(HCD\) practic
 
 ## Loop back: A platform for ongoing engagement and inquiry
 
-Unlike most design research methods \(and there are many\), StoryEngine is designed to be ongoing — to serve as a platform for inquiry, feedback, and deep listening and engagement with the people who matter most. Another difference is that we emphasize the importance of looping back as yet another way to deliver value to research participants, and to demonstrate that their voices and thoughts matter ­— and have impact. Acknowledging and elevating diverse voices is key to this work. To dig into this a bit deeper, read [_**Building a Better Feedback Loop: How deep listening and storytelling help organizations thrive**_](https://medium.com/weseek/building-a-better-feedback-loop-764022914aa), which is all about the StoryEngine methodology and .
+Unlike most design research methods, StoryEngine is can be ongoing — to serve as a platform for inquiry, feedback, and deep listening and engagement with the people who matter most. Another difference is that we emphasize the importance of **looping back** as yet another way to deliver value to research participants and to demonstrate that their voices and thoughts matter ­— and have impact. Acknowledging and elevating diverse voices is key to this work. To dig into this a bit deeper, read [_**Building a Better Feedback Loop: How deep listening and storytelling help organizations thrive**_](https://medium.com/weseek/building-a-better-feedback-loop-764022914aa), which is all about the StoryEngine methodology.
+
+## How should we approach this phase?
+
+As noted above, the answer depends on your users and purposes. Action will likely be a series of design or strategy workshops where StoryEngine learning and insights are used and applied in practical ways. \[NOTE: As the methodology evolves we plan to share workshop templates to make this easy for you.\] Efforts to loop back mean communicating directly with participants, as well as creating opportunities for ongoing reflection and discussion. When you communicate about story edits in the [Process Narratives](/process-narratives.md) phase, you'll have plenty of opportunities to ask participants if they'd like to receive updates — and via what channels. For member- or network-driven organizations, updates can be integrated into existing channels, and events provide an excellent opportunity to share StoryEngine findings and facilitate discussion about possible actions and next steps.  
 
 #### The structure of this
 
