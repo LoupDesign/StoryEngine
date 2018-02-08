@@ -51,7 +51,7 @@ Then, check the results / responses from the initial tests with your key stakeho
 
 Based on all of this feedback it's time to finalize your questions. For the StoryEngine pilot, we posted the questions on the project website. This way, we were able to point participants to the question set when they felt nervous or wondered how to prepare for their interview. We are okay with sharing questions in advance because our goal is to _**create space for reflection**_.
 
-Create an interview guide. [This template](https://docs.google.com/document/d/1RsEg7EkmdZnHE3s8gQG5CuYKzRJmgOTSO87wK6XsRrM/edit?usp=sharing) also includes guidance for staff and others acting as interviewers..
+Create an interview guide. [This template](https://docs.google.com/document/d/1RsEg7EkmdZnHE3s8gQG5CuYKzRJmgOTSO87wK6XsRrM/edit?usp=sharing) also includes guidance for staff and others acting as interviewers.
 
 Finally... _**it's okay to update your questions as you learn**_. This will present some challenges in the analysis phase; it's possible to work through them. Serving your stakeholders by producing usable assets and insights is the priority — _not_ being rigid and ensuring that the analysis is as easy as possible.
 
