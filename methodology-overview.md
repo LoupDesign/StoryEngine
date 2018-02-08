@@ -1,10 +1,10 @@
 # Methodology Overview
 
+StoryEngine is influenced by narrative research methods \([Most Significant Change](http://www.betterevaluation.org/en/plan/approach/most_significant_change), [Global Giving’s Storytelling Project](https://www.globalgiving.org/story-tools/), [CognitiveEdge’s SenseMaker](http://cognitive-edge.com/sensemaker/), and [TASCHA’s evidence narratives](http://tascha.uw.edu/collections/evidence-narratives/)\) and participatory principles. It also draws on [grounded theory](http://betterevaluation.org/evaluation-options/thematiccoding), [developmental evaluation](http://betterevaluation.org/plan/approach/developmental_evaluation), and [utilization-focused evaluation](http://www.betterevaluation.org/en/plan/approach/utilization_focused_evaluation). Our aim: to better understand what is different now \(impacts\), how change is happening, and how we might design or adapt our strategies and practices.
+
 > “Methods can be emergent and flexible; designs can be dynamic. Contrary to the usual practice in evaluation of fixed designs that are implemented as planned, developmental evaluation designs can change as an innovation unfolds and changes.”  
 >   
 > _— Michael Quinn Patton, Kate McKegg, and Nan Wehipeihana \(editors\), Developmental Evaluation Exemplars: Principles in Practice, Guilford Publications, 2016, p.12._
-
-StoryEngine is influenced by narrative research methods \([Most Significant Change](http://www.betterevaluation.org/en/plan/approach/most_significant_change), [Global Giving’s Storytelling Project](https://www.globalgiving.org/story-tools/), [CognitiveEdge’s SenseMaker](http://cognitive-edge.com/sensemaker/), and [TASCHA’s evidence narratives](http://tascha.uw.edu/collections/evidence-narratives/)\) and participatory principles. It also draws on [grounded theory](http://betterevaluation.org/evaluation-options/thematiccoding), [developmental evaluation](http://betterevaluation.org/plan/approach/developmental_evaluation), and [utilization-focused evaluation](http://www.betterevaluation.org/en/plan/approach/utilization_focused_evaluation). Our aim: to better understand what is different now \(impacts\), how change is happening, and how we might design or adapt our strategies and practices.
 
 ## Giving back
 
