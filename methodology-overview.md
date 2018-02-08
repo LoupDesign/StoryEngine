@@ -4,11 +4,29 @@
 >   
 > _— Michael Quinn Patton, Kate McKegg, and Nan Wehipeihana \(editors\), Developmental Evaluation Exemplars: Principles in Practice, Guilford Publications, 2016, p.12._
 
-StoryEngine is designed to be an ongoing process — a loop. It is flexible and adaptive, with room for improvement and customization. We encourage anyone who uses the methodology to adapt it to best serve your needs.
+StoryEngine is influenced by narrative research methods \(Most Significant Change, [Global Giving’s Storytelling Project](https://www.globalgiving.org/story-tools/), [CognitiveEdge’s SenseMaker](http://cognitive-edge.com/sensemaker/), and [TASCHA’s evidence narratives](http://tascha.uw.edu/collections/evidence-narratives/)\) and participatory principles. It also draws on [grounded theory](http://betterevaluation.org/evaluation-options/thematiccoding), [developmental evaluation](http://betterevaluation.org/plan/approach/developmental_evaluation), and utilzation-focused evaluation. Our aim: to better understand what is different now \(impacts\), how change is happening, and how we might design or adapt our strategies and practices.
 
-You’re listening and testing throughout the process, with the goal of building stronger and more systematic feedback loops with the people you serve.
+## Giving back
 
-Design → Listen → Process → Share → Analyse → Act + Loop Back
+StoryEngine attempts to be sensitive to and useful for participants. We are not interested in extractive research or evaluation. We also understand that an interview is an important touchpoint and opportunity for engagement. So we look for opportunities to make connections and support participants’ work.
 
-What follows is a summary of each of the six phases, guiding you through the purpose, the tools and services you may want to consider using, and the steps and tasks.
+Unless otherwise noted, all stories are shared under a [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/)license, so that others can build on this work, including researchers who want to analyze datasets further.
+
+## Sampling
+
+For Mozilla, we used purposeful sampling, focusing on foundation partners, fellows, volunteers, and people and organizations in the broader Mozilla ecosystem. We actively sought out respondents from different programs, initiatives, demographic groups, and geographies. Our sampling evolved during the pilot, and included staff tip submissions, individuals submitting their own stories, and snowball sampling.
+
+StoryEngine was also designed to analyze stories drawn from content on the open web, such as community-generated blogs, podcasts, or videos. At this stage, however, we have only analyzed a corpus composed of participant interviews. 
+
+## Six key steps
+
+The StoryEngine methodology consists of six steps and work is designed to be an ongoing process — a loop. You’re listening and testing throughout the process, with the goal of building stronger and more systematic feedback loops with the people you serve.
+
+**Design → Listen → Process → Share → Analyse → Act + Loop Back**
+
+What follows is a summary of each of the six phases, each chapter ends with tools and templates to facilitate your work. That said, StoryEngine is flexible and meant to be customized, while staying true to core principles. We encourage adaptation to different uses; it has already been tailored for events and grant reporting.
+
+## 
+
+
 
