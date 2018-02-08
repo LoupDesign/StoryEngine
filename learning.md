@@ -10,7 +10,7 @@ Because we saw an opportunity to scratch a particular itch.We wanted something t
 
 2. **Tell a clear story about impact.** Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                          
+3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                            
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
@@ -84,8 +84,6 @@ The owner of StoryEngine Google docs should adequately monitor permissions. At t
 **Using Trint for high quality, clear audio** — As the project grew, however, we found ourselves needing to cut the cost of transcription. We found a service called Trint that uses natural language processing to transcribe audio and video files to text. This service cost significantly less, and has features we found to be useful in editing the transcript — after it transcribes the file, you are able to use the program to directly edit and listen to selected portions of the text. This service cannot fully replace the need for a transcription team, however, as not all audio files are clear enough for the program to transcribe well. These types of files should be sent to a transcriptionist for transcription. Note that sending low-quality or difficult to hear audio files require higher fees to be paid to transcriptionists.
 
 **Recommended transcriptionist pay scale** — based on our research on the Transcription Essentials Forum.
-
-
 
 #### **Important things to remember**
 
