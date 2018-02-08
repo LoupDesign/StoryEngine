@@ -1,10 +1,10 @@
 # Share
 
-The objective of the sharing phase is to post the participant's story online and promote the hell out of it. Sharing is one of the ways StoryEngine gives back to the participant — it's a platform for them to share their story with the world, discover other participant's stories, and to connect with other like-minded people in the process.
+The objective of the sharing phase is to post the participant's story online, promote the hell out of it, and generally celebrate their generosity and awesomeness. Sharing is one of the key ways we give back to our participants. In the pilot, we created a simple WordPress site that we used as a central repository for all of the stories. Increasingly, participants used it to discover other participant's stories and find like-minded people.
 
 ## 1. Publish the story online
 
-Post the approved story content to your website. Yay! Do a happydance :\) 
+Post the approved story content to your website. Yay! Do a happydance :\)
 
 ## 2. Compose and share social media content
 
