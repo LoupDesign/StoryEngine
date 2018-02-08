@@ -1,6 +1,8 @@
 # Analyze
 
-The objective of the analysis phase is to surface insights and learning. The findings can then be packaged in ways that meet your user's needs.  in various ways, ranging from a high-level report to The objective of this phase is to organize and interpret the information in the interviews and to offer insights and understanding on topics of interest. It can provide explanations, interpretation of phenomena, and uncover trends in thought and opinions.
+The objective of the Analysis phase is to surface insights and learning. The findings can then be packaged in ways that meet your user's needs, which should have been established during the Design phase workshops. 
+
+ .  in various ways, ranging from a high-level report to The objective of this phase is to organize and interpret the information in the interviews and to offer insights and understanding on topics of interest. It can provide explanations, interpretation of phenomena, and uncover trends in thought and opinions.
 
 It’s going to feel messy, and that’s because it is. You’re looking for commonalities, differences, themes, and outliers — what matters to people? Why does it matter? How do people talk about, characterize, understand what’s going on? What surprised you?
 
@@ -23,7 +25,38 @@ Familiarize yourself with the corpus of published stories — skim through, take
 
 ### 3. Code published stories
 
-Use the [Guide to Coding Stories](https://drive.google.com/open?id=1mEQG7CUKEbP09EuCfKagTXZu9csWoOjRarRCDusEwnA) to code published stories.
+**This document serves to guide you through the coding of StoryEngine data. StoryEngine is an ongoing learning process designed to surface concrete and specific examples of people’s experiences that provide insights to the questions you developed. It should also surface things you weren’t expecting to find — these surprises are just as important.**
+
+## **What is a code?**
+
+**A code is a short word or phrase assigned to an idea, concept, or theme. Coding your data is an essential part of performing qualitative data analysis — it helps you organize, sort, and visualize your data. It is iterative and will change as your analysis and work progresses.**
+
+**  
+**
+
+**We recommend using both preset and emergent codes — preset codes are codes assigned to ideas, concepts, or themes you expect to find during analysis, and emergent codes are codes assigned to ideas, concepts, and themes as they emerge in your analysis.**
+
+## **Coding your data**
+
+**Assign identifier information to each interview— Decide what identifier information is important and assign identifier information accordingly. Examples of identifiers you might use: gender of participant, date of interview, age of participant, location of participant’s residence, and participant’s profession.**
+
+**  
+**
+
+**Determine preset codes and code your data set accordingly— Use your questions and notes to develop preset codes and initial coding structure — note that your coding structure will continue to develop over the coding process. Preset codes should cover ideas, concepts, and themes you expect to find based on the design of your questions — they will generally pop up in every interview, as the questions are specifically designed to uncover them. For example — we used the preset code, “success,” to identify passages of text in response to the question, “Tell me about a time you felt a sense of success.”**
+
+**  
+**
+
+**Use emergent codes to capture emerging ideas, concepts, and themes— As you make your way through the corpus, remember to utilize emergent codes to capture the things you didn’t expect to find.**
+
+**  
+**
+
+**Remember, coding is iterative and will change as your analysis and work progresses. This is especially true for emergent codes. You may find yourself combing back through interviews to make changes to your coding structure. For example, you may have coded passages of text in several interviews as “disagreement,” and in passages of text of other interviews as “dispute,” but later you realize that these two codes represent the same idea, so you synthesize your coding structure so that all “dispute” and “disagreement” codes are now “disagreement.”**
+
+**  
+**
 
 ### 4. Analyze and synthesize findings
 
@@ -33,7 +66,7 @@ Based on notes and coding, synthesize what’s happening in your data. Using you
 
 We recommend formatting your findings based on user needs — what are they trying to accomplish? The Mozilla initial [test report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) was framed based on their “5 Objectives and Key Results.”
 
-**          
+**            
 **
 
 Once you format your findings, you are ready to loop back
