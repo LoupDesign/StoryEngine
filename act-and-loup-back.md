@@ -4,7 +4,7 @@ The objective of this phase is to use the insights gained from the analysis phas
 
 This is the part we most care about, and we’re still figuring out how this works! We welcome your ideas and suggestions — reach out to us at StoryEngine@loup.design with your suggestions.
 
-![](/assets/full_storyengine_process_SMALL.png)
+![](/assets/full_storyengine_process_BIG.png)
 
 ## **Action / feedback tools + services**
 
