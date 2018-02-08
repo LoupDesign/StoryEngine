@@ -48,7 +48,5 @@ Now that your learning and insights are in a usable format, you're ready to [Act
 
 # Analysis tools & templates
 
-
-
-
+[StoryEngine Data Structure & Analysis Test Results](https://docs.google.com/spreadsheets/d/1RK1Bp8d0WzovwMwmuGzINM2HN_7bQfaW8egcdjT-dUQ/edit?usp=sharing) — Spreadsheet with a proposed data structure for better online display and filtering of participant attributes, questions, topics, and tags.  website that could filter and s
 
