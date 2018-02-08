@@ -16,13 +16,11 @@ What follows is our approach to conducting analysis. It's a lightweight guide ba
 
 ## 1. Choose your qualitative data analysis tool
 
-Find a qualitative data analysis \(QDA\) tool that works for you. It can be as simple as as spreadsheet \(see [Using Excel to Organize Qualitative Data for Analysis](https://www.gitbook.com/book/loup/storyengine/edit#)\) or something more complex like [RQDA](http://rqda.r-forge.r-project.org/) \(free and open source\) or [Dedoose](http://www.dedoose.com/) \(proprietary yet affordable; good collaboration features\). 
+Find a qualitative data analysis \(QDA\) tool that works for you. It can be as simple as as spreadsheet \(see [Using Excel to Organize Qualitative Data for Analysis](https://www.gitbook.com/book/loup/storyengine/edit#)\) or something more complex like [RQDA](http://rqda.r-forge.r-project.org/) \(free and open source\) or [Dedoose](http://www.dedoose.com/) \(proprietary yet affordable; good collaboration features\).
 
-NOTE: We had the idea of wanting respondents to see how their words were being interpreted, and provide them the opportunity to feedback or add additional thoughts. We also liked the idea of open-on-the-web QDA. We tested Hypothes.is, an open and free web annotation service. Hypothes.is is currently installed on StoryEngine.io to enable this. We also spoke with Hypothes.is leadership to let them know what we wanted to to and ask about emerging features. While 
+NOTE: We had the idea of wanting respondents to see how their words were being interpreted, and provide them the opportunity to feedback or add additional thoughts. We also liked the idea of open-on-the-web QDA. We tested [Hypothes.is](https://web.hypothes.is/), an open and free web annotation service. Hypothes.is is currently installed on StoryEngine.io to enable this. We also spoke with Hypothes.is leadership to let them know what we wanted to to and ask about emerging features. At this point it's not robust enough to be used for rigorous data analysis, although it is possible to export annotations and tags into a spreadsheet so they can be manipulated. We'd love to see some resources put towards advancing this use case for Hypothes.is! That said, it could be interesting to explore doing ["annotatathons" — there are some promising examples](https://docs.google.com/document/d/13gp-AZCUR3Kr-YQzFUtowfHlAiCYDRhnz6o_zhGW7Mg/edit?usp=sharing) — and 
 
-
-
- for this purpose qualitative coding tool that works for you. We’re currently hacking and testing Hypothes.is, to do our qualitative data analysis. \(Refer to StoryEngine History and Learning for more information on using Hypothes.is\)
+for this purpose qualitative coding tool that works for you. We’re currently hacking and testing Hypothes.is, to do our qualitative data analysis. \(Refer to StoryEngine History and Learning for more information on using Hypothes.is\)
 
 ## 2. Get to know the stories
 
@@ -63,4 +61,6 @@ Now that your learning and insights are in a usable format, you're ready to [Act
 [StoryEngine Data Structure & Analysis Test Results](https://docs.google.com/spreadsheets/d/1RK1Bp8d0WzovwMwmuGzINM2HN_7bQfaW8egcdjT-dUQ/edit?usp=sharing) — Spreadsheet with a proposed data structure for better online display and filtering of participant attributes, questions, topics, and tags.
 
 [Using Excel to Organize Qualitative Data for Analysis ](https://drive.google.com/file/d/1zDpZVfIGPe93Ni5y-aPF1q-F3tyzwl6l/view?usp=sharing)— Written by Susan Eliot \(now retired\). A simple yet effective way to use a spreadsheet to conduct analysis. We used Google Spreadsheets instead.
+
+[Running an Annotatathon with Hypothesis](https://docs.google.com/document/d/13gp-AZCUR3Kr-YQzFUtowfHlAiCYDRhnz6o_zhGW7Mg/edit?usp=sharing)
 
