@@ -1,6 +1,6 @@
 # Process Narratives
 
-The objective of the processing phase is to generate a story that the participant is happy with and that can be shared, used to generate assets, and added to the corpus for analysis. The StoryEngine methodology is design to create space for reflection.  Some people find it hard to articulate their thoughts or are less well-spoken, others need time to consider what they want to say,  and some folks are simply tired or not on their A-game during their interview. We want to give participants the opportunity to relax and speak freely in an interview, and subsequently get the help of someone who can edit their words for flow and clarity, highlight areas of concern, and work with them to ensure their story reflects what they want to say. **                            
+The objective of the processing phase is to generate a story that the participant is happy with and that can be shared, used to generate assets, and added to the corpus for analysis. The StoryEngine methodology is design to create space for reflection.  Some people find it hard to articulate their thoughts or are less well-spoken, others need time to consider what they want to say,  and some folks are simply tired or not on their A-game during their interview. We want to give participants the opportunity to relax and speak freely in an interview, and subsequently get the help of someone who can edit their words for flow and clarity, highlight areas of concern, and work with them to ensure their story reflects what they want to say. **                              
 **
 
 **IMPORTANT: Any information gathered during this stage should remain confidential, and not shared with anyone else **— not even with others at the organization. Permissions should be kept tight, and the number of people with access should remain minimal — only key personnel, specified at the beginning of the project, should have access.
@@ -18,6 +18,20 @@ Decide and use appropriate service for transcription of audio files. Use natural
 \_\_**Trint **is a text-based toolkit for transcribing, searching, and editing media content online. We use this to transcribe clear — high quality audio. The service transcribe an audio file in less time than the length of the audio file \(less than an hour for an hour long audio file\). Once the file is transcribed, you are able to listen to edit the transcription using their program — simply click on the text you would like to listen to or edit.
 
 \_\_**Transcriptionist services **should be used for medium to low quality audio files. If hiring your own team of transcriptionists, we recommend tracking that information using the [StoryEngine tracker — transcriptionist tracker](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=1212148835&range=A:A) sheet. More information on hiring a team of transcriptionists can be found in the StoryEngine History and Learning document under Evolution of Transcription Services.
+
+### **Tips for managing transcription files**
+
+**Save transcripts as .txt files and note the specific stage of the editing process they are in. Example:**
+
+lastname\_firstname\_RAW.txt  
+lastname\_firstname\_EDITING.txt  
+lastname\_firstname\_APPOVED.txt
+
+**Use language that specifies the sensitivities of the files saved within. Example:**
+
+1\_Raw\_Transcripts\_NO\_SHARING  
+2\_Processing\_Transcripts\_SHARED\_ONLY\_WITH\_PARTICIPANTS  
+3\_Approved\_Transcripts
 
 ## 3. **Create an editing or Google document**
 
@@ -45,21 +59,7 @@ Use the [boilerplate email template \(Request for Review\)](https://docs.google.
 
 ## 8. **Request consent to publish**
 
-Once you have heard back from the participant that they have made all the necessary changes and are ready to sign the consent form — use the language from the [boilerplate email template \(Consent to Publish\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing), [Consent to Publish template](https://drive.google.com/open?id=1YTlwbnCD3rVbRC689fUl_zWMv4X_8lyzEQZV5S8PvEE), and [HelloSign](https://www.hellosign.com/) \(or other esignature service\), to request consent to publish their story.
-
-## **Tips for handling transcription files**
-
-**Save transcripts as .txt files and note the specific stage of the editing process they are in. Example:**
-
-lastname\_firstname\_RAW.txt  
-lastname\_firstname\_EDITING.txt  
-lastname\_firstname\_APPOVED.txt
-
-**Use language that specifies the sensitivities of the files saved within. Example:**
-
-1\_Raw\_Transcripts\_NO\_SHARING  
-2\_Processing\_Transcripts\_SHARED\_ONLY\_WITH\_PARTICIPANTS  
-3\_Approved\_Transcripts
+Once you have heard back from the participant that they have made all the necessary changes and are ready to sign the consent form — use the language from the [boilerplate email template \(Consent to Publish\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing), [Consent to Publish template](https://drive.google.com/open?id=1YTlwbnCD3rVbRC689fUl_zWMv4X_8lyzEQZV5S8PvEE), and [HelloSign](https://www.hellosign.com/) \(or other e-signature service\), to request consent to publish their story.
 
 Once you have consent to publish, you are ready to share their story!
 
