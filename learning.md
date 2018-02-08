@@ -10,7 +10,7 @@ Because we saw an opportunity to scratch a particular itch.We wanted something t
 
 2. Tell a clear story about impact. Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. Continually learn and improve.Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**  
+3. Continually learn and improve.Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**    
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
@@ -25,13 +25,13 @@ Because we saw an opportunity to scratch a particular itch.We wanted something t
 
 * **Human resources** — H.R. staff can use inspiring stories from the field for more effective recruiting, onboarding and staff training.
 
-* **Network-building **— deep listening helps build stronger relationships with the organization’s ecosystem. People like being asked what they think, and feeling like the organization is really responding based on that. 
+* **Network-building **— deep listening helps build stronger relationships with the organization’s ecosystem. People like being asked what they think, and feeling like the organization is really responding based on that.
 
-We found traditional methods for doing these things — like personal intuition \(gut reaction\), anecdotal evidence, focus groups, surveys and tools like NPS \(net promoter score\) lacking; they tend to miss the human element, generate less empathy and understanding, and lack the emotional power of real human stories. 
+We found traditional methods for doing these things — like personal intuition \(gut reaction\), anecdotal evidence, focus groups, surveys and tools like NPS \(net promoter score\) lacking; they tend to miss the human element, generate less empathy and understanding, and lack the emotional power of real human stories.
 
 ### **Mozilla provided our test-bed**
 
-In mid 2016, the Mozilla Foundation was wrestling with questions like these. They had built a broad global network of partners, volunteers and activists doing many different kinds of things, and they wanted to gain insights and understanding around what motivated them, what challenges they were facing, and how the organization’s new strategy could help. They were also seeking ways to tell a better impact story about their work, in ways that simply capturing numerical data wasn’t able to do.**  
+In mid 2016, the Mozilla Foundation was wrestling with questions like these. They had built a broad global network of partners, volunteers and activists doing many different kinds of things, and they wanted to gain insights and understanding around what motivated them, what challenges they were facing, and how the organization’s new strategy could help. They were also seeking ways to tell a better impact story about their work, in ways that simply capturing numerical data wasn’t able to do.**    
 **
 
 # **What did we learn?**
@@ -44,17 +44,15 @@ In mid 2016, the Mozilla Foundation was wrestling with questions like these. The
 
 **Consent forms **— As StoryEngine evolved, we realized we needed to improve our consent forms and process to ensure privacy and security of participants and the org. The project started by sending one consent form, using Google forms, to participants for signature — we noticed they’d sign the forms before actually approving the story. While this isn’t always a problem, there was the potential to approve and publish a story before sensitive or unapproved information was removed. So we decided on utilizing two separate consent forms, the [interview release](https://docs.google.com/document/d/1MTGTLcvMCkbdlLUK6hz0ptpD1yHRggmIAL9Lcael9ro/edit?usp=sharing) and [consent to publish](https://docs.google.com/document/d/1YTlwbnCD3rVbRC689fUl_zWMv4X_8lyzEQZV5S8PvEE/edit?usp=sharing). The consent to publish is not sent to participants until they informally \(email\) say they are finished editing their story and approve it.
 
-
-
 # **How has StoryEngine evolved?**
 
 ## **Evolution of story leads**
 
 **“File a Story Tip”** — During the first StoryEngine design sprint, we created Google doc that was sent around to select MoFo staff and accessible via the StoryEngine website, asking them to make nominate folks for us to interview. This remained open for several months and resulted in about 30 tips and 10 completed interviews. We also reached out to staff from different programs, to ask for nominations. Once the project’s focus became more defined, we removed the “File a Story Tip” option.
 
-**Leveraging existing data** — We realized that it was a fool's errand to create yet another organization/staff processes to generate leads, when the reality was that most organizational initiatives were already outputting well-documented and important leads, so we tapped those \(examples: network survey data, MozFest session leads in GitHub\). Note that, at the time, StoryEngine findings were intended to feed into the development of a value proposition for the emerging “Mozilla Network”, so we focused on people who had already expressed opinions as part of the more open-ended network survey questions. We coupled this with continuing to reach out to program staff, as well as reaching out to MozFest sessions leads — aiming to get good representation from across different programs, geographies, genders, and backgrounds. 
+**Leveraging existing data** — We realized that it was a fool's errand to create yet another organization/staff processes to generate leads, when the reality was that most organizational initiatives were already outputting well-documented and important leads, so we tapped those \(examples: network survey data, MozFest session leads in GitHub\). Note that, at the time, StoryEngine findings were intended to feed into the development of a value proposition for the emerging “Mozilla Network”, so we focused on people who had already expressed opinions as part of the more open-ended network survey questions. We coupled this with continuing to reach out to program staff, as well as reaching out to MozFest sessions leads — aiming to get good representation from across different programs, geographies, genders, and backgrounds.
 
-**Responding to staff requests: Network 50, Fellows, Online Harassment **— As StoryEngine gained traction within Mozilla, we started being asked to interview specific participants, such as the MLN 50 awardees, as well as specific groups, such as fellows, host organizations \(Open Web, Open Science\), and more technical folks. We were also asked to reach out to people who might have some insights into the issue of online harassment \(examples: Emily May, Hera Hussein\). The selection criteria is anticipated to evolve in 2018, in response to new organizational directions.**  
+**Responding to staff requests: Network 50, Fellows, Online Harassment **— As StoryEngine gained traction within Mozilla, we started being asked to interview specific participants, such as the MLN 50 awardees, as well as specific groups, such as fellows, host organizations \(Open Web, Open Science\), and more technical folks. We were also asked to reach out to people who might have some insights into the issue of online harassment \(examples: Emily May, Hera Hussein\). The selection criteria is anticipated to evolve in 2018, in response to new organizational directions.**    
 **
 
 ## **Evolution of privacy + consent**
@@ -79,7 +77,7 @@ The owner of StoryEngine Google docs should adequately monitor permissions. At t
 
 * **Google doc permissions should be as secure as possible** — limit access and monitor permissions closely.
 
-* **Permissions should be gained at two levels** — prior to interviewing and prior to publishing. We want to make sure everyone, at all levels and abilities, has the opportunity to consider what they are sharing with the public. They can edit their interview for clarity, avoid security risks, and improve the overall message they are trying to convey.**  
+* **Permissions should be gained at two levels** — prior to interviewing and prior to publishing. We want to make sure everyone, at all levels and abilities, has the opportunity to consider what they are sharing with the public. They can edit their interview for clarity, avoid security risks, and improve the overall message they are trying to convey.**    
   **
 
 ## **Evolution of transcription services**
@@ -90,8 +88,8 @@ The owner of StoryEngine Google docs should adequately monitor permissions. At t
 
 **Recommended transcriptionist pay scale** — based on our research on the Transcription Essentials Forum.
 
-\_\__$1.25 per audio minute for a 20 calendar day turnaround  
-_\_\__$1.75 per audio minute for a 5 calendar day turnaround  
+\_\__$1.25 per audio minute for a 20 calendar day turnaround    
+_\_\__$1.75 per audio minute for a 5 calendar day turnaround    
 _\_\_$2.75 per audio minute for a 24 hour turnaround  
 \_\_\*Add $1.00 per audio minute for poor or difficult audio
 
@@ -100,27 +98,6 @@ _\_\_$2.75 per audio minute for a 24 hour turnaround
 **NDA transcribers — **All transcribers should sign a non-disclosure agreement.
 
 
-
-## **Evolution of the question set**
-
-The StoryEngine methodology allows for the questions to shift and change as needed. Keep in mind that analysis is tied to the question set, and as questions change, so will your analysis.
-
-**Things we wanted to know**
-
-\_\_What’s the value of being part of the larger Mozilla network?  
-\_\_What do people care about?  
-\_\_What do people consider to be a success story?  
-\_\_What do people struggle with?  
-\_\_What was their pathway to Mozilla? How did they get here?  
-\_\_How do people define a healthy internet?
-
-**First set of questions shipped**
-
-**Changes made**
-
-**Current set of questions**
-
-## 
 
 ## Evolution of analysis
 
@@ -132,11 +109,9 @@ The first round of interviews done for Mozilla aimed to surface general work, su
 
 The current question set was designed to surface the following:
 
-\_\_[**Internet Health Issues**](https://www.mozilla.org/en-US/internet-health/) — In order to serve Mozilla staff quickly, we first review the texts for content that illuminates current internet health issues \(Decentralization, Digital Inclusion, Online Privacy & Security, Web Literacy\), with the aim of collecting examples and quotes. View Mozilla’s [Internet Health Report »](https://internethealthreport.org/)
-
-\_\_**Impact** — We also look for reports of impact: What has changed for this person or their organization? How? This coding is iterative and will evolve as our work progresses.
-
-\_\_**Artifacts** — Tools, approaches, methods — generally “things” network leaders make or use are coded so that they can be flagged as potentially useful to others.
+* [**Internet Health Issues**](https://www.mozilla.org/en-US/internet-health/) — In order to serve Mozilla staff quickly, we first review the texts for content that illuminates current internet health issues \(Decentralization, Digital Inclusion, Online Privacy & Security, Web Literacy\), with the aim of collecting examples and quotes. View Mozilla’s [Internet Health Report »](https://internethealthreport.org/)
+* **Impact** — We also look for reports of impact: What has changed for this person or their organization? How? This coding is iterative and will evolve as our work progresses.
+* **Artifacts** — Tools, approaches, methods — generally “things” network leaders make or use are coded so that they can be flagged as potentially useful to others.
 
 ### From RQDA to Hypothes.is, and beyond
 
@@ -144,13 +119,13 @@ The first round of analysis was done using RQDA, an open source qualitative data
 
 In our research of tools to use, we thought about our needs and came up with the following:
 
-\_\_**Ease of use **— The ability to use program without significant training.
+**Ease of use **— The ability to use program without significant training.
 
-\_\_**Affordability** — The ability for most organizations to afford the tool.
+**Affordability** — The ability for most organizations to afford the tool.
 
-\_\_**Online collaboration** — The ability for teams to collaborate in real-time.
+**Online collaboration** — The ability for teams to collaborate in real-time.
 
-\_\_**Sorting information** — The ability to organize information in a wide variety of ways to better understand the data.
+**Sorting information** — The ability to organize information in a wide variety of ways to better understand the data.
 
 We came across the online annotation tool, [Hypothes.is](/hypothes.is). While the tool is not designed for analysis, we found usefulness in the ability to highlight and tag passages of text online. While we do not recommend Hypothes.is as a tool for complete packaged analysis, we note its usefulness in using a top-down analysis approach, the ability to use a closed set of tags, and in creating a quote database.
 
@@ -158,123 +133,16 @@ We had a meeting with Jon Udell to discuss possible future uses for Hypothes.is,
 
 ### Hypothes.is challenges to date
 
-Gathering these to provide them with feedback + see where some development can happen. 
+Gathering these to provide them with feedback + see where some development can happen.
 
-\_\_Can’t filter by attributes
-
-\_\_Can’t see all annotations on search page without clicking on each one to expand
-
-\_\_Can’t sort information adequately
-
-Recommendations for future analysis — based on our experience with RQDA and Hypothes.is,
-
-# How Mozilla has used StoryEngine?
-
-Personas: \[Tias’ work on Personas\]
-
-Stephanie
-
-StoryEngine is a successful pilot within the Mozilla Foundation. The website is moving from pilot site to Mozilla’s website to sit on [Pulse](https://www.mozillapulse.org/featured). We are currently working out how to institutionalize within the organization. So far, the need is for specific pieces of the StoryEngine approach to sit within certain departments of the org.
-
-### Next steps
-
-\_\_Hypothes.is for analysis
-
-\_\_AI Dev for analysis
-
-\_\_Anyone interested in a new way of grant reporting
-
-## Humans of the internet podcast lounge
-
-### Background
-
-The StoryEngine team partnered with students at Ravensbourne studying Digital Advertising and Design to promote the “Humans of the Internet” space at MozFest 2017.
-
-The [Humans of the Internet](https://storyengine.io/humans/) space was powered by [StoryEngine.io](http://storyengine.io/) with the goal to get the maximum number of participants interviewing each other, requesting to be interviewed, and interacting with others’ stories.
-
-As part of MozFest 2017, the [Loup](https://www.loup.design/) team set up a weekend-long drop-in StoryEngine installation where participants were interviewed, interviewed each other, and interacted with other people’s stories. [A full description of the project and how it developed can be found on GitHub](https://github.com/MozillaFoundation/mozfest-program-2017/issues/710).
-
-Insert info from blog post or on the success of HoI
+* Can’t filter by attributes
+* Can’t see all annotations on search page without clicking on each one to expand
+* Can’t sort information adequately
 
 # Where is StoryEngine now?
 
-StoryEngine was developed by [Loup](https://www.loup.design/) in collaboration with the Mozilla Foundation. The pilot phase is now complete, as well as the initial documentation for others to use and adapt. Mozilla has institutionalized key StoryEngine practices and narratives will be shared via [Mozilla Pulse](https://www.mozillapulse.org/featured).
+StoryEngine was developed by [Loup](https://www.loup.design/) in collaboration with the Mozilla Foundation. The pilot phase is now complete, as well as the initial documentation for others to use and adapt. Questions and contributions can be made through GitHub. Loup will continue to steward StoryEngine’s development, and is currently using it with other organizations.
 
-## Institutionalization // transfer of ownership
-
-Institutionalization of StoryEngine began on January 1, 2018. The following is a list of roles and responsibilities for StoryEngine within the Mozilla Foundation.
-
-### Overall Wrangling — Jesse + Sydette
-
-#### Strategy — Sydette
-
-\_\_Relationships with participants
-
-\_\_Interview strategy
-
-\_\_Story processing
-
-\_\_Posting on Mozilla digital properties
-
-\_\_Coordinating across programs, starting w/Amy and Erica soon
-
-\_\_With Jesse — process to leverage StoryEngine content and findings \(for advocacy, fundraising, onboarding, external comms\)
-
-#### Infrastructure — Jesse
-
-\_\_API/hosting architecture
-
-#### Grantmaking — Kalpana
-
-#### Learning & Analysis — Paul Z
-
-\_\_Question development / tailoring
-
-\_\_Analytic process
-
-#### Communications — Lotta?
-
-\_\_Internal
-
-\_\_External
-
-# StoryEngine future
-
-[Loup](https://www.loup.design/) will continue to steward StoryEngine’s development, and is currently using it with other organizations.
-
-Below are notes of what we’ve heard regarding possible needs for the future of StoryEngine within Mozilla. Many of these needs have evolved and cannot be met with the current corpus of stories and question set, and should therefore inform the development of future question sets and story gathering.
-
-### Mozilla Foundation specific challenges
-
-\_\_Use StoryEngine to project out the story we need to tell.
-
-\_\_People understand the issues but can’t give 1-2 examples — of what is happening to make it come to life. Staff can’t talk about what others are doing. Need to be able to talk about Privacy & Security, Openness, Decentralization, Digital Inclusion, Web Literacy
-
-\_\_Anecdotes don’t project a story — perceived as random outliers
-
-\_\_We have done zero pattern recognition.Potential datasets:
-
-1. StoryEngine
-
-2. Pulse
-
-3. Fellowships + Grants
-
-4. MozFest sessions and proposals
-
-### Mozilla specific needs
-
-**Lead with the political “so what.” **Focus on people and framework rather than external political issues or problems we’re trying to solve. For example, when we profile a fellow we lead with their name instead of name + an active tagline that sums up their purpose / vision / what they’re doing in the world — emphasize the politics / a one sentence “so what” \(instead, we lead with the “how” \(a fellowship\) and not the “why” or “so what”\)
-
-**Show the work products.** We don’t ever list all of the projects that fellows or grantees have made. We bury this.
-
-**Need to show causality.** Where did we spend money and then a thing happened?
-
-**Ability to pull numbers / patterns on who is working on what kinds of projects. **Partly that's about clustering and counting by the 5 issues. But also looking for other more specific examples like “There are x people working on online harassment training, an interesting emerging trend.” And pulling out good illustrative examples that explain these clusters. \(That then needs to fit w other info Lainie and Lotta are gathering.\)
-
-**Pull trends or show where there’s heat based on the interviews done. **For example, \#’s of how many stories you have tagged to the 5 key issues? Or \#’s attached to the [“things” category](https://docs.google.com/spreadsheets/d/1RK1Bp8d0WzovwMwmuGzINM2HN_7bQfaW8egcdjT-dUQ/edit#gid=0) that might help surface trends \(i.e. emerging trend in people working on AI bots\), for instance. Or, is it valid to say of the 49 stories that have been coded, 24 of them are working on web literacy?
-
-  
 
 
 
