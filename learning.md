@@ -8,7 +8,7 @@
 
 2. **Tell a clear story about impact.** Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                          
+3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                            
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
@@ -55,43 +55,35 @@ We found traditional methods for doing these things — like personal intuition 
 
 **Photos **— After speaking to legal, we realized participants may not have permission to use photos of themselves if they were taken by someone else, so we tightened up the photo release permissions within the consent to publish form, to ensure they have explicit permission to use the photos.
 
-**Google forms to HelloSign **— Because we deal with sensitive information, we decided to utilize a more secure way of sending, receiving, and online storing of consent forms. We researched affordable services and decided on HelloSign. We recognize other esignature services are available and already used by your organization. We recommend choosing your services with the following criteria in mind: privacy + security, storage capabilities, and pre-existing services.
+**Google forms to HelloSign **— Because we deal with sensitive information, we decided to utilize a more secure way of sending, receiving, and online storing of consent forms. We researched affordable services and decided on HelloSign \(we also had Mozilla review HelloSign and they approved it\). We recognize other e-signature services are available and already used by your organization. We recommend choosing your services with the following criteria in mind: privacy + security, storage capabilities, and pre-existing services.
 
 **Google docs** — We find using Google drive, Google docs, and Google sheets extremely useful for the StoryEngine process. It allows for us to collaborate on different pieces of the project with specific people. However, we learned that link sharing was too easily turned on accidentally, and permissions were too easily changed by other editors. To prevent this from happening and to keep docs more secure, we suggest the following:
 
 All people with access to StoryEngine documents should enable two-factor authentication on the email accounts associated with the Google doc. This will help minimize unauthorized access to their account or the Google docs associated with their account.
 
-The owner of StoryEngine Google docs should adequately monitor permissions. At the creation of any new Google doc, be sure to keep link sharing off, prevent other editors from changing access and adding new people, and disable options to download, print, and copy for commenters and viewers. \(Detailed instructions can be found [here](/process-narratives.md)\)
+The owner of StoryEngine Google docs should adequately monitor permissions. At the creation of any new Google doc, be sure to keep link sharing off, prevent other editors from changing access and adding new people, and disable options to download, print, and copy for commenters and viewers. \(Detailed instructions can be found in the [Process Narratives](/process-narratives.md) chapter.\)
 
-#### **Important things to remember**
+### **Important things to remember**
 
 * **No unauthorized access to audio/video files or transcripts** — Only immediate and approved staff should have access to these documents at any given time. The only document to be shared is the published interview.
 
-* **NDA your team and transcribers** — Be sure any and all staff who have access to audio/video files and/or transcripts has signed a non-disclosure agreement.
+* **NDA your team and transcribers** — Be sure any and all staff who have access to audio/video files and/or transcripts have signed a non-disclosure agreement.
 
-* **Google doc permissions should be as secure as possible** — Limit access and monitor permissions closely.
+* **Google doc permissions should be as secure as possible** — Limit access and monitor permissions closely. Double check.
 
-* **Permissions should be gained at two levels** — prior to interviewing and prior to publishing. We want to make sure everyone, at all levels and abilities, has the opportunity to consider what they are sharing with the public. They can edit their interview for clarity, avoid security risks, and improve the overall message they are trying to convey.**                    **
+* **Permissions should be gained at two levels** — \(1\) prior to interviewing, and \(2\) prior to publishing. We want to make sure everyone, at all levels and abilities, has the opportunity to consider what they are sharing with the public. They can edit their interview for clarity, avoid security risks, and improve the overall message they are trying to convey.**                    **
 
 ## **Evolution of transcription services**
 
-**CastingWords to team of transcriptionists** — We started using CastingWords as they had one of the lowest rates, but found that the quality of transcription wasn’t meeting our needs. We researched further to find that low-cost transcription services do not pay fair wages to their transcriptionists, hire inexperienced transcriptionists, and have a high-turnover rate — all things that contribute to the quality of transcription services. We also found that the total cost of transcription ended up being more, as there were additional costs associated with editing the mistakes made by using low-cost transcription services. The [Transcription Essentials Forum](https://www.transcriptionessentials.com) was a useful place to find out more about transcription services, fair wage rates, and was useful for hiring our very own team of transcriptionists — by simply posting a hiring ad on their job board.
+**From CastingWords \(yuck!\) to team of transcriptionists** — We started using CastingWords as they had one of the lowest rates, but found that the quality of transcription wasn’t meeting our needs. We researched further to find that low-cost transcription services do not pay fair wages to their transcriptionists, often contract inexperienced workers, and have a high-turnover rate — all things that contribute to the quality of transcription services. We also found that the total cost of transcription ended up being more, as there were huge additional costs associated with editing the mistakes. The [Transcription Essentials Forum](https://www.transcriptionessentials.com) was a useful place to find out more about transcription services, fair wage rates, and was useful for hiring our very own team of transcriptionists — by simply posting a hiring ad on their job board.
 
-**Using Trint for high quality, clear audio** — As the project grew, however, we found ourselves needing to cut the cost of transcription. We found a service called Trint that uses natural language processing to transcribe audio and video files to text. This service cost significantly less, and has features we found to be useful in editing the transcript — after it transcribes the file, you are able to use the program to directly edit and listen to selected portions of the text. This service cannot fully replace the need for a transcription team, however, as not all audio files are clear enough for the program to transcribe well. These types of files should be sent to a transcriptionist for transcription. Note that sending low-quality or difficult to hear audio files require higher fees to be paid to transcriptionists.
+**Using Trint for high quality, clear audio with native English speakers** — As the project grew, however, we found ourselves needing to cut the cost of transcription. We found a service called Trint that uses natural language processing to transcribe audio and video files to text. This service cost significantly less, and has features we found to be useful in editing the transcript — after it transcribes the file, you are able to use the program to directly edit and listen to selected portions of the text. This service cannot fully replace the need for a transcription team, however, as not all audio files are clear enough for the program to transcribe well, and many of our respondents speak English as a second language. \(Note that transciptionists do charge more for low-quality or difficult-to hear-audio files, see below.\)
 
-**Recommended transcriptionist pay scale** — based on our research on the Transcription Essentials Forum.
+**Recommended transcriptionist pay scale** — based on our research on the Transcription Essentials Forum. Add $1.00 per audio minute to the prices below for poor or difficult audio.
 
-_$1.25 per audio minute for a 20 calendar day turnaround _
-
-_$1.75 per audio minute for a 5 calendar day turnaround_
-
-_$2.75 per audio minute for a 24 hour turnaround_
-
-_\*Add $1.00 per audio minute for poor or difficult audio_
-
-#### **Important things to remember**
-
-**NDA transcribers — **All transcribers should sign a non-disclosure agreement.
+* _$1.25 per audio minute for a 20-calendar-day turnaround _
+* _$1.75 per audio minute for a 5-calendar-day turnaround_
+* _$2.75 per audio minute for a 24-hour turnaround_
 
 ## Evolution of analysis
 
