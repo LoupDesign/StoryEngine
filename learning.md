@@ -1,45 +1,43 @@
-# Learning
+# Learning & History
 
 ## **Why did we develop StoryEngine?**
 
-**Because we saw an opportunity to scratch a particular itch.** We wanted something that would allow us to achieve three distinct goals through a single tool and process.
+**Because we saw an opportunity to scratch a particular itch.** We wanted something that would allow us to achieve three distinct goals through a single tool and process. Contemporary organizations need to do three things well:
 
-Contemporary organizations need to do three things well:
-
-1. **Listen to the people they serve.** Instead of making guesses or relying on faulty assumptions, organizations need systematic ways to actually listen to the people they are trying to help, on a regular and ongoing basis.\(Feeds into: learning, design thinking, becoming more “customer-centric, etc.\)
+1. **Listen to the people they serve.** Instead of making guesses or relying on faulty assumptions, organizations need systematic ways to actually listen to the people they are trying to help, on a regular and ongoing basis.\(Feeds into: learning, design thinking, becoming more “customer-centric", etc.\)
 
 2. **Tell a clear story about impact.** Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                        
+3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                                          
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
 
-* **Communications **— inspiring stories from the field make for great communications assets. They can feed into blog posts, press releases, social media, etc, and add emotional punch to storytelling by putting a human face on complex issues and campaigns.
+* **Communications **— Inspiring stories from the field make for great communications assets. They can feed into blog posts, press releases, social media, etc., and add emotional punch to storytelling by putting a human face on complex issues and campaigns.
 
-* **Monitoring and evaluation **— qualitative stories and data can add richness and depth to quantitative metrics, telling a clearer story about the impact the organization is having in the world.
+* **Monitoring and evaluation **— Qualitative stories and data can add richness and depth to quantitative metrics, telling a clearer story about the impact the organization is having in the world.
 
-* **Organizational learning** — once we collect enough stories, we can begin to identify patterns and insights in what we’re hearing. And then: make program improvements, refine the program’s value proposition, etc.
+* **Organizational learning** — Once we collect enough stories, we can begin to identify patterns and insights in what we’re hearing. And then: make program improvements, refine the program’s value proposition, etc.
 
 * **Leadership** — quality impact narratives help leaders make decision based on real feedback from the field, instead of hunches.
 
-* **Human resources** — H.R. staff can use inspiring stories from the field for more effective recruiting, onboarding and staff training.
+* **Human resources** — HR staff can use inspiring stories from the field for more effective recruiting, onboarding and staff training.
 
-* **Network-building **— deep listening helps build stronger relationships with the organization’s ecosystem. People like being asked what they think, and feeling like the organization is really responding based on that.
+* **Network-building **— Deep listening helps build stronger relationships with the organization’s ecosystem. People like being asked what they think, and feeling like the organization is really responding based on that.
 
 We found traditional methods for doing these things — like personal intuition \(gut reaction\), anecdotal evidence, focus groups, surveys and tools like NPS \(net promoter score\) lacking; they tend to miss the human element, generate less empathy and understanding, and lack the emotional power of real human stories.
 
-**Mozilla provided our test-bed. **In mid 2016, the Mozilla Foundation was wrestling with questions like these. They had built a broad global network of partners, volunteers and activists doing many different kinds of things, and they wanted to gain insights and understanding around what motivated them, what challenges they were facing, and how the organization’s new strategy could help. They were also seeking ways to tell a better impact story about their work, in ways that simply capturing numerical data wasn’t able to do.**                    **
+**Mozilla provided our test-bed. **In mid-2016, the Mozilla Foundation was wrestling with questions like these. They had built a broad global network of partners, volunteers, and activists doing many different kinds of things, and they wanted to gain insights and understanding around what motivated them, what challenges they were facing, and how the organization’s new strategy could help. They were also seeking ways to tell a better impact story about their work, in ways that simply capturing numerical data wasn’t able to do.**                    **
 
 # **What did we learn?**
 
 **Buy-in from stakeholders is needed from the beginning** — This will help develop a sense of ownership, responsibility, and value for the StoryEngine process. Involving stakeholders in question design, decisions on the creation and use of assets and deliverables, and as well as ensure those assets and deliverables get used.
 
-**Organizations are sitting on a mountain of leads** — Our first instinct was to design a process that leveraged staff to uplevel leads for where to start on the interview data collection process. What we quickly learned was that frustrates staff and put to much energy into designing a good workflow to collect these leads. The reality was that Mozilla already had rich documentation on leads and in fact were more in need about how to continue to leverage its existing documentation. Once the project identified these leads it acted as an accelerant to the StoryEngine process.
+**Organizations are sitting on a mountain of leads** — Our first instinct was to design a process that leveraged staff to provide leads for who to interview \(so: a staff-driven sampling strategy\). What we quickly learned was that frustrates staff and we put too much energy into designing a good workflow to collect these leads. The reality was that Mozilla already had rich documentation on leads — what they actually needed was a better way to leverage existing documentation. Once the project identified these leads, it acted as an accelerant to the StoryEngine process.
 
-**Follow-through by interviewees from start to finish** — We’ve seen participants drop out of the process at every level. The most costly time for participants to drop is after the interview is complete, transcribed, and edited. We recommend using language in both emails and consent forms that remind them of the commitment they are making and the time and resources it takes from the recording of their interview to posting their edited transcript online.
+**Follow-through by interviewees from start to finish** — We’ve seen participants drop out of the process at every level. The most costly time for participants to drop is after the interview is complete, transcribed, and edited. We recommend using language in both emails and consent forms that remind them of the commitment they are making and the time and resources it takes — from the recording of their interview to posting their final story online.
 
-**Consent forms **— As StoryEngine evolved, we realized we needed to improve our consent forms and process to ensure privacy and security of participants and the org. The project started by sending one consent form, using Google forms, to participants for signature — we noticed they’d sign the forms before actually approving the story. While this isn’t always a problem, there was the potential to approve and publish a story before sensitive or unapproved information was removed. So we decided on utilizing two separate consent forms, the [interview release](https://docs.google.com/document/d/1MTGTLcvMCkbdlLUK6hz0ptpD1yHRggmIAL9Lcael9ro/edit?usp=sharing) and [consent to publish](https://docs.google.com/document/d/1YTlwbnCD3rVbRC689fUl_zWMv4X_8lyzEQZV5S8PvEE/edit?usp=sharing). The consent to publish is not sent to participants until they informally \(email\) say they are finished editing their story and approve it.
+**Consent forms **— As StoryEngine evolved, we realized we needed to improve our consent forms and process to ensure the privacy and security of participants and the org. The project started by sending one consent form, using Google forms, to participants for signature — we noticed they’d sign the forms before actually approving the story. While this isn’t always a problem, there was the potential to approve and publish a story before sensitive or unapproved information was removed. So we decided to use two separate consent forms, the [interview release](https://docs.google.com/document/d/1MTGTLcvMCkbdlLUK6hz0ptpD1yHRggmIAL9Lcael9ro/edit?usp=sharing) and [consent to publish](https://docs.google.com/document/d/1YTlwbnCD3rVbRC689fUl_zWMv4X_8lyzEQZV5S8PvEE/edit?usp=sharing). The consent to publish is not sent to participants until they informally \(email\) say they are finished editing their story and approve it.
 
 # **How has StoryEngine evolved?**
 
