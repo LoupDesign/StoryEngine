@@ -1,10 +1,28 @@
 # Share
 
-The objective of this phase is to post the participant's story online. Sharing is one of the ways StoryEngine gives back to the participant — it's a platform for them to share their story with the world, discover other participant's stories, and to connect with other like-minded people in the process.
+The objective of the sharing phase is to post the participant's story online and promote the hell out of it. Sharing is one of the ways StoryEngine gives back to the participant — it's a platform for them to share their story with the world, discover other participant's stories, and to connect with other like-minded people in the process.
 
-## Sharing tools + services
+## 1. Publish the story online
 
-The following is a list of suggested tools, services, hardware, and software — these can be tailored to your organization and used accordingly.
+Post the approved story content to your website. Yay! Do a happydance :\) 
+
+## 2. Compose and share social media content
+
+Use [StoryEngine tracker — social media sheet](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=1256229332&range=C3) to compose tweets and posts to share on your social media websites. This content can also be shared with the participant so they can share.
+
+## 3. Communicate with participant
+
+Use [boilerplate email template \(Published Story\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing) to let the participant know their story is published. You can copy anyone you’d like on this email \(organizational communications department, project leaders, etc.\).
+
+## 4. Update StoryEngine tracker
+
+Keep [master tracker](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=0&range=E:E) sheet up-to-date with the latest information, including a link to the participant’s story.
+
+After you have published several stories, you are ready to start analysis!
+
+# Sharing tools + templates
+
+The following is a list of suggested tools, services, hardware, and software.
 
 * Social media + blogs \(Twitter, facebook, instagram, sites like Medium\)
 * WordPress \(or other content management system\)
@@ -13,23 +31,5 @@ The following is a list of suggested tools, services, hardware, and software —
 * [StoryEngine tracker — master tracker sheet](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=0&range=E:E)
 * [StoryEngine tracker — social media sheet](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=1256229332&range=C3)
 
-## **Steps + tasks in the share phase**
 
-### Publish story online
-
-Copy, paste, and format approved story content to post on your website.
-
-### 2. Compose and share social media content
-
-Use [StoryEngine tracker — social media sheet](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=1256229332&range=C3) to compose tweets and posts to share on your social media websites. This content can also be shared with the participant so they can share.
-
-### 3. Communicate with participant
-
-Use [boilerplate email template \(Published Story\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing) to let the participant know their story is published. You can cc anyone you’d like on this email \(organizational communications department, project leaders, etc\)
-
-### 4. Update StoryEngine tracker
-
-Keep [master tracker](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=0&range=E:E) sheet up-to-date with the latest information, including a link to the participant’s story.
-
-After you have published several stories, you are ready to start analysis!
 
