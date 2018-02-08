@@ -10,7 +10,7 @@ Because we saw an opportunity to scratch a particular itch.We wanted something t
 
 2. **Tell a clear story about impact.** Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**      
+3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**            
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
@@ -31,7 +31,7 @@ We found traditional methods for doing these things — like personal intuition 
 
 ### **Mozilla provided our test-bed**
 
-In mid 2016, the Mozilla Foundation was wrestling with questions like these. They had built a broad global network of partners, volunteers and activists doing many different kinds of things, and they wanted to gain insights and understanding around what motivated them, what challenges they were facing, and how the organization’s new strategy could help. They were also seeking ways to tell a better impact story about their work, in ways that simply capturing numerical data wasn’t able to do.**      
+In mid 2016, the Mozilla Foundation was wrestling with questions like these. They had built a broad global network of partners, volunteers and activists doing many different kinds of things, and they wanted to gain insights and understanding around what motivated them, what challenges they were facing, and how the organization’s new strategy could help. They were also seeking ways to tell a better impact story about their work, in ways that simply capturing numerical data wasn’t able to do.**            
 **
 
 # **What did we learn?**
@@ -52,7 +52,7 @@ In mid 2016, the Mozilla Foundation was wrestling with questions like these. The
 
 **Leveraging existing data** — We realized that it was a fool's errand to create yet another organization/staff processes to generate leads, when the reality was that most organizational initiatives were already outputting well-documented and important leads, so we tapped those \(examples: network survey data, MozFest session leads in GitHub\). Note that, at the time, StoryEngine findings were intended to feed into the development of a value proposition for the emerging “Mozilla Network”, so we focused on people who had already expressed opinions as part of the more open-ended network survey questions. We coupled this with continuing to reach out to program staff, as well as reaching out to MozFest sessions leads — aiming to get good representation from across different programs, geographies, genders, and backgrounds.
 
-**Responding to staff requests: Network 50, Fellows, Online Harassment **— As StoryEngine gained traction within Mozilla, we started being asked to interview specific participants, such as the MLN 50 awardees, as well as specific groups, such as fellows, host organizations \(Open Web, Open Science\), and more technical folks. We were also asked to reach out to people who might have some insights into the issue of online harassment \(examples: Emily May, Hera Hussein\). The selection criteria is anticipated to evolve in 2018, in response to new organizational directions.**      
+**Responding to staff requests: Network 50, Fellows, Online Harassment **— As StoryEngine gained traction within Mozilla, we started being asked to interview specific participants, such as the MLN 50 awardees, as well as specific groups, such as fellows, host organizations \(Open Web, Open Science\), and more technical folks. We were also asked to reach out to people who might have some insights into the issue of online harassment \(examples: Emily May, Hera Hussein\). The selection criteria is anticipated to evolve in 2018, in response to new organizational directions.**            
 **
 
 ## **Evolution of privacy + consent**
@@ -75,9 +75,9 @@ The owner of StoryEngine Google docs should adequately monitor permissions. At t
 
 * **NDA your team and transcribers** — Be sure any and all staff who have access to audio/video files and/or transcripts has signed a non-disclosure agreement.
 
-* **Google doc permissions should be as secure as possible** — limit access and monitor permissions closely.
+* **Google doc permissions should be as secure as possible** — Limit access and monitor permissions closely.
 
-* **Permissions should be gained at two levels** — prior to interviewing and prior to publishing. We want to make sure everyone, at all levels and abilities, has the opportunity to consider what they are sharing with the public. They can edit their interview for clarity, avoid security risks, and improve the overall message they are trying to convey.**      
+* **Permissions should be gained at two levels** — prior to interviewing and prior to publishing. We want to make sure everyone, at all levels and abilities, has the opportunity to consider what they are sharing with the public. They can edit their interview for clarity, avoid security risks, and improve the overall message they are trying to convey.**            
   **
 
 ## **Evolution of transcription services**
@@ -88,8 +88,8 @@ The owner of StoryEngine Google docs should adequately monitor permissions. At t
 
 **Recommended transcriptionist pay scale** — based on our research on the Transcription Essentials Forum.
 
-\_\__$1.25 per audio minute for a 20 calendar day turnaround      
-_\_\__$1.75 per audio minute for a 5 calendar day turnaround      
+\_\__$1.25 per audio minute for a 20 calendar day turnaround            
+_\_\__$1.75 per audio minute for a 5 calendar day turnaround            
 _\_\_$2.75 per audio minute for a 24 hour turnaround  
 \_\_\*Add $1.00 per audio minute for poor or difficult audio
 
@@ -121,13 +121,17 @@ In our research of tools to use, we thought about our needs and came up with the
 
 **Affordability** — The ability for most organizations to afford the tool.
 
-**Online collaboration** — The ability for teams to collaborate in real-time.
+**Online collaboration** — The ability for teams to collaborate in real-time
+
+**Open-on-the-web QDA** — The ability for respondents to be able to see how their words are being interpreted, and provide the opportunity for feedback and additional thoughts.
 
 **Sorting information** — The ability to organize information in a wide variety of ways to better understand the data.
 
-We came across the online annotation tool, [Hypothes.is](/hypothes.is). While the tool is not designed for analysis, we found usefulness in the ability to highlight and tag passages of text online. While we do not recommend Hypothes.is as a tool for complete packaged analysis, we note its usefulness in using a top-down analysis approach, the ability to use a closed set of tags, and in creating a quote database.
+We tested [Hypothes.is](/hypothes.is), an open and free web annotation tool. While the tool is not designed for analysis, we found usefulness in the ability to highlight and tag passages of text online. While a spreadsheet can be shared and commented on, we also tested[Hypothes.is](https://www.gitbook.com/book/loup/storyengine/edit#), an open and free web annotation tool. Hypothes.is is currently installed on StoryEngine.io to enable this.
 
-We had a meeting with Jon Udell to discuss possible future uses for Hypothes.is, including the potential of Hypothes.is to be an open analysis tool. We find that traditional methods of analysis lack transparency — keeping the ways of interpreting someone’s words behind closed doors. If opened up, analysis of content has the potential to be forward facing — the interviewee and the rest of the world would be able to see how we interpreted someone’s words. Open analysis would be transparent and interactive — anyone, including the interviewee, can view how the interviewee’s words are interpreted — and anyone can add to or conduct an analysis of the interviews, as well as ask questions and make comments and suggestions.
+We also spoke with Hypothes.is leadership to let them know what we wanted to to and ask about emerging features. At this point it's not robust enough to be used for rigorous data analysis, although it is possible to create a controlled set of tags and export annotations and tags into a spreadsheet so they can be manipulated. We also learned about the practice of ["Annotatathons" — view notes with examples](https://www.gitbook.com/book/loup/storyengine/edit#) — a promising approach to engagement and collaborative sensemaking.
+
+While we do not recommend Hypothes.is as a tool for complete packaged analysis, we note its usefulness in using a top-down analysis approach, the ability to use a closed set of tags, and in creating a quote database.
 
 ### Hypothes.is challenges to date
 
