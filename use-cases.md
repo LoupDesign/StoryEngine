@@ -1,5 +1,7 @@
 # Use Cases
 
+\[more on the way!\]
+
 ## Stephanie Wright, Mozilla Science Program Lead, Mozilla Foundation
 
 I first stumbled upon StoryEngine at a Mozilla work week. It was at a time where we had had a change in [Science Lab](https://science.mozilla.org/) leadership and were working on strategic planning. We had just started the [Working Open Workshop](https://mozillascience.github.io/WOW-2017/)s and [Open Leadership](https://mozilla.github.io/leadership-training/) mentoring programs and were trying to figure out what to do going forward. I heard there were several stories of people from the Science Lab and took the time to read them. The stories were so powerful — they called out things that I didn't realize were important for our participants. They talked specifically about how our programs helped them, and what they were able to do next. These insights were key to our strategic planning.
