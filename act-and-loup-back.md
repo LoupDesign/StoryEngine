@@ -4,17 +4,19 @@ The Act & Loop is phase is focused on using and applying StoryEngine insights to
 
 ![](/assets/full_storyengine_process_BIG.png)
 
-StoryEngine emerged from participatory and human centered design \(HCD\) practices, and it is particularly well suited to deliver the insights required for the initial discovery / inspiration / empathize phase. The names differ depending on the framework, but basically this is the first phase of a design thinking / HCD process". 
+## StoryEngine as design research
 
-#### Example: The phases of a design thinking process tailored to K-12 educators, from [_Design Thinking for Educators_](https://designthinkingforeducators.com/)
+StoryEngine emerged from participatory and human centered design \(HCD\) practices, and it is particularly well suited to deliver the insights required for the initial discovery / inspiration / empathize phase. The names differ depending on the framework, but basically this is the first phase of a design thinking / HCD process. 
+
+#### Example: The phases of a design thinking process tailored to K-12 educators, from [_Design Thinking for Educators_](https://designthinkingforeducators.com/) — StoryEngine would serve the Discovery and Interpretation steps
 
 ![](/assets/Design-Thinking-for-Education_.png)
 
-Unlike most design research methods, StoryEngine is designed to be ongoing — to serve as a platform for inquiry, feedback, and  deep listening and engagement with the people who matter most. Another difference is that we emphasize the importance of feedback as yet another way to deliver value to research participants, as well as to demonstrate that their voices and thoughts matter ­— and have impact. Acknowledging and elevating diverse voices is key to this work. 
+## Ongoing research and inquiry
 
+Unlike most design research methods \(and there are many\), StoryEngine is designed to be ongoing — to serve as a platform for inquiry, feedback, and deep listening and engagement with the people who matter most. Another difference is that we emphasize the importance of feedback as yet another way to deliver value to research participants, as well as to demonstrate that their voices and thoughts matter ­— and have impact. Acknowledging and elevating diverse voices is key to this work.
 
-
-#### The structure of this 
+#### The structure of this
 
 ### Report back to participants
 
