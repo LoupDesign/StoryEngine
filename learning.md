@@ -10,7 +10,7 @@ Because we saw an opportunity to scratch a particular itch.We wanted something t
 
 2. **Tell a clear story about impact.** Demonstrate the human impact a given project or program is having out in the world. How is it helping real people? How it is changing lives? Beyond data or “just the numbers,” impact narratives from the field can put a human face on the work, in ways that make the organization’s mission or theory of change feel real.\(Feeds into: internal and external communications, monitoring and evaluation, reporting, etc.\)
 
-3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                      
+3. **Continually learn and improve.** Organizations need to help their staff continually learn and develop. Developing a clearer understand around who the work is for, and what those people actually want, is essential to this. When we bring staff closer to the experience of real stakeholders on the ground, it boosts their understanding, empathy and ideas for improvement. \(Feeds into: organizational learning, staff training, on-boarding, etc.\)**                        
    **
 
 **We developed StoryEngine because we wanted one process that could do all three of those things well. **Our goal was to help organizations increase their “bang for buck,” or return on investment, by designing a single process that could benefit multiple teams and functions across the organization through a single process. How does StoryEngine help?
@@ -85,10 +85,10 @@ The owner of StoryEngine Google docs should adequately monitor permissions. At t
 
 **Recommended transcriptionist pay scale** — based on our research on the Transcription Essentials Forum.
 
-\_\__$1.25 per audio minute for a 20 calendar day turnaround                      
-_\_\__$1.75 per audio minute for a 5 calendar day turnaround                      
-_\_\_$2.75 per audio minute for a 24 hour turnaround  
-\_\_\*Add $1.00 per audio minute for poor or difficult audio
+* _$1.25 per audio minute for a 20 calendar day turnaround                      _
+* _$1.75 per audio minute for a 5 calendar day turnaround                      _
+* $2.75 per audio minute for a 24 hour turnaround
+* \*Add $1.00 per audio minute for poor or difficult audio
 
 #### **Important things to remember**
 
