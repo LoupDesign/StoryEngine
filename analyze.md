@@ -28,7 +28,7 @@ Familiarize yourself with the corpus \(the set of stories you'll be analyzing\) 
 
 ## 3. Code published stories
 
-We recommend using both preset and emergent codes — preset codes are codes assigned to ideas, concepts, or themes you expect to find during analysis, and emergent codes are codes assigned to ideas, concepts, and themes as they emerge in your analysis. This document serves to guide you through the coding of StoryEngine data. StoryEngine is an ongoing learning process designed to surface concrete and specific examples of people’s experiences that provide insights to the questions you developed. It should also surface things you weren’t expecting to find — these surprises are just as important.
+We recommend using both preset and emergent codes — preset codes are codes assigned to ideas, concepts, or themes you expect to find during analysis \(based on the learning questions you established during the design phase, as well as organizational hot topics or key areas of work\), and emergent codes are codes that surface during your analysis. The idea with emergent codes is to surface things you weren’t expecting to find — these surprises are important.
 
 ![](/assets/spreadsheet_analysis_example.png)
 
@@ -38,29 +38,35 @@ A code is a short word or phrase assigned to an idea, concept, or theme. Coding 
 
 ### Coding your data
 
-Assign identifier information to each interview— Decide what identifier information is important and assign identifier information accordingly. Examples of identifiers you might use: gender of participant, date of interview, age of participant, location of participant’s residence, and participant’s profession.
+**Assign identifier information to each interview **— Decide what identifier information is important and assign identifier information accordingly. Examples of identifiers you might use: gender of participant, date of interview, age of participant, location of participant’s residence, and participant’s profession.
 
-Determine preset codes and code your data set accordingly— Use your questions and notes to develop preset codes and initial coding structure — note that your coding structure will continue to develop over the coding process. Preset codes should cover ideas, concepts, and themes you expect to find based on the design of your questions — they will generally pop up in every interview, as the questions are specifically designed to uncover them. For example — we used the preset code, “success,” to identify passages of text in response to the question, “Tell me about a time you felt a sense of success.”
+**Determine preset codes and code your data set accordingly **— Use your questions and notes to develop preset codes and initial coding structure — note that your coding structure will continue to develop over the coding process. Preset codes should cover ideas, concepts, and themes you expect to find based on the design of your questions — they will generally pop up in every interview, as the questions are specifically designed to uncover them. For example — we used the preset code, “success,” to identify passages of text in response to the question, “Tell me about a time you felt a sense of success.”
 
-Use emergent codes to capture emerging ideas, concepts, and themes— As you make your way through the corpus, remember to utilize emergent codes to capture the things you didn’t expect to find.
+**Use emergent codes to capture emerging ideas, concepts, and themes** — As you make your way through the corpus, remember to utilize emergent codes to capture the things you didn’t expect to find.
 
-Remember, coding is iterative and will change as your analysis and work progresses. This is especially true for emergent codes. You may find yourself combing back through interviews to make changes to your coding structure. For example, you may have coded passages of text in several interviews as “disagreement,” and in passages of text of other interviews as “dispute,” but later you realize that these two codes represent the same idea, so you synthesize your coding structure so that all “dispute” and “disagreement” codes are now “disagreement.”
+REMEMBER: Coding is iterative and will change as your analysis and work progresses. This is especially true for emergent codes. You may find yourself combing back through interviews to make changes to your coding structure. For example, you may have coded passages of text in several interviews as “disagreement,” and in passages of text of other interviews as “dispute,” but later you realize that these two codes represent the same idea, so you synthesize your coding structure so that all “dispute” and “disagreement” codes are now “disagreement.”
 
 ## 4. Analyze and synthesize findings
 
-Based on notes and coding, synthesize what’s happening in your data. Using your preset codes, purposefully look for answers to the questions you documented during the design phase. Then use emergent codes to organize emerging patterns and themes — what surprised you? What did you find that you weren’t looking for?
+Based on notes and coding, synthesize what you're learning. Using your preset codes, purposefully look for answers to the questions you documented during the Design phase. Then use emergent codes to organize emerging patterns and themes — What surprised you? What did you find that you weren’t looking for?
 
 ## 5. Package your findings for use
 
-We recommend formatting your findings based on user needs — what are they trying to accomplish? The Mozilla initial [test report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) was framed based on their “5 Objectives and Key Results.”
+We recommend formatting your findings based on user needs — as established during the Design phase. For example, the initial StoryEngine [pilot report](https://storyengine.io/wp-content/uploads/2017/01/StoriesfromtheNetwork_MozillaFoundation_January2017-3.pdf) for the Mozilla Foundation was framed and organized around their already-established strategic objectives and key results. Findings can also be packaged as personas, journey maps, timelines, and more — it all depends on what works for your users. 
+
+#### Example: Front and back of a persona card developed my the Mozilla Foundation design team, based on their analysis of StoryEngine data and existing strategy documents![](/assets/persona-selby-front.png)
+
+#### ![](/assets/persona-selby-front.png)
+
+#### ![](/assets/persona-selby-front.png)![](/assets/persona-sebly-back.png)
 
 Now that your learning and insights are in a usable format, you're ready to [Act & Loup Back](/act-and-loup-back.md).
 
 # Analysis tools & templates
 
-[StoryEngine Data Structure & Analysis Test Results](https://docs.google.com/spreadsheets/d/1RK1Bp8d0WzovwMwmuGzINM2HN_7bQfaW8egcdjT-dUQ/edit?usp=sharing) — Spreadsheet with a proposed data structure for better online display and filtering of participant attributes, questions, topics, and tags.
+* [StoryEngine Data Structure & Analysis Test Results](https://docs.google.com/spreadsheets/d/1RK1Bp8d0WzovwMwmuGzINM2HN_7bQfaW8egcdjT-dUQ/edit?usp=sharing) — Spreadsheet with a proposed data structure for better online display and filtering of participant attributes, questions, topics, and tags.
+* [Using Excel to Organize Qualitative Data for Analysis ](https://drive.google.com/file/d/1zDpZVfIGPe93Ni5y-aPF1q-F3tyzwl6l/view?usp=sharing)— Written by Susan Eliot \(now retired\). A simple yet effective way to use a spreadsheet to conduct analysis. We used Google Spreadsheets instead.
+* [Running an Annotatathon with Hypothesis](https://docs.google.com/document/d/13gp-AZCUR3Kr-YQzFUtowfHlAiCYDRhnz6o_zhGW7Mg/edit?usp=sharing)
 
-[Using Excel to Organize Qualitative Data for Analysis ](https://drive.google.com/file/d/1zDpZVfIGPe93Ni5y-aPF1q-F3tyzwl6l/view?usp=sharing)— Written by Susan Eliot \(now retired\). A simple yet effective way to use a spreadsheet to conduct analysis. We used Google Spreadsheets instead.
 
-[Running an Annotatathon with Hypothesis](https://docs.google.com/document/d/13gp-AZCUR3Kr-YQzFUtowfHlAiCYDRhnz6o_zhGW7Mg/edit?usp=sharing)
 
