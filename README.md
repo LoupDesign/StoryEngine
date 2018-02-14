@@ -1,6 +1,6 @@
 # Welcome to the StoryEngine Repo!
 
-StoryEngine is a narrative-based methodology that can be used for research, evaluation, learning, and grant reporting. Drawing on deep listening and participatory approaches, StoryEngine systematically collects and analyzes successes, challenges, practices, perceptions, and more — while generating assets that participants can use to promote and amplify their work.
+StoryEngine ([website](https://storyengine.io), [guide](https://loup.gitbooks.io/storyengine/content/)) is a narrative-based methodology that can be used for research, evaluation, learning, and grant reporting. Drawing on deep listening and participatory approaches, StoryEngine systematically collects and analyzes successes, challenges, practices, perceptions, and more — while generating assets that participants can use to promote and amplify their work.
 
 StoryEngine was specifically designed to serve organizational learning and innovation, power feedback loops, and provide insights to guide strategy and design decisions. Most importantly, it recognizes that _**an interview is an experience**_ — a touchpoint with an organization — and therefore an opportunity to build relationships, provide support, and make connections.
 
