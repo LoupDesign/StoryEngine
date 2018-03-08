@@ -1,6 +1,6 @@
 # Listen
 
-The objective of the Listen phase is to connect and listen to the participants at an individual and personal level. Deep, empathetic listening is at the core of StoryEngine, and the listening phase is where you make this happen. We encourage you to become familiar with the person you will interview — do research to find out a bit about their background, interests and any published writing as this will help you better relate and ask prompting questions when interviewing them. It is imperative that the interviewer build a deeper understanding of the subject before any conversation begins.**                                  
+The objective of the Listen phase is to connect and listen to the participants at an individual and personal level. Deep, empathetic listening is at the core of StoryEngine, and the listening phase is where you make this happen. We encourage you to become familiar with the person you will interview — do research to find out a bit about their background, interests and any published writing as this will help you better relate and ask prompting questions when interviewing them. It is imperative that the interviewer build a deeper understanding of the subject before any conversation begins.**                                    
 **
 
 **IMPORTANT: No unauthorized access to audio / video files or transcripts **—** **Only immediate and approved staff should have access to these documents at any given time. The StoryEngine methodology ensures the privacy of the participant, sharing only what they have given us consent to share. **The only document that can be shared is the published interview.**
@@ -15,7 +15,7 @@ Personalize the [boilerplate email template \(Asking for an Interview\)](https:/
 
 ## 3. **Request consent to interview**
 
-Use the [boilerplate email template \(Interview Release\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing) and HelloSign \(or other e-signature service\) to request consent to interview — check with your organization, as they may already use or subscribe to an e-signature service.
+Use the [boilerplate email template \(Interview Release\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing), [Interview release template](https://docs.google.com/document/d/1MTGTLcvMCkbdlLUK6hz0ptpD1yHRggmIAL9Lcael9ro/edit?usp=sharing), and HelloSign \(or other e-signature service\) to request consent to interview — check with your organization, as they may already use or subscribe to an e-signature service.
 
 ## 4. **Interview participant**
 
@@ -31,6 +31,7 @@ The following is a list of suggested tools, services, hardware, and software —
 
 * [StoryEngine tracker — master tracker sheet](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3QvWhvZkGJZ3M9wps5ZfSD-XN0wM/edit#gid=0&range=E:E)
 * [Boilerplate email template](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing)
+* [Interview Release template](/Interview release form)
 * [Calendly](https://calendly.com/) \(or other scheduling app\)
 * [Interview guide](https://docs.google.com/document/d/1RsEg7EkmdZnHE3s8gQG5CuYKzRJmgOTSO87wK6XsRrM/edit?usp=sharing)
 * [Skype](https://web.skype.com/) + [Ecamm](http://www.ecamm.com/)
