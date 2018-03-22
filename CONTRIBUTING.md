@@ -12,7 +12,7 @@ The following is a list of guidelines for contributing to the StoryEngine projec
 
 [How can I contribute](https://github.com/LoupDesign/StoryEngine/new/master#how-can-i-contribute)
 - [Tackle an issue / further the project](https://github.com/LoupDesign/StoryEngine/new/master#tackle-an-issue--further-the-project)
-- [File an issue](https://github.com/LoupDesign/StoryEngine/new/master#file-an-issue)
+- [File an issue or pull request](https://github.com/LoupDesign/StoryEngine/new/master#file-an-issue)
 - [Suggest enhancements to the project](https://github.com/LoupDesign/StoryEngine/new/master#suggest-enhancements-to-the-project)
 
 [Your first contribution](https://github.com/LoupDesign/StoryEngine/new/master#your-first-contribution)
@@ -27,7 +27,7 @@ This project and everyone participating in it is governed by the [StoryEngine Co
 ### Tackle an issue / further the project
 Help us tackle issues. Use these [labels](https://github.com/LoupDesign/StoryEngine/new/master#issue-and-pull-request-labels) to help find an issue that matches your talents.
 
-### File an issue
+### File an issue or pull request
 File an issue for a specific suggestion, bug, or recommendation on how to improve our content or on any place content seems missing or is incomplete. We are also looking for any copy errors. (Does it make sense? Do you understand it? Is all the information you need there? Are there any typos?) Please use these [labels](https://github.com/LoupDesign/StoryEngine/new/master#issue-and-pull-request-labels) (as applicable) to file an issue.
 
 ### Suggest an area of enhancement to the project
