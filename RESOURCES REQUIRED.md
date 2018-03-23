@@ -1,4 +1,4 @@
-# Resources required
+# Resources required for using StoryEngine
 
 To use StoryEngine, you will need:
 
