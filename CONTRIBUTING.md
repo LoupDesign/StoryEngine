@@ -53,7 +53,7 @@ This section lists the labels we use to help us track and manage issues and pull
 | `help wanted` | [search][search-loup-storyengine-label-help wanted] | explicit asks for help in tackling an issue or task |
 | `duplicate` | [search][search-loup-storyengine-label-duplicate] | Issue is a duplicate |
 | `beginner` | [search][search-loup-storyengine-label-beginner] | Easy to contribute issues that can be done with minimal effort or knowledge of the project |
-| `mozsprint` | [search-loup-storyengine-label-mozsprint] | Ready to tackle issues for MozSprint 2018 |
+| `mozsprint` | [search][search-loup-storyengine-label-mozsprint] | Ready to tackle issues for MozSprint 2018 |
 | `suggestions` | [search][search-loup-storyengine-label-suggestions] | Suggest edits or improvement to content |
 | `enhancements` | [search][search-loup-storyengine-label-enhancements] | Suggest new features and minor improvements to the existing project |
 | `editors` | [search][search-loup-storyengine-label-editors] | Writers and editors |
