@@ -10,13 +10,21 @@ StoryEngine is influenced by narrative research methods \([Most Significant Chan
 
 StoryEngine attempts to be sensitive to and useful for participants. We are not interested in extractive research or evaluation. We also understand that an interview is an important touchpoint and opportunity for engagement. So we look for opportunities to make connections and support participants’ work.
 
-Unless otherwise noted, all stories are shared under a [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/)license, so that others can build on this work, including researchers who want to analyze datasets further.
+Unless otherwise noted, all stories are shared under a [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) license, so that others can build on this work, including researchers who want to analyze datasets further.
 
 ## Sampling
 
 For Mozilla, we used purposeful sampling, focusing on foundation partners, fellows, volunteers, and people and organizations in the broader Mozilla ecosystem. We actively sought out respondents from different programs, initiatives, demographic groups, and geographies. Our sampling evolved during the pilot, and included staff tip submissions, individuals submitting their own stories, and snowball sampling.
 
 StoryEngine was also designed to analyze stories drawn from content on the open web, such as community-generated blogs, podcasts, or videos. At this stage, however, we have only analyzed a corpus composed of participant interviews.
+
+## Consent
+
+StoryEngine uses a two-step consent process to ensure privacy and security of participants and the org – the [interview release](https://docs.google.com/document/d/1MTGTLcvMCkbdlLUK6hz0ptpD1yHRggmIAL9Lcael9ro/edit?usp=sharing) and [consent to publish](https://docs.google.com/document/d/1YTlwbnCD3rVbRC689fUl_zWMv4X_8lyzEQZV5S8PvEE/edit?usp=sharing). The interview release is sent to the participant and signed before the interview takes place and the consent to publish is sent to participants after they informally \(email\) say they are finished editing their story and approve it.
+
+We are currently looking into ways for participants to revoke consent after their interview has been posted online. We learned about the gaps in our consent process during one of our interviews. [Una Lee](https://www.andalsotoo.net/people/) is a Mozilla grantee and a designer working on something called the Ripple Map — a way to capture the impacts of events like these — impacts that ripple out over many years. As Una and her partner, Dann Toliver, developed the digital version of the Map, they started to run into challenges around consent. [They were capturing data about people and organizations — and the connections between them — that posed privacy and security risks](https://www.andalsotoo.net/2017/07/01/amc-2017-get-ready-stay-ready/), so Una and Dann [proposed an approach](https://www.andalsotoo.net/2018/01/03/consentful-tech-workshop-at-mozfest-2017/) based on Planned Parenthood's sexual consent framework — extended to think about how we might create consentful technologies and ensure that users maintain control over their digital bodies.
+
+We're thinking about how we might to adopt this framework for StoryEngine. The challenge: it never seemed like “the right time” to implement practices around revoking consent, especially because it’s complicated logistically.
 
 ## Six key steps
 
