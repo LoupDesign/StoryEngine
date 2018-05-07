@@ -7,7 +7,7 @@
 * [3. Process Narratives](process-narratives.md)
 * [4. Share](share.md)
 * [5. Analyze](analyze.md)
-* [6. Act & Loup Back](act-and-loup-back.md)
+* [6. Act & Loop Back](act-and-loup-back.md)
 * [Learning & History](learning.md)
 * [Use Cases](use-cases.md)
 
