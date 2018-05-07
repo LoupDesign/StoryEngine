@@ -28,14 +28,11 @@ The stories helped me to better understand people’s contexts, for example work
 
 We're now validating the personas with staff — checking to see if we got them right. But even at this early stage I am using them. For example, I had those personas in mind when we were working on the fellowship pages for the Mozilla website. I made a video from the perspective of "The System Changer" — and using perspective walked through all the parts of the site. When I showed some fellows the video it seemed very useful to them. It clicked with them and they were able to say, "Yes, I would say that.”
 
-As a designer that was really nice. People were very excited to walk through the site using the lenses of different users. Because it's not about me or what my team thinks -- but about the users and what is best for them. So that experiment we did using personas to walk through the website was very valuable. It's also useful as I think through website features, and helps me to understand what is important.
+As a designer that was really nice. People were very excited to walk through the site using the lenses of different users. Because it's not about me or what my team thinks — but about the users and what is best for them. So that experiment we did using personas to walk through the website was very valuable. It's also useful as I think through website features, and helps me to understand what is important.
 
 I felt like I got to know each person when I went through the process of reading the stories and generating the personas. They're kind of like my best friends now and I think about them a lot. When I talk to people I think, "Hmmmm, in which category would this person fit?" If we had had the personas handed to us I don’t think it would have been the same. Going through the experience of surfacing the information and working with my team and trying to align what we were learning with the company strategy was valuable. It was not a super smooth experience, but if I had everything given to me I don't think I would have been able to justify the time to read through the stories.
 
 Also there was value in building the personas with my team — of sharing ownership of the process. It was not just me. I connected with my colleagues and together we built those personas — we grabbed the data, we discussed what it meant. That means that in terms of implementing the chances of using those insights are higher — because they belonged to all of us.
 
 I feel so close to the audience now — it helps me to design better for them. Without StoryEngine, I don't know how I would have designed for such a diverse group of people.
-
-  
-
 
