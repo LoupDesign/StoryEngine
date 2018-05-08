@@ -55,11 +55,11 @@ StoryEngine was developed by [Loup](https://loup.design) for the [Mozilla Founda
 
 # Want to contribute?
 
-If you’d like to contribute to advancing the StoryEngine methodology, please see our [contributor's guide](https://github.com/LoupDesign/StoryEngine/blob/master/CONTRIBUTING.md).
+We're thrilled to have your help, thank you! If you’d like to contribute to advancing the StoryEngine methodology, please see our [contributor's guide](https://github.com/LoupDesign/StoryEngine/blob/master/CONTRIBUTING.md).
 
-# I want to use StoryEngine!
+# Want to use StoryEngine?
 
-If you’ve made it this far in the ReadMe doc, you may want to try using StoryEngine. Next step: read the [StoryEngine Guide](https://loup.gitbooks.io/storyengine/content/). Please submit any questions via GitHub issues so they can be properly documented.
+Welcome! We're happy you're here. Next step: read the [StoryEngine Guide](https://loup.gitbooks.io/storyengine/content/). Please submit any questions via GitHub issues so they can be properly documented.
 
 # The obligatory disclaimer...
 
