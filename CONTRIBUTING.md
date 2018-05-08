@@ -49,8 +49,8 @@ This section lists the labels we use to help us track and manage issues and pull
 | --- | --- | --- |
 | `admin` | [search][search-loup-storyengine-label-admin] | Only an admin can resolve |
 | `bug` | [search][search-loup-storyengine-label-bug] | Something's wrong or not working properly (broken link) |
-| `guidebook` | [search][search-loup-storyengine-label-guidebook] | issue related to the StoryEngine guidebook |
-| `help wanted` | [search][search-loup-storyengine-label-help wanted] | explicit asks for help in tackling an issue or task |
+| `guidebook` | [search][search-loup-storyengine-label-guidebook] | Issue related to the StoryEngine guidebook |
+| `help wanted` | [search][search-loup-storyengine-label-help wanted] | Explicit asks for help in tackling an issue or task |
 | `duplicate` | [search][search-loup-storyengine-label-duplicate] | Issue is a duplicate |
 | `beginner` | [search][search-loup-storyengine-label-beginner] | Easy to contribute issues that can be done with minimal effort or knowledge of the project |
 | `mozsprint` | [search][search-loup-storyengine-label-mozsprint] | Ready to tackle issues for MozSprint 2018 |
