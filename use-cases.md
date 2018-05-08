@@ -24,7 +24,7 @@ Generating personas from the stories was challenging because of the volume of in
 
 I read 30 stories and put them into a spreadsheet. For each person, I asked: What do they worry about? What are their pains? What are their gains? — with regard to their interactions with Mozilla as well as challenges in their lives in general. I used tags to create groups and then re-read the stories to see what fit with what. Once I had the groups I put them into clusters. Our team works remotely so we used digital post-its \(RealTime Board\) and we discussed what we were seeing -- because sometimes this kind of work can be very subjective.
 
-The stories helped me to better understand people’s contexts, for example working at CERN or working as a data journalist. I learned a lot from those details and technicalities. This is important because, as a designer, I need to understand users -- and their universe -- the best I can.
+The stories helped me to better understand people’s contexts, for example working at CERN or working as a data journalist. I learned a lot from those details and technicalities. This is important because, as a designer, I need to understand users — and their universe — the best I can.
 
 We're now validating the personas with staff — checking to see if we got them right. But even at this early stage I am using them. For example, I had those personas in mind when we were working on the fellowship pages for the Mozilla website. I made a video from the perspective of "The System Changer" — and using perspective walked through all the parts of the site. When I showed some fellows the video it seemed very useful to them. It clicked with them and they were able to say, "Yes, I would say that.”
 
