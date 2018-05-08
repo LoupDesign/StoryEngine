@@ -10,6 +10,8 @@ The following is a list of guidelines for contributing to the StoryEngine projec
 
 [Code of Conduct](#code-of-conduct)
 
+[What are issues and pull requests?](#what-are-issues-and-pull-requests)
+
 [How can I contribute](#how-can-I-contribute)
 - [Tackle an issue / further the project](#tackle-an-issue-/-further-the-project)
 - [File an issue or pull request](#file-an-issue-or-pull-request)
@@ -22,13 +24,21 @@ The following is a list of guidelines for contributing to the StoryEngine projec
 ## Code of conduct
 This project and everyone participating in it is governed by the [StoryEngine Code of Conduct](https://github.com/LoupDesign/StoryEngine/blob/master/CODE%20OF%20CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to github@loup.design.
 
+## What are issues and pull requests?
+**Issues** are essentially ways to report errors or bugs. In the case of StoryEngine, we also use issues to call attention to specific tasks and areas we need help tackling.
+
+When you help us tackle those issues, you will most likely be in the form of a **pull request**. When you open a pull request, you’re proposing your changes and requesting that we review and pull in your contribution and merge them into our branch. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before the changes are merged into the repository.
+
 ## How can I contribute?
 
 ### Tackle an issue / further the project
-Help us tackle issues. Use these [labels](#issue-and-pull-request-labels) to help find an issue that matches your talents.
+Help us tackle issues. These [labels](#issue-and-pull-request-labels) will help you find an issue that matches your talents or expertise. Then use a pull request to help resolve the issue.
 
-### File an issue or pull request
-File an issue for a specific suggestion, bug, or recommendation on how to improve our content or on any place content seems missing or is incomplete. We are also looking for any copy errors. (Does it make sense? Do you understand it? Is all the information you need there? Are there any typos?) Please use these [labels](#issue-and-pull-request-labels) (as applicable) to file an issue.
+### File an issue
+Notice a problem but don't know how to fix it? File an issue.  Please use these [labels](#issue-and-pull-request-labels) (as applicable) to file an issue
+
+### File a pull request
+File a pull request for specific recommendations on how to improve our content or fixes to copy errors. Please use these [labels](#issue-and-pull-request-labels) (as applicable) to file a pull request.
 
 ### Suggest an area of enhancement to the project
 Don't see yourself on this list? Do you see an area of expertise or way we can enhance the StoryEngine project that we didn't include? To suggest new features and minor improvements to the existing project, file an issue and label it `enhancement`.
