@@ -16,6 +16,7 @@ The following is a list of guidelines for contributing to the StoryEngine projec
 - [Tackle an issue / further the project](#tackle-an-issue-/-further-the-project)
 - [File an issue or pull request](#file-an-issue-or-pull-request)
 - [Suggest enhancements to the project](#suggest-enhancements-to-the-project)
+- [Join our Slack workspace](#join-our-slack-workspace)
 
 [Your first contribution](#your-first-contribution)
 
@@ -42,6 +43,9 @@ File a pull request for specific recommendations on how to improve our content o
 
 ### Suggest an area of enhancement to the project
 Don't see yourself on this list? Do you see an area of expertise or way we can enhance the StoryEngine project that we didn't include? To suggest new features and minor improvements to the existing project, file an issue and label it `enhancement`.
+
+### Join our Slack workspace
+Want to join the StoryEngine conversation? Have a question? Join our [StoryEngine Slack Workspace](https://join.slack.com/t/storyengine/shared_invite/enQtMzYwOTk5NDMxMTM3LTUwM2U1MDUxNGRjNWYwNWU4NGNmMWRjMzM3ZjVlMmVkN2U4ODkzN2VlOTMyZWEzZjhhMzlmYzUwNTk4YjJkNzY) to communicate about all things StoryEngine with us.
 
 ## Your first contribution
 `beginner`issues are easy to contribute issues that can be done with minimal effort or knowledge of the project.
