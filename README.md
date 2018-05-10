@@ -15,6 +15,8 @@ StoryEngine is way to listen to, support, and create with the people who matter 
 
 [Want to contribute?](#want-to-contribute)
 
+[Join our Slack Workspace](#join-our-slack-workspace)
+
 [I want to use StoryEngine!](#i-want-to-use-storyengine)
 
 # Code of conduct
@@ -56,6 +58,9 @@ StoryEngine was developed by [Loup](https://loup.design) for the [Mozilla Founda
 # Want to contribute?
 
 We're thrilled to have your help, thank you! If you’d like to contribute to advancing the StoryEngine methodology, please see our [contributor's guide](https://github.com/LoupDesign/StoryEngine/blob/master/CONTRIBUTING.md).
+
+# Join our Slack workspace
+Want to join the StoryEngine conversation? Have a question? Join our [StoryEngine Slack Workspace](https://join.slack.com/t/storyengine/shared_invite/enQtMzYwOTk5NDMxMTM3LTUwM2U1MDUxNGRjNWYwNWU4NGNmMWRjMzM3ZjVlMmVkN2U4ODkzN2VlOTMyZWEzZjhhMzlmYzUwNTk4YjJkNzY) to communicate about all things StoryEngine with us.
 
 # Want to use StoryEngine?
 
