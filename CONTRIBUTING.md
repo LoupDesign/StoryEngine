@@ -2,7 +2,7 @@
 
 Welcome! :boom::book: Thanks for your interest in contributing to StoryEngine — we're excited you're here! :book::boom:
 
-StoryEngine is a way to do research and evaluation for anyone who wants to listen to the people that matter most to them. StoryEngine uses interviews to draft stories that are then edited with each participant. These stories can then be used for marketing, communications, advocacy, and more — while forming a dataset that can be used to surface insights and learning.
+StoryEngine is a way to do research and evaluation for anyone who wants to listen to the people that matter most to them. It uses interviews to draft stories that are then edited with each participant. These stories can then be used for marketing, communications, advocacy, and more — while forming a dataset that can be used to surface insights and learning.
 
 The following is a list of guidelines for contributing to the StoryEngine project which is hosted by [LoupDesign](https://github.com/LoupDesign). These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
