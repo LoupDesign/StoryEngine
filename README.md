@@ -15,8 +15,6 @@ StoryEngine is way to listen to, support, and create with the people who matter 
 
 [Want to contribute?](#want-to-contribute)
 
-[Join our Slack workspace](#join-our-slack-workspace)
-
 [I want to use StoryEngine!](#i-want-to-use-storyengine)
 
 # Code of conduct
