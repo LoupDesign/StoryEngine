@@ -67,11 +67,12 @@ This section lists the labels we use to help us track and manage issues and pull
 | `help wanted` | [search][search-loup-storyengine-label-help wanted] | Explicit asks for help in tackling an issue or task |
 | `duplicate` | [search][search-loup-storyengine-label-duplicate] | Issue is a duplicate |
 | `beginner` | [search][search-loup-storyengine-label-beginner] | Easy to contribute issues that can be done with minimal effort or knowledge of the project |
-| `mozsprint` | [search][search-loup-storyengine-label-mozsprint] | Ready to tackle issues for MozSprint 2018 |
+| `mozsprint` | [search][search-loup-storyengine-label-mozsprint] | Ready to tackle issues for MozSprint |
 | `suggestions` | [search][search-loup-storyengine-label-suggestions] | Suggest edits or improvement to content |
 | `enhancements` | [search][search-loup-storyengine-label-enhancements] | Suggest new features and minor improvements to the existing project |
-| `editors` | [search][search-loup-storyengine-label-editors] | Writers and editors |
+| `writers & editors` | [search][search-loup-storyengine-label-writers & editors] | Writers and editors |
 | `users` | [search][search-loup-storyengine-label-users] |Users of StoryEngine (usually an organization) who can test StoryEngine and share back learnings |
+| `marcom` | [search][search-loup-storyengine-label-marcom] | Marketing and communications |
 | `coders` | [search][search-loup-storyengine-label-coders] | Front and back-end coders |
 | `translators` | [search][search-loup-storyengine-label-translators] | Translators fluent in English + another language |
 | `researchers` | [search][search-loup-storyengine-label-researchers] | Researchers / qualitative data analysts |
@@ -88,8 +89,9 @@ This section lists the labels we use to help us track and manage issues and pull
 [search-loup-storyengine-label-mozsprint]: https://github.com/LoupDesign/StoryEngine/labels/mozsprint
 [search-loup-storyengine-label-suggestions]: https://github.com/LoupDesign/StoryEngine/labels/suggestions
 [search-loup-storyengine-label-enhancements]: https://github.com/LoupDesign/StoryEngine/labels/enhancements
-[search-loup-storyengine-label-editors]: https://github.com/LoupDesign/StoryEngine/labels/editors
+[search-loup-storyengine-label-writers & editors]: https://github.com/LoupDesign/StoryEngine/labels/writers%20%26%20editors
 [search-loup-storyengine-label-users]: https://github.com/LoupDesign/StoryEngine/labels/users
+[search-loup-storyengine-label-marcom]: https://github.com/LoupDesign/StoryEngine/labels/marcom
 [search-loup-storyengine-label-coders]: https://github.com/LoupDesign/StoryEngine/labels/coders
 [search-loup-storyengine-label-translators]: https://github.com/LoupDesign/StoryEngine/labels/translators
 [search-loup-storyengine-label-researchers]: https://github.com/LoupDesign/StoryEngine/labels/researchers
