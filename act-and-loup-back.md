@@ -16,7 +16,7 @@ StoryEngine emerged from participatory and human centered design \(HCD\) practic
 
 ## Loop back: A platform for ongoing engagement and inquiry
 
-Unlike most design research methods, StoryEngine is can be ongoing — to serve as a platform for inquiry, feedback, and deep listening and engagement with the people who matter most. Another difference is that we emphasize the importance of **looping back** as yet another way to deliver value to research participants and to demonstrate that their voices and thoughts matter ­— and have impact. Acknowledging and elevating diverse voices is key to this work. To dig into this a bit deeper, read [_**Building a Better Feedback Loop: How deep listening and storytelling help organizations thrive**_](https://medium.com/weseek/building-a-better-feedback-loop-764022914aa), which is all about the StoryEngine methodology.
+Unlike most design research methods, StoryEngine is can be ongoing — to serve as a platform for inquiry, feedback, and deep listening and engagement with the people who matter most. Another difference is that we emphasize the importance of **looping back** as yet another way to deliver value to research participants and to demonstrate that their voices and thoughts matter ­— and have an impact. Acknowledging and elevating diverse voices is key to this work. To dig into this a bit deeper, read [_**Building a Better Feedback Loop: How deep listening and storytelling help organizations thrive**_](https://medium.com/weseek/building-a-better-feedback-loop-764022914aa), which is all about the StoryEngine methodology.
 
 ## How should we approach this phase?
 
