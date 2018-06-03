@@ -13,7 +13,7 @@ Keep [master tracker](https://docs.google.com/spreadsheets/d/1FVMHKgSiJJqT7Yq3Qv
 
 Select and use an appropriate service for transcription of audio files. Use natural language processing transcription services, such as [Trint](https://trint.com) for transcribing clear, high-quality audio, and transcriptionist services to transcribe medium- to low-quality audio.
 
-**IMPORTANT: Transcriptionists should sign an Non-disclosure Agreement before transcribing any audio related to the StoryEngine project.**
+**IMPORTANT: Transcriptionists should sign an Non-Disclosure Agreement before transcribing any audio related to the StoryEngine project.**
 
 \_\_**Trint **is a text-based toolkit for transcribing, searching, and editing media content online. We use this to transcribe clear, high-quality audio. The service transcribes an audio file in less time than the length of the audio file \(e.g., less than one hour for an hour long audio file\). Once the file is transcribed, you are able to listen to and edit the transcription using their program — simply click on the text you would like to listen to or edit.
 
@@ -43,7 +43,7 @@ Once you have the raw transcript saved under the raw transcripts folder, either 
 
 ## 4. **Communicate with participant**
 
-Use [boilerplate email template \(Editing Update\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing) to communicate with the participant concerning the status of the StoryEngine process. This email explains the process you use to edit and prepare their story for publishing.
+Use the [boilerplate email template \(Editing Update\)](https://docs.google.com/document/d/1tCx5s-6B05lSf0hqZrH2C9yr4Nh6VLrZYzhNb9SzW0I/edit?usp=sharing) to communicate with the participant concerning the status of the StoryEngine process. This email explains the process you use to edit and prepare their story for publishing.
 
 ## 5. Use the transcript to develop their story
 
