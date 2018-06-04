@@ -10,16 +10,16 @@ The following is a list of guidelines for contributing to StoryEngine, which is 
 
 [Code of Conduct](#code-of-conduct)
 
-[How can I contribute](#how-can-I-contribute)
+[How can I contribute](#how-can-I-contribute?)
 
 [Your first contribution](#your-first-contribution)
 
 [Issue and pull request labels](#issue-and-pull-request-labels)
 
-## Code of conduct
+## Code of Conduct
 This project and everyone participating in it are governed by the [StoryEngine Code of Conduct](https://github.com/LoupDesign/StoryEngine/blob/master/CODE%20OF%20CONDUCT.md). This is the code you are expected to uphold if you choose to participate in this project. Please report any unacceptable behavior to github@loup.design.
 
-## How can I contribute?
+## How can I Contribute?
 
 ### Tackle an issue / further the project
 Help us tackle issues. These [labels](#issue-and-pull-request-labels) will help you find an issue that matches your talents or expertise. Then use a pull request to help resolve the issue.
