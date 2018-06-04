@@ -10,7 +10,7 @@ The following is a list of guidelines for contributing to StoryEngine, which is 
 
 [Code of Conduct](#code-of-conduct)
 
-[How can I contribute](#how-can-I-contribute?)
+[How can I contribute](#how-can-I-contribute-?)
 
 [Your first contribution](#your-first-contribution)
 
