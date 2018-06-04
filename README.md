@@ -1,6 +1,6 @@
 # Welcome to the StoryEngine Repo!
 
-StoryEngine is way to listen to, support, and create with the people who matter most to an organization or a cause. It can be used to do research, to monitor or evaluate a program, to generate learning, or facilitate grant reporting. StoryEngine is based in-depth interviews that get transformed into stories. These stories are assets — for communications, advocacy, and more — as well as data. Together the stories create larger dataset that can analyzed to surface insights and learning that inform decision-making.
+StoryEngine is way to listen to, support, and create with the people who matter most to an organization or a cause. It can be used to do research, to monitor or evaluate a program, to generate learning, or facilitate grant reporting. StoryEngine is based in-depth interviews that get transformed into stories. These stories are assets — for communications, advocacy, and more — as well as data. Together the stories create larger dataset that can analyzed to surface insights and learning that inform decision-making. Check out our [StoryEngine repository](https://Storyengine.io)!
 
 # Table of contents
 
