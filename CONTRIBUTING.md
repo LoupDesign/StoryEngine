@@ -12,7 +12,7 @@ The following is a list of guidelines for contributing to StoryEngine, which is 
 
 [How can I Contribute](#how-can-I-contribute)
 
-[Your first Contribution](#your-first-contribution)
+[Your first Contribution](#your-first-contribution?)
 
 [Issue and Pull Request Labels](#issue-and-pull-request-labels)
 
