@@ -1,6 +1,6 @@
 # Welcome to the StoryEngine Repo!
 
-StoryEngine is way to listen to, support, and create with the people who matter most to an organization or a cause. It can be used to do research, to monitor or evaluate a program, to generate learning, or facilitate grant reporting. StoryEngine is based in-depth interviews that get transformed into stories. These stories are assets — for communications, advocacy, and more — as well as data. Together the stories create larger dataset that can analyzed to surface insights and learning that inform decision-making. Check out our [StoryEngine repository](https://Storyengine.io)!
+StoryEngine a narrative-based methodology used to listen to, support, and create with the people who matter most to an organization or a cause. It can be used to do research, to monitor or evaluate a program, to generate learning, or facilitate grant reporting. StoryEngine is based on in-depth interviews that gets transformed into stories. These stories are assets for communications, advocacy, data collection, and more. Together these stories create a large dataset that can be analyzed to surface insights and learning that inform decision-making. Check out our [StoryEngine repository](https://Storyengine.io)!
 
 # Table of contents
 
@@ -18,7 +18,7 @@ StoryEngine is way to listen to, support, and create with the people who matter 
 [I want to use StoryEngine!](#i-want-to-use-storyengine)
 
 # Code of conduct
-This project and everyone participating in it is governed by the [StoryEngine Code of Conduct](https://github.com/LoupDesign/StoryEngine/blob/master/CODE%20OF%20CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to github@loup.design.
+This project and everyone participating is governed by the [StoryEngine Code of Conduct](https://github.com/LoupDesign/StoryEngine/blob/master/CODE%20OF%20CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to github@loup.design.
 
 # Learn more
 
@@ -51,7 +51,7 @@ For more detail on each of these use cases, read the Introduction to the [StoryE
 
 # Where are we now?
 
-StoryEngine was developed by [Loup](https://loup.design) for the [Mozilla Foundation](https://mozilla.org). The pilot phase is now complete, as well as the initial documentation for others to use and adapt. Mozilla has institutionalized key StoryEngine practices and narratives will be shared via Mozilla Pulse. Loup will continue to steward StoryEngine’s development, and is currently using it with other organizations. See the [Learning and History](https://loup.gitbooks.io/storyengine/content/learning.html) chapter in the StoryEngine Guide to learn more.
+StoryEngine was developed by [Loup](https://loup.design) for the [Mozilla Foundation](https://mozilla.org). The pilot phase is now complete, as well as the initial documentation for others to use and adapt. Mozilla has institutionalized key StoryEngine practices and narratives will be shared via Mozilla Pulse. Loup will continue to steward StoryEngine’s development and is currently using it with other organizations. See the [Learning and History](https://loup.gitbooks.io/storyengine/content/learning.html) chapter in the StoryEngine Guide to learn more.
 
 # Want to contribute?
 
