@@ -11,7 +11,6 @@ March 30, 2018: Bring on 1-2 organizations to implement StoryEngine
 May 10, 2018: [Global Sprint](https://mozilla.github.io/global-sprint/)
 
 ## Tasks
-- Reach out to ViequesLove + Rebus with offers to mentor their organization through the StoryEngine process
 - Host a call with the organizations to answer questions about StoryEngine and get them started using the methodology
 - Create specific and easy to understand tasks for volunteers of the Global sprint
 - Advertise the StoryEngine + Global Sprint
